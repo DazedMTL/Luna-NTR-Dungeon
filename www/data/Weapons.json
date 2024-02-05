@@ -1,0 +1,3885 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "----剣(アラシ)-------",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 2,
+        "animationId": 6,
+        "description": "多くの冒険者が装備している扱いやすい剣【アラシ専用】\n【攻+2・魔+1】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "冒険者の剣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "price": 5200,
+        "wtypeId": 2
+    },
+    {
+        "id": 3,
+        "animationId": 6,
+        "description": "青銅から作られた特に珍しくない剣【アラシ専用】\n【攻+3・魔+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "ブロンドソード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            2,
+            0,
+            0,
+            0
+        ],
+        "price": 9100,
+        "wtypeId": 2
+    },
+    {
+        "id": 4,
+        "animationId": 6,
+        "description": "鋭い切れ味で１ランク上の戦闘用剣【アラシ専用】\n【攻+5・魔+3】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "長剣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            3,
+            0,
+            0,
+            0
+        ],
+        "price": 18000,
+        "wtypeId": 2
+    },
+    {
+        "id": 5,
+        "animationId": 7,
+        "description": "魔法の金属ミスリルで作られた魔法力がやや上昇する剣【アラシ専用】\n【攻+7・魔+8】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "ミスリルソード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            7,
+            0,
+            8,
+            0,
+            0,
+            0
+        ],
+        "price": 27000,
+        "wtypeId": 2
+    },
+    {
+        "id": 6,
+        "animationId": 7,
+        "description": "珍獣であるドラゴンの牙を加工して作られたレアな剣【アラシ専用】\n【攻+9・魔+9】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "竜牙の剣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            9,
+            0,
+            9,
+            0,
+            0,
+            0
+        ],
+        "price": 38000,
+        "wtypeId": 2
+    },
+    {
+        "id": 7,
+        "animationId": 6,
+        "description": "通常攻撃が全体攻撃で2回攻撃できる剣【アラシ専用】\n【攻+7・魔+7】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "ツインソード",
+        "note": "<skill_id:63>",
+        "params": [
+            0,
+            0,
+            7,
+            0,
+            7,
+            0,
+            0,
+            0
+        ],
+        "price": 57000,
+        "wtypeId": 2
+    },
+    {
+        "id": 8,
+        "animationId": 11,
+        "description": "闇属性攻撃で敵のHPを吸収し使用者のHPを回復する剣【アラシ専用】\n【攻+7・防-2・魔+7・魔防-2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "ブラッドソード",
+        "note": "<skill_id:50>",
+        "params": [
+            0,
+            0,
+            7,
+            -2,
+            7,
+            -2,
+            0,
+            0
+        ],
+        "price": 66000,
+        "wtypeId": 2
+    },
+    {
+        "id": 9,
+        "animationId": 7,
+        "description": "使用者の能力を向上させる効果を持つ【アラシ専用】\n【攻+12・魔+12】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "英雄の剣",
+        "note": "",
+        "params": [
+            0,
+            0,
+            12,
+            0,
+            12,
+            0,
+            0,
+            0
+        ],
+        "price": 50000,
+        "wtypeId": 2
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 12,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "----斧(ドルトン)-----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 13,
+        "animationId": 176,
+        "description": "斧使いなら誰でも持っている普通の斧【ドルトン専用】\n【攻+2・防+1】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "薪割り斧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4800,
+        "wtypeId": 4
+    },
+    {
+        "id": 14,
+        "animationId": 176,
+        "description": "一般的な斧を改良し威力が多少向上した斧【ドルトン専用】\n【攻+4・防+2・魔+1・魔防+1】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "ブロードアックス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            4,
+            2,
+            1,
+            1,
+            0,
+            0
+        ],
+        "price": 10000,
+        "wtypeId": 4
+    },
+    {
+        "id": 15,
+        "animationId": 176,
+        "description": "１ランク上の冒険者が装備する銀素材でできた戦闘用斧【ドルトン専用】\n【攻+5・防+3・魔+2・魔防+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "銀の斧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            3,
+            2,
+            2,
+            0,
+            0
+        ],
+        "price": 19000,
+        "wtypeId": 4
+    },
+    {
+        "id": 16,
+        "animationId": 176,
+        "description": "攻撃力は高いが重量がある分だけ敏捷が落ちる【ドルトン専用】\n【攻+9・防+4・魔+2・魔防+2・敏-5】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "鉄の斧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            9,
+            4,
+            2,
+            2,
+            -5,
+            0
+        ],
+        "price": 27000,
+        "wtypeId": 4
+    },
+    {
+        "id": 17,
+        "animationId": 177,
+        "description": "攻撃力だけでなく魔法力もやや上昇する斧【ドルトン専用】\n【攻+7・防+3・魔+5・魔防+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "ミスリルアックス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            7,
+            3,
+            5,
+            4,
+            0,
+            0
+        ],
+        "price": 25000,
+        "wtypeId": 4
+    },
+    {
+        "id": 18,
+        "animationId": 186,
+        "description": "闇属性攻撃で敵のHPを吸収し使用者のHPを回復する斧【ドルトン専用】\n【攻+7・防-2・魔+7・魔防-2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "悪魔の斧",
+        "note": "<skill_id:50>",
+        "params": [
+            0,
+            0,
+            7,
+            -2,
+            7,
+            -2,
+            0,
+            0
+        ],
+        "price": 60000,
+        "wtypeId": 4
+    },
+    {
+        "id": 19,
+        "animationId": 177,
+        "description": "上級ランクの希少な斧で能力をかなり向上させる効果を持つ【ドルトン専用】\n【攻+12・防+3・魔+12・魔防+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 99,
+        "name": "金の斧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            12,
+            3,
+            12,
+            2,
+            0,
+            0
+        ],
+        "price": 50000,
+        "wtypeId": 4
+    },
+    {
+        "id": 20,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 21,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "----魔導書(彼女)-----",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 24,
+        "animationId": 1,
+        "description": "魔術系冒険者がもっている基本的な魔導書【ルナ専用】\n【攻+1・防+1・魔+2・魔防+3・最大MP+50】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "基礎魔導書",
+        "note": "",
+        "params": [
+            0,
+            50,
+            1,
+            1,
+            2,
+            3,
+            0,
+            0
+        ],
+        "price": 5000,
+        "wtypeId": 6
+    },
+    {
+        "id": 25,
+        "animationId": 1,
+        "description": "装備した者の魔力向上を補助してくれる魔導書【ルナ専用】\n【攻+2・防+3・魔+5・魔防+4・最大MP+100】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "初級魔導書",
+        "note": "",
+        "params": [
+            0,
+            100,
+            2,
+            3,
+            5,
+            4,
+            0,
+            0
+        ],
+        "price": 14000,
+        "wtypeId": 6
+    },
+    {
+        "id": 26,
+        "animationId": 1,
+        "description": "1ランク上の魔導書で能力向上を強化したアイテム【ルナ専用】\n【攻+3・防+4・魔+7・魔防+6・最大MP+200】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "中級魔導書",
+        "note": "",
+        "params": [
+            0,
+            200,
+            3,
+            4,
+            7,
+            6,
+            0,
+            0
+        ],
+        "price": 29000,
+        "wtypeId": 6
+    },
+    {
+        "id": 27,
+        "animationId": 1,
+        "description": "魔導書の中で能力値向上が最高ランクのアイテム【ルナ専用】\n【攻+5・防+6・魔+10・魔防+8・最大MP+500】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 121,
+        "name": "上級魔導書",
+        "note": "",
+        "params": [
+            0,
+            500,
+            5,
+            6,
+            10,
+            8,
+            0,
+            0
+        ],
+        "price": 45000,
+        "wtypeId": 6
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 29,
+        "animationId": 1,
+        "description": "獲得できる経験値が\"2倍\"になるが代償で装備者の全能力値が一律低下する【ルナ専用】\n【攻-10・防-10・魔-10・魔防-10・敏-10・運-10・最大MP-500】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 2
+            }
+        ],
+        "iconIndex": 121,
+        "name": "試練の魔導書",
+        "note": "",
+        "params": [
+            0,
+            -500,
+            -10,
+            -10,
+            -10,
+            -10,
+            -10,
+            -10
+        ],
+        "price": 60000,
+        "wtypeId": 6
+    },
+    {
+        "id": 30,
+        "animationId": 1,
+        "description": "装備者をあらゆる状態異常から守り無効化する魔導書【ルナ専用】\n【攻+2・防+2・魔+4・魔防+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 23,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 42,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 43,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 44,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 45,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 46,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 47,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 48,
+                "value": 1
+            }
+        ],
+        "iconIndex": 121,
+        "name": "無効の魔導書",
+        "note": "",
+        "params": [
+            0,
+            0,
+            2,
+            2,
+            4,
+            4,
+            0,
+            0
+        ],
+        "price": 57000,
+        "wtypeId": 6
+    },
+    {
+        "id": 31,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 102,
+        "name": "----弓(彼氏)---------",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 35,
+        "animationId": 142,
+        "description": "冒険者たちがよく装備している一般的な弓【\\N[2]専用】\n【攻+2・魔+1】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "ショートボウ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "price": 4900,
+        "wtypeId": 7
+    },
+    {
+        "id": 36,
+        "animationId": 142,
+        "description": "威力が少し向上した戦闘用の長弓【\\N[2]専用】\n【攻+3・魔+3】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "ロングボウ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            3,
+            0,
+            0,
+            0
+        ],
+        "price": 13500,
+        "wtypeId": 7
+    },
+    {
+        "id": 37,
+        "animationId": 143,
+        "description": "銀素材で強化した１ランク上の弓【\\N[2]専用】\n【攻+5・魔+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "銀の弓",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            4,
+            0,
+            0,
+            0
+        ],
+        "price": 21000,
+        "wtypeId": 7
+    },
+    {
+        "id": 38,
+        "animationId": 142,
+        "description": "攻撃性はあるものの重量があり敏捷性が落ちる【\\N[2]専用】\n【攻+7・魔+2・敏-4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "鉄の弓",
+        "note": "",
+        "params": [
+            0,
+            0,
+            7,
+            0,
+            2,
+            0,
+            -4,
+            0
+        ],
+        "price": 25000,
+        "wtypeId": 7
+    },
+    {
+        "id": 39,
+        "animationId": 143,
+        "description": "魔法の金属ミスリルで作られた魔力が向上する弓【\\N[2]専用】\n【攻+6・魔+8・魔防+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "ミスリルボウ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            8,
+            4,
+            0,
+            0
+        ],
+        "price": 33000,
+        "wtypeId": 7
+    },
+    {
+        "id": 40,
+        "animationId": 143,
+        "description": "使用者の能力を向上させる効果を持つ【\\N[2]専用】\n【攻+12・魔+11・敏+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "キングボウ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            12,
+            0,
+            11,
+            0,
+            4,
+            0
+        ],
+        "price": 49000,
+        "wtypeId": 7
+    },
+    {
+        "id": 41,
+        "animationId": 144,
+        "description": "通常攻撃が炎属性となる魔法の弓【\\N[2]専用】\n【攻+3・魔+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "烈火の弓",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            2,
+            0,
+            0,
+            0
+        ],
+        "price": 15000,
+        "wtypeId": 7
+    },
+    {
+        "id": 42,
+        "animationId": 145,
+        "description": "通常攻撃が氷属性となる魔法の弓【\\N[2]専用】\n【攻+5・魔+4】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "氷結の弓",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            4,
+            0,
+            0,
+            0
+        ],
+        "price": 23000,
+        "wtypeId": 7
+    },
+    {
+        "id": 43,
+        "animationId": 146,
+        "description": "通常攻撃が雷属性となる魔法の弓【\\N[2]専用】\n【攻+6・魔+6】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 103,
+        "name": "雷光の弓",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            6,
+            0,
+            0,
+            0
+        ],
+        "price": 27000,
+        "wtypeId": 7
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "----木刀(ショウタ)---------",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 48,
+        "animationId": 6,
+        "description": "稽古などトレーニングによく使用される安価な木刀【ショウタ専用】\n【攻+4・防+1】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "木刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            4,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4000,
+        "wtypeId": 1
+    },
+    {
+        "id": 49,
+        "animationId": 6,
+        "description": "軽くて丈夫な木刀で打撃力もそこそこある【ショウタ専用】\n【攻+6・防+2・敏+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "アオダモの木刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "price": 16000,
+        "wtypeId": 1
+    },
+    {
+        "id": 50,
+        "animationId": 6,
+        "description": "上質でいい香りのする木刀でHPまでも上昇する【ショウタ専用】\n【攻+9・防+4・HP+300】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "ヒノキの木刀",
+        "note": "",
+        "params": [
+            300,
+            0,
+            9,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 25000,
+        "wtypeId": 1
+    },
+    {
+        "id": 51,
+        "animationId": 7,
+        "description": "数々の試練を乗り越えた冒険者が装備していた木刀【ショウタ専用】\n【攻+15・防+7・敏+5】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "百戦錬磨の木刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            15,
+            7,
+            0,
+            0,
+            5,
+            0
+        ],
+        "price": 40000,
+        "wtypeId": 1
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 53,
+        "animationId": 6,
+        "description": "柔軟性が高くよくしなるため敵に2度ダメージを与えることができる木刀【ショウタ専用】\n【攻+5・防+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 110,
+        "name": "竹刀",
+        "note": "<skill_id:286>",
+        "params": [
+            0,
+            0,
+            5,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 18000,
+        "wtypeId": 1
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 55,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 56,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "----メリケン(ボブ)---------",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 57,
+        "animationId": 1,
+        "description": "素手と比べて殴打時の反動が軽減できる【ボブ専用】\n【攻+3・防+1・敏+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "メリケンサック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            1,
+            0,
+            0,
+            2,
+            0
+        ],
+        "price": 5500,
+        "wtypeId": 12
+    },
+    {
+        "id": 58,
+        "animationId": 1,
+        "description": "通常のものより硬度が高く攻撃力も向上する【ボブ専用】\n【攻+5・防+2・敏+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "銀のメリケン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            2,
+            0,
+            0,
+            2,
+            0
+        ],
+        "price": 9800,
+        "wtypeId": 12
+    },
+    {
+        "id": 59,
+        "animationId": 1,
+        "description": "強度に優れた合金のメリケンサック【ボブ専用】\n【攻+6・防+4・敏+3】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "鋼のメリケン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            4,
+            0,
+            0,
+            3,
+            0
+        ],
+        "price": 16000,
+        "wtypeId": 12
+    },
+    {
+        "id": 60,
+        "animationId": 2,
+        "description": "戦闘用としてもすぐれており高価なため高く売れる【ボブ専用】\n【攻+8・防+6・敏+3】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "黄金のメリケン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            8,
+            6,
+            0,
+            0,
+            3,
+            0
+        ],
+        "price": 30000,
+        "wtypeId": 12
+    },
+    {
+        "id": 61,
+        "animationId": 2,
+        "description": "軽量で強度もトップクラスの最上級メリケンサック【ボブ専用】\n【攻+13・防+9・敏+5】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "チタン製メリケン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            13,
+            9,
+            0,
+            0,
+            5,
+            0
+        ],
+        "price": 50000,
+        "wtypeId": 12
+    },
+    {
+        "id": 62,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 63,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 64,
+        "animationId": 19,
+        "description": "攻撃すると使用者のHPが回復する闇のアイテム【ボブ専用】\n【攻+5・防+4・敏+2】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 106,
+        "name": "血のメリケン",
+        "note": "<skill_id:155>",
+        "params": [
+            0,
+            0,
+            5,
+            4,
+            0,
+            0,
+            2,
+            0
+        ],
+        "price": 67000,
+        "wtypeId": 12
+    },
+    {
+        "id": 65,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 78,
+        "animationId": 6,
+        "description": "【刀・攻＋18・命中－8％】\n銘を持たない細身の刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "無銘の刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160,
+        "wtypeId": 5
+    },
+    {
+        "id": 79,
+        "animationId": 6,
+        "description": "【刀・攻＋35・命中－8％】\n破壊力に優れた太刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "斬馬刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 5
+    },
+    {
+        "id": 80,
+        "animationId": 6,
+        "description": "【刀・攻＋55・命中－8％】\n名のある刀匠に鍛えられた業物の刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "虎徹",
+        "note": "",
+        "params": [
+            0,
+            0,
+            55,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 700,
+        "wtypeId": 5
+    },
+    {
+        "id": 81,
+        "animationId": 6,
+        "description": "【刀・攻＋72・命中－8％】\n魔法の金属で作られた太刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "霊銀の太刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            72,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1800,
+        "wtypeId": 5
+    },
+    {
+        "id": 82,
+        "animationId": 6,
+        "description": "【刀・攻＋99・命中－8％】\n血のように刀身が真紅に染まった刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "紅血",
+        "note": "",
+        "params": [
+            0,
+            0,
+            99,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 5
+    },
+    {
+        "id": 83,
+        "animationId": 6,
+        "description": "【刀・攻＋128・命中－8％】\n破邪の力を秘めた刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "七支刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            128,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5500,
+        "wtypeId": 5
+    },
+    {
+        "id": 84,
+        "animationId": 6,
+        "description": "【刀・攻＋158・命中－8％】\n竜の角を加工して作られた刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "竜角刀",
+        "note": "",
+        "params": [
+            0,
+            0,
+            158,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 8000,
+        "wtypeId": 5
+    },
+    {
+        "id": 85,
+        "animationId": 6,
+        "description": "【刀・攻＋63・命中－8％・＋麻痺】\n斬りつけたと同時に相手の影を縛り付けてしまう刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 32,
+                "dataId": 11,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 120,
+        "name": "影殺",
+        "note": "",
+        "params": [
+            0,
+            0,
+            63,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 820,
+        "wtypeId": 5
+    },
+    {
+        "id": 86,
+        "animationId": 6,
+        "description": "【刀・攻＋180・命中－8％】\n剣士達の生き血を吸ってきた魔性の刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 120,
+        "name": "妖刀村正",
+        "note": "",
+        "params": [
+            0,
+            0,
+            180,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12000,
+        "wtypeId": 5
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 89,
+        "animationId": 6,
+        "description": "日常生活にも使えるナイフ",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "ナイフ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 90,
+        "animationId": 6,
+        "description": "幅広の刀身を持つ戦闘用の短刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 96,
+        "name": "ダガー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 91,
+        "animationId": 6,
+        "description": "鋼鉄で作られた短剣",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 96,
+        "name": "アイアンダガー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 92,
+        "animationId": 6,
+        "description": "湾曲しているのが特徴の短剣",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.06
+            }
+        ],
+        "iconIndex": 96,
+        "name": "ククリ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            4,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 93,
+        "animationId": 6,
+        "description": "攻撃を受け流すこともできる短剣",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 96,
+        "name": "マインゴーシュ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 94,
+        "animationId": 6,
+        "description": "暗殺者が好んで使う漆黒の短刀",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.07
+            }
+        ],
+        "iconIndex": 96,
+        "name": "アサシンダガー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 95,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 96,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 97,
+        "animationId": 6,
+        "description": "【短剣・攻＋65・命中＋4％・会心＋3％・回避＋9％】\nその名の通り、剣を折ることのできる短剣",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.09
+            }
+        ],
+        "iconIndex": 96,
+        "name": "ソードブレイカー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            65,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 0
+    },
+    {
+        "id": 98,
+        "animationId": 6,
+        "description": "【短剣・攻+82・敏+10・命中+4%・会心+3%・回避+10%】\n竜巻の名を冠する魔法の短剣",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 96,
+        "name": "魔刃ヴォーテクス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            82,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 0
+    },
+    {
+        "id": 99,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 100,
+        "animationId": 111,
+        "description": "【銃・攻＋16】\n初心者用の小型銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "ハンドガン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            16,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 9
+    },
+    {
+        "id": 101,
+        "animationId": 111,
+        "description": "【銃・攻＋30】\n火打ち式の旧式拳銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "フリントロック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 480,
+        "wtypeId": 9
+    },
+    {
+        "id": 102,
+        "animationId": 111,
+        "description": "【銃・攻＋48】\n銃士に支給される歩兵銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "マスケット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 670,
+        "wtypeId": 9
+    },
+    {
+        "id": 103,
+        "animationId": 111,
+        "description": "【銃・攻＋66】\n騎兵が使用するカービン銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "ドラグーン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            66,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1500,
+        "wtypeId": 9
+    },
+    {
+        "id": 104,
+        "animationId": 111,
+        "description": "【銃・攻＋84】\n魔法の金属ミスリルの銃身を持つ銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "霊銀銃",
+        "note": "",
+        "params": [
+            0,
+            0,
+            84,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2700,
+        "wtypeId": 9
+    },
+    {
+        "id": 105,
+        "animationId": 111,
+        "description": "【銃・攻＋108】\n黒色火薬を用いたリボルバー式拳銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "ピースメイカー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            108,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4800,
+        "wtypeId": 9
+    },
+    {
+        "id": 106,
+        "animationId": 111,
+        "description": "【銃・攻＋132】\n地獄の番犬の名を冠した、銃口が3つに分かれている拳銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "ケルベロス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            132,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 7000,
+        "wtypeId": 9
+    },
+    {
+        "id": 107,
+        "animationId": 111,
+        "description": "【銃・攻＋57・＋毒】\n毒サソリの名を冠した拳銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 32,
+                "dataId": 4,
+                "value": 0.6
+            }
+        ],
+        "iconIndex": 104,
+        "name": "スコーピオン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            57,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 790,
+        "wtypeId": 9
+    },
+    {
+        "id": 108,
+        "animationId": 111,
+        "description": "【銃・攻＋84・会心＋40％・装備者のスキル封印】\nバネの力で弾を発射するおもちゃの銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.4
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "銀玉鉄砲",
+        "note": "",
+        "params": [
+            0,
+            0,
+            84,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3300,
+        "wtypeId": 9
+    },
+    {
+        "id": 109,
+        "animationId": 111,
+        "description": "【銃・攻＋160・魔＋5】\n霊子を弾丸に換えて撃ち出す魔銃",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": -5
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "魔銃エーテルブラスト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            160,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 10500,
+        "wtypeId": 9
+    }
+]

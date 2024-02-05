@@ -1,0 +1,265 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Kanojo",
+        "classId": 4,
+        "equips": [
+            24,
+            0,
+            2,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ルナ",
+        "nickname": "",
+        "note": "<LevelUpVoice:Runa_LevelUp>\n<処女スキル:20,9>\n<攻撃ボイス:Runa_Attack1,100,100,0 | Runa_Attack2,100,100,0 | Runa_Attack3,100,100,0 | Runa_Attack4,100,100,0 | Runa_Attack5,100,100,0 | Runa_Attack6,100,100,0 | Runa_Attack7,100,100,0 | Runa_Attack8,100,100,0>\n<ダメージボイス:Runa_Damage1,100,100,0 | Runa_Damage2,100,100,0 | Runa_Damage3,100,100,0 | Runa_Damage4,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage6,100,100,0 | Runa_Damage7,100,100,0 | Runa_Damage8,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage10,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス1:Runa_Damage2,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Runa_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Runa_Special,100,100,0>\n<死亡ボイス:Runa_Death1,100,100 | Runa_Death2,100,100>\n<アーマー:SD_Kanojo,0>\n<マイクロビキニ:SD_Kanojo,1>\n<nude:SD_Kanojo,2>",
+        "profile": "\\N[2]の彼女ではあるが純潔でプラトニックラブな関係\n魔法を得意としており全般的に使いこなせる魔術師"
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Kareshi",
+        "classId": 7,
+        "equips": [
+            35,
+            0,
+            3,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ヨースケ",
+        "nickname": "",
+        "note": "<LevelUpVoice:Non_LevelUp>\n<処女スキル:21,10>\n<攻撃ボイス:Non_Attack1,100,100,0>\n<ダメージボイス:Non_Damage1,100,100,0>\n<拘束ボイス1:Non_Damage1,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Non_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Non_Special1,100,100,0>\n<死亡ボイス:Non_Death1,100,100>\n<noBind>",
+        "profile": "\\N[1]の彼氏で婚前交渉しないと決めているためプラトニックな関係の童貞男\n狩人としてはごく平均的な能力の冒険者で武器は弓矢"
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Dalton",
+        "classId": 2,
+        "equips": [
+            13,
+            0,
+            4,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 10,
+        "maxLevel": 99,
+        "name": "ドルトン",
+        "nickname": "",
+        "note": "<noBind>",
+        "profile": "小太りでムッツリスケベな中年冒険者【拠点：スラム】\n森林ダンジョンではその大型斧は効果的で頼れる傭兵"
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Arashi",
+        "classId": 10,
+        "equips": [
+            2,
+            0,
+            5,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 9,
+        "maxLevel": 99,
+        "name": "アラシ",
+        "nickname": "",
+        "note": "<noBind>",
+        "profile": "女と金目当てでこの島に来たチャラい冒険者【拠点：村の宿屋】\n剣士としてダンジョン攻略経験もある心強い傭兵"
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Bob",
+        "classId": 5,
+        "equips": [
+            57,
+            0,
+            7,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 11,
+        "maxLevel": 99,
+        "name": "ボブ",
+        "nickname": "",
+        "note": "<noBind>",
+        "profile": "余計な武器は持たず腕っぷしだけで事足りる重量系冒険者【拠点：スラム】\n進行を妨害する岩も驚異的な腕力で破壊できる猛獣系の傭兵"
+    },
+    {
+        "id": 6,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Syota",
+        "classId": 1,
+        "equips": [
+            48,
+            0,
+            6,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 8,
+        "maxLevel": 99,
+        "name": "ショウタ",
+        "nickname": "",
+        "note": "<noBind>",
+        "profile": "夢は世界一の冒険者で子分を引き連れる親分にも憧れる少年【拠点：村】\n小柄な体型を活かし狭い近道も通れる役立つ傭兵"
+    },
+    {
+        "id": 7,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "SD_Inaka_musume",
+        "classId": 8,
+        "equips": [
+            0,
+            0,
+            9,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "田舎娘",
+        "nickname": "",
+        "note": "<noBind>",
+        "profile": "薬草採取と調剤を生業としている引っ込み思案な性格の女の子\n森への警護依頼がきっかけで\\N[2]と出会う"
+    },
+    {
+        "id": 8,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 9,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 10,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]
