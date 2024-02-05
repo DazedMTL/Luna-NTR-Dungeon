@@ -26,7 +26,7 @@
         "name": "ルナ",
         "nickname": "",
         "note": "<LevelUpVoice:Runa_LevelUp>\n<処女スキル:20,9>\n<攻撃ボイス:Runa_Attack1,100,100,0 | Runa_Attack2,100,100,0 | Runa_Attack3,100,100,0 | Runa_Attack4,100,100,0 | Runa_Attack5,100,100,0 | Runa_Attack6,100,100,0 | Runa_Attack7,100,100,0 | Runa_Attack8,100,100,0>\n<ダメージボイス:Runa_Damage1,100,100,0 | Runa_Damage2,100,100,0 | Runa_Damage3,100,100,0 | Runa_Damage4,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage6,100,100,0 | Runa_Damage7,100,100,0 | Runa_Damage8,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage10,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス1:Runa_Damage2,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Runa_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Runa_Special,100,100,0>\n<死亡ボイス:Runa_Death1,100,100 | Runa_Death2,100,100>\n<アーマー:SD_Kanojo,0>\n<マイクロビキニ:SD_Kanojo,1>\n<nude:SD_Kanojo,2>",
-        "profile": "\\N[2]の彼女ではあるが純潔でプラトニックラブな関係\n魔法を得意としており全般的に使いこなせる魔術師"
+        "profile": "Taroの彼女ではあるが純潔でプラトニックラブな関係\n魔法を得意としており全般的に使いこなせる魔術師"
     },
     {
         "id": 2,
@@ -54,7 +54,7 @@
         "name": "ヨースケ",
         "nickname": "",
         "note": "<LevelUpVoice:Non_LevelUp>\n<処女スキル:21,10>\n<攻撃ボイス:Non_Attack1,100,100,0>\n<ダメージボイス:Non_Damage1,100,100,0>\n<拘束ボイス1:Non_Damage1,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Non_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Non_Special1,100,100,0>\n<死亡ボイス:Non_Death1,100,100>\n<noBind>",
-        "profile": "\\N[1]の彼氏で婚前交渉しないと決めているためプラトニックな関係の童貞男\n狩人としてはごく平均的な能力の冒険者で武器は弓矢"
+        "profile": "ルナの彼氏で婚前交渉しないと決めているためプラトニックな関係の童貞男\n狩人としてはごく平均的な能力の冒険者で武器は弓矢"
     },
     {
         "id": 3,
@@ -194,7 +194,7 @@
         "name": "田舎娘",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "薬草採取と調剤を生業としている引っ込み思案な性格の女の子\n森への警護依頼がきっかけで\\N[2]と出会う"
+        "profile": "薬草採取と調剤を生業としている引っ込み思案な性格の女の子\n森への警護依頼がきっかけでTaroと出会う"
     },
     {
         "id": 8,

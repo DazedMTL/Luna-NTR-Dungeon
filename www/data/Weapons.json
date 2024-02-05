@@ -1200,7 +1200,7 @@
     {
         "id": 35,
         "animationId": 142,
-        "description": "冒険者たちがよく装備している一般的な弓【\\N[2]専用】\n【攻+2・魔+1】",
+        "description": "冒険者たちがよく装備している一般的な弓【Taro専用】\n【攻+2・魔+1】",
         "etypeId": 1,
         "traits": [
             {
@@ -1233,7 +1233,7 @@
     {
         "id": 36,
         "animationId": 142,
-        "description": "威力が少し向上した戦闘用の長弓【\\N[2]専用】\n【攻+3・魔+3】",
+        "description": "威力が少し向上した戦闘用の長弓【Taro専用】\n【攻+3・魔+3】",
         "etypeId": 1,
         "traits": [
             {
@@ -1266,7 +1266,7 @@
     {
         "id": 37,
         "animationId": 143,
-        "description": "銀素材で強化した１ランク上の弓【\\N[2]専用】\n【攻+5・魔+4】",
+        "description": "銀素材で強化した１ランク上の弓【Taro専用】\n【攻+5・魔+4】",
         "etypeId": 1,
         "traits": [
             {
@@ -1299,7 +1299,7 @@
     {
         "id": 38,
         "animationId": 142,
-        "description": "攻撃性はあるものの重量があり敏捷性が落ちる【\\N[2]専用】\n【攻+7・魔+2・敏-4】",
+        "description": "攻撃性はあるものの重量があり敏捷性が落ちる【Taro専用】\n【攻+7・魔+2・敏-4】",
         "etypeId": 1,
         "traits": [
             {
@@ -1332,7 +1332,7 @@
     {
         "id": 39,
         "animationId": 143,
-        "description": "魔法の金属ミスリルで作られた魔力が向上する弓【\\N[2]専用】\n【攻+6・魔+8・魔防+4】",
+        "description": "魔法の金属ミスリルで作られた魔力が向上する弓【Taro専用】\n【攻+6・魔+8・魔防+4】",
         "etypeId": 1,
         "traits": [
             {
@@ -1365,7 +1365,7 @@
     {
         "id": 40,
         "animationId": 143,
-        "description": "使用者の能力を向上させる効果を持つ【\\N[2]専用】\n【攻+12・魔+11・敏+4】",
+        "description": "使用者の能力を向上させる効果を持つ【Taro専用】\n【攻+12・魔+11・敏+4】",
         "etypeId": 1,
         "traits": [
             {
@@ -1398,7 +1398,7 @@
     {
         "id": 41,
         "animationId": 144,
-        "description": "通常攻撃が炎属性となる魔法の弓【\\N[2]専用】\n【攻+3・魔+2】",
+        "description": "通常攻撃が炎属性となる魔法の弓【Taro専用】\n【攻+3・魔+2】",
         "etypeId": 1,
         "traits": [
             {
@@ -1431,7 +1431,7 @@
     {
         "id": 42,
         "animationId": 145,
-        "description": "通常攻撃が氷属性となる魔法の弓【\\N[2]専用】\n【攻+5・魔+4】",
+        "description": "通常攻撃が氷属性となる魔法の弓【Taro専用】\n【攻+5・魔+4】",
         "etypeId": 1,
         "traits": [
             {
@@ -1464,7 +1464,7 @@
     {
         "id": 43,
         "animationId": 146,
-        "description": "通常攻撃が雷属性となる魔法の弓【\\N[2]専用】\n【攻+6・魔+6】",
+        "description": "通常攻撃が雷属性となる魔法の弓【Taro専用】\n【攻+6・魔+6】",
         "etypeId": 1,
         "traits": [
             {
