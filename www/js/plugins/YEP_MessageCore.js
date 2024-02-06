@@ -1286,7 +1286,7 @@ Window_Message.prototype.standardFontFace = function () {
 };
 
 Window_Message.prototype.standardFontSize = function () {
-  return $gameSystem.getMessageFontSize();
+  return $gameSystem.getMessageFontSize() - 4;
 };
 
 Window_Message.prototype.newLineX = function () {

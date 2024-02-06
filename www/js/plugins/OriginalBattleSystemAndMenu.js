@@ -2329,11 +2329,11 @@
   };
 
   Window_ActorCommand.prototype.addLeaveCommand = function () {
-    this.addCommand("そのまま", "leave", true);
+    this.addCommand("Wait", "leave", true);
   };
 
   Window_ActorCommand.prototype.addStandUpCommand = function () {
-    this.addCommand("立ち上がる", "standUp", true);
+    this.addCommand("Stand Up", "standUp", true);
   };
 
   Window_ActorCommand.prototype.addAttackCommand = function () {
