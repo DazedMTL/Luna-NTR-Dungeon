@@ -31238,7 +31238,7 @@
         {
             "id": 5,
             "name": "EV005",
-            "note": "<namePop:アイテム屋 -44 >",
+            "note": "<namePop:Item_Shop -44 >",
             "pages": [
                 {
                     "conditions": {
@@ -34376,7 +34376,7 @@
         {
             "id": 56,
             "name": "EV056",
-            "note": "<namePop:料理屋 -44 >",
+            "note": "<namePop:Restaurant -44 >",
             "pages": [
                 {
                     "conditions": {
@@ -35302,7 +35302,7 @@
         {
             "id": 66,
             "name": "EV066",
-            "note": "<namePop:道具屋 -44 >",
+            "note": "<namePop:Tool_Shop -44 >",
             "pages": [
                 {
                     "conditions": {
@@ -35422,7 +35422,7 @@
         {
             "id": 68,
             "name": "EV068",
-            "note": "<namePop:ギルド -44 >",
+            "note": "<namePop:Guild -44 >",
             "pages": [
                 {
                     "conditions": {
@@ -35542,7 +35542,7 @@
         {
             "id": 70,
             "name": "EV070",
-            "note": "<namePop:仕立屋 -57 >",
+            "note": "<namePop:Tailor_Shop -57 >",
             "pages": [
                 {
                     "conditions": {
@@ -35602,7 +35602,7 @@
         {
             "id": 71,
             "name": "EV071",
-            "note": "<namePop:宿屋 -44 >",
+            "note": "<namePop:Inn -44 >",
             "pages": [
                 {
                     "conditions": {
@@ -35662,7 +35662,7 @@
         {
             "id": 72,
             "name": "EV072",
-            "note": "<namePop:露天風呂 -57 >",
+            "note": "<namePop:Open-air_Bath -57 >",
             "pages": [
                 {
                     "conditions": {
@@ -38661,7 +38661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>\\N[2]-kun? What's wrong?"
+                                "\\N[2]\\N<Luna>-kun? What's wrong?"
                             ]
                         },
                         {
@@ -39118,7 +39118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>\\N[2]-kun, maybe there are other inns around here? Should we\ncheck them out?"
+                                "\\N[2]\\N<Luna>-kun, maybe there are other inns around here? Should we\ncheck them out?"
                             ]
                         },
                         {
@@ -42029,7 +42029,7 @@
         {
             "id": 104,
             "name": "EV104",
-            "note": "<namePop:ショウタ -5>",
+            "note": "<namePop:Syouta -5>",
             "pages": [
                 {
                     "conditions": {
@@ -42270,7 +42270,7 @@
         {
             "id": 109,
             "name": "EV109",
-            "note": "<namePop:田舎娘 -4>",
+            "note": "<namePop:Country_Girl -4>",
             "pages": [
                 {
                     "conditions": {

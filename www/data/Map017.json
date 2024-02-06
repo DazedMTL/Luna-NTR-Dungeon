@@ -12955,7 +12955,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[23]By defeating the mid-boss of the Ice Snow Field\\C[0],\nyou can now proceed to the next area, the \\C[10]Volcano\nField\\C[0]!"
+                                "\\C[23]By defeating the mid-boss of the Ice Snow Field\\C[0], you\ncan now proceed to the next area, the \\C[10]Volcano\nField\\C[0]!"
                             ]
                         },
                         {
@@ -13387,7 +13387,7 @@
                             "code": 655,
                             "indent": 4,
                             "parameters": [
-                                "\"1_t=3_subject=トロール\""
+                                "\"1_t=3_subject=Troll\""
                             ]
                         },
                         {

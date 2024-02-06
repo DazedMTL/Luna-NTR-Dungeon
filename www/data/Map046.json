@@ -13779,7 +13779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>You don't have to worry so much. After all, I have \\N[2]-kun,\nsomeone very important to me."
+                                "\\N<Luna>You don't have to worry so much. After all, I have\n\\N[2]-kun, someone very important to me."
                             ]
                         },
                         {
@@ -14030,7 +14030,7 @@
         {
             "id": 12,
             "name": "EV012",
-            "note": "<namePop:受付 13 >",
+            "note": "<namePop:Reception 13 >",
             "pages": [
                 {
                     "conditions": {

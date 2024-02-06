@@ -922,8 +922,8 @@
     Window_MenuCommand.prototype.addOriginalCommands;
   Window_MenuCommand.prototype.addOriginalCommands = function () {
     _alias_Window_MenuCommand_addOriginalCommands.call(this);
-    this.addCommand("ＳＮＳ", "SNS", true);
-    this.addCommand("借金返済", "debt", true);
+    this.addCommand("SNS", "SNS", true);
+    this.addCommand("Debt", "debt", true);
   };
 
   const _alias_Window_MenuCommand_select = Window_MenuCommand.prototype.select;

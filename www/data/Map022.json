@@ -6458,7 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The intention was to refuse the payment of the exorbitant\ninterest, but when she was taken hostage, \\N[2] had no choice\nbut to accept the demands."
+                                "The intention was to refuse the payment of the exorbitant\ninterest, but when she was taken hostage, \\N[2] had no\nchoice but to accept the demands."
                             ]
                         },
                         {
@@ -7216,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[2], who was supposed to become happy by proposing,\nsuddenly fell into a life of debt hell, and everything\nbefore him turned pitch black."
+                                "\\N[2], who was supposed to become happy by proposing, suddenly\nfell into a life of debt hell, and everything before him\nturned pitch black."
                             ]
                         },
                         {
@@ -7806,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[2] made his decision with tears held back, out of concern\nfor Luna."
+                                "\\N[2] made his decision with tears held back, out of concern for\nLuna."
                             ]
                         },
                         {

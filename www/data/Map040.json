@@ -7596,7 +7596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[10]Volcanic Field\\C[0] With the defeat of the mid-boss,\nyou can now proceed to the \\C[27]Tentacle Field\\C[0]!"
+                                "\\C[10]Volcanic Field\\C[0] With the defeat of the mid-boss, you can\nnow proceed to the \\C[27]Tentacle Field\\C[0]!"
                             ]
                         },
                         {
@@ -8028,7 +8028,7 @@
                             "code": 655,
                             "indent": 4,
                             "parameters": [
-                                "\"1_t=3_subject=ケルベロス\""
+                                "\"1_t=3_subject=Cerberus\""
                             ]
                         },
                         {

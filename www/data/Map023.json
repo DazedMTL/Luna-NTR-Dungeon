@@ -16571,7 +16571,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Dalton>(Good good, she didn't reject me outright like before – she\nmust be confused about cutting ties with \\N[2]. Heh heh heh～)"
+                                "\\N<Dalton>(Good good, she didn't reject me outright like before – she\nmust be confused about cutting ties with \\N[2]. Heh heh\nheh～)"
                             ]
                         },
                         {
@@ -17318,7 +17318,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[27]By defeating the mid-boss in Tentacle Field\\C[0], you\ncan now proceed to the \\C[10]top floor\\C[0]!"
+                                "\\C[27]By defeating the mid-boss in Tentacle Field\\C[0], you can\nnow proceed to the \\C[10]top floor\\C[0]!"
                             ]
                         },
                         {
@@ -17762,7 +17762,7 @@
                             "code": 655,
                             "indent": 4,
                             "parameters": [
-                                "\"1_t=3_subject=イーヴィルゴッド\""
+                                "\"1_t=3_subject=Evil God\""
                             ]
                         },
                         {

@@ -13538,7 +13538,7 @@
         {
             "id": 2,
             "name": "EV002",
-            "note": "<namePop:酒場 -30 >",
+            "note": "<namePop:Tavern -30 >",
             "pages": [
                 {
                     "conditions": {
@@ -13598,7 +13598,7 @@
         {
             "id": 3,
             "name": "EV003",
-            "note": "<namePop:風俗店 -30 >",
+            "note": "<namePop:Brothel -30 >",
             "pages": [
                 {
                     "conditions": {
@@ -13658,7 +13658,7 @@
         {
             "id": 4,
             "name": "EV004",
-            "note": "<namePop:雑貨屋 -30 >",
+            "note": "<namePop:General_Store -30 >",
             "pages": [
                 {
                     "conditions": {
@@ -13778,7 +13778,7 @@
         {
             "id": 6,
             "name": "EV006",
-            "note": "<namePop:激安宿屋 -30 >",
+            "note": "<namePop:Super_Cheap_Inn -30 >",
             "pages": [
                 {
                     "conditions": {
@@ -13838,7 +13838,7 @@
         {
             "id": 7,
             "name": "EV007",
-            "note": "<namePop:整体院 -30 >",
+            "note": "<namePop:Chiropractic_Clinic -30 >",
             "pages": [
                 {
                     "conditions": {
@@ -17513,7 +17513,7 @@
         {
             "id": 21,
             "name": "EV021",
-            "note": "<namePop:ボブ 43>",
+            "note": "<namePop:Bob 43>",
             "pages": [
                 {
                     "conditions": {
@@ -17573,7 +17573,7 @@
         {
             "id": 22,
             "name": "EV022",
-            "note": "<namePop:ドルトン -5>",
+            "note": "<namePop:Dalton -5>",
             "pages": [
                 {
                     "conditions": {
@@ -17693,7 +17693,7 @@
         {
             "id": 24,
             "name": "EV024",
-            "note": "<namePop:魔女 -5>",
+            "note": "<namePop:Witch -5>",
             "pages": [
                 {
                     "conditions": {
@@ -17813,7 +17813,7 @@
         {
             "id": 26,
             "name": "EV026",
-            "note": "<namePop:牢屋 -5>",
+            "note": "<namePop:Dungeon -5>",
             "pages": [
                 {
                     "conditions": {

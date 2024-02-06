@@ -9455,7 +9455,7 @@
         {
             "id": 8,
             "name": "EV008",
-            "note": "<namePop:受付 13 >",
+            "note": "<namePop:Reception 13 >",
             "pages": [
                 {
                     "conditions": {
@@ -9762,7 +9762,7 @@
         {
             "id": 11,
             "name": "EV011",
-            "note": "<namePop:タワーダンジョン -3 >",
+            "note": "<namePop:Tower_Dungeon -3 >",
             "pages": [
                 {
                     "conditions": {
@@ -10450,7 +10450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Let's challenge the mid-boss on the \\C[0]6th floor of\nthe tower."
+                                "\\C[2]Let's challenge the mid-boss on the \\C[0]6th floor of the\ntower."
                             ]
                         },
                         {
@@ -18961,7 +18961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～Cuckold System～(3/3) The days when rivals appear are as\nfollows: \\C[3]Monday\\C[1]: Arashi, \\C[20]Wednesday\\C[1]:\nDalton, \\C[17]Friday\\C[1]: Syouta,\n\\C[20]Saturday\\C[1]: Bob."
+                                "～Cuckold System～(3/3) The days when rivals appear are as\nfollows: \\C[3]Monday\\C[1]: Arashi, \\C[20]Wednesday\\C[1]:\nDalton, \\C[17]Friday\\C[1]: Syouta, \\C[20]Saturday\\C[1]: Bob."
                             ]
                         },
                         {

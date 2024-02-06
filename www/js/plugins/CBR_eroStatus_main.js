@@ -700,7 +700,7 @@ Window_EroStatus.prototype.update = function () {
               }
             }
           }
-          this.contents.fontSize = size - 8+ dataFAry[k];
+          this.contents.fontSize = size - 10 + dataFAry[k];
           this.contents.context.font = this.contents._makeFontNameText();
           dataWAry[k] = this.contents.context.measureText(strAry[k]).width; //何の為に+4するのか忘れた
           allW += dataWAry[k];
@@ -723,7 +723,7 @@ Window_EroStatus.prototype.update = function () {
           x -= allW;
         }
         for (var k = 0, len2 = strAry.length; k < len2; k++) {
-          this.contents.fontSize = size - 8+ dataFAry[k];
+          this.contents.fontSize = size - 10 + dataFAry[k];
           this.contents.context.font = this.contents._makeFontNameText();
           //bottom→下揃え原点の上　top→上揃え原点の下　center→原点
           var line = ary[i].y;
