@@ -5652,7 +5652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>So this is the final boss monster... If I defeat this boss,\nI can pay off all my debt in one go♪"
+                                "\\N<\\N[2]>So this is the final boss monster... If I defeat this boss,\nI can pay off all my debt in one go♪"
                             ]
                         },
                         {
@@ -5801,7 +5801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>After finally getting here, there's no way I'm giving up!\nI'll definitely defeat you and return to happy days with\nLuna-chan!"
+                                "\\N<\\N[2]>After finally getting here, there's no way I'm giving up!\nI'll definitely defeat you and return to happy days with\nLuna-chan!"
                             ]
                         },
                         {
@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>If you're going to attack with dark shadows, then I'll just\nhave to overcome it with light attribute skills that can cut\nthrough darkness!"
+                                "\\N<\\N[2]>If you're going to attack with dark shadows, then I'll just\nhave to overcome it with light attribute skills that can cut\nthrough darkness!"
                             ]
                         },
                         {
@@ -6784,7 +6784,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Luna>We can think about what comes next later...♪ For now, let's\nreceive the subjugation reward and then consider it with\nTaro-kun"
+                                "\\N<Luna>We can think about what comes next later...♪ For now, let's\nreceive the subjugation reward and then consider it with\n\\N[2]-kun"
                             ]
                         },
                         {
@@ -6880,7 +6880,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... *pant*... *pant*... Yes! I've managed to\ndefeat the strongest monster in the Tower Dungeon all by\nmyself!"
+                                "\\N<\\N[2]>*pant*... *pant*... *pant*... *pant*... Yes! I've managed to\ndefeat the strongest monster in the Tower Dungeon all by\nmyself!"
                             ]
                         },
                         {
@@ -6897,7 +6897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>The confidence I gained from leveling up wasn't an\nillusion... I still can't believe it, but I know for sure\nthis isn't a dream♪"
+                                "\\N<\\N[2]>The confidence I gained from leveling up wasn't an\nillusion... I still can't believe it, but I know for sure\nthis isn't a dream♪"
                             ]
                         },
                         {
@@ -6914,7 +6914,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>With this, the \"conquest of the Tower Dungeon\" ordered by\nthe debt collector is achieved♪ Once I pay off the remaining\ndebt, life on this island will be over..."
+                                "\\N<\\N[2]>With this, the \"conquest of the Tower Dungeon\" ordered by\nthe debt collector is achieved♪ Once I pay off the remaining\ndebt, life on this island will be over..."
                             ]
                         },
                         {
@@ -6931,7 +6931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>It feels like it's been both a long and short journey to get\nhere... When I started my journey, I thought defeating the\nfinal boss was impossible and that I'd somehow manage with\nsmall rewards, but here we are..."
+                                "\\N<\\N[2]>It feels like it's been both a long and short journey to get\nhere... When I started my journey, I thought defeating the\nfinal boss was impossible and that I'd somehow manage with\nsmall rewards, but here we are..."
                             ]
                         },
                         {
@@ -6948,7 +6948,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>Paying off the debt is the goal so I can't bask in this\nsense of achievement forever～ After receiving the\nsubjugation reward and clearing my debt... finally, I can\ncontinue \"that\" with Luna...(heart pounding)"
+                                "\\N<\\N[2]>Paying off the debt is the goal so I can't bask in this\nsense of achievement forever～ After receiving the\nsubjugation reward and clearing my debt... finally, I can\ncontinue \"that\" with Luna...(heart pounding)"
                             ]
                         },
                         {
@@ -6984,7 +6984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... *pant*... *pant*... Yes! We were able to\ndefeat the strongest monster in the Tower Dungeon with our\ncombined strength!"
+                                "\\N<\\N[2]>*pant*... *pant*... *pant*... *pant*... Yes! We were able to\ndefeat the strongest monster in the Tower Dungeon with our\ncombined strength!"
                             ]
                         },
                         {
@@ -7018,7 +7018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>The results of diligently leveling up have paid off♪ Now all\nthat's left is to pay off the remaining debt, and then life\non this island will be over..."
+                                "\\N<\\N[2]>The results of diligently leveling up have paid off♪ Now all\nthat's left is to pay off the remaining debt, and then life\non this island will be over..."
                             ]
                         },
                         {
@@ -7052,7 +7052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>Indeed, we owe them a lot of thanks... But we also have our\nfuture lives to think about, so let's return to our town and\nmove on to what comes next(...finally, I can continue \"that\"\nwith Luna...)"
+                                "\\N<\\N[2]>Indeed, we owe them a lot of thanks... But we also have our\nfuture lives to think about, so let's return to our town and\nmove on to what comes next(...finally, I can continue \"that\"\nwith Luna...)"
                             ]
                         },
                         {
@@ -8492,7 +8492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>What strength... This is the power of darkness... At this\nlevel, I don't stand a chance damn it... And here I thought\nI was confident in my abilities... ugh..."
+                                "\\N<\\N[2]>What strength... This is the power of darkness... At this\nlevel, I don't stand a chance damn it... And here I thought\nI was confident in my abilities... ugh..."
                             ]
                         },
                         {
@@ -8589,7 +8589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>The fight... isn't... over... yet..."
+                                "\\N<\\N[2]>The fight... isn't... over... yet..."
                             ]
                         },
                         {

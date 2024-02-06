@@ -16143,7 +16143,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>*pant*... *pant*... With this, I've defeated all the mid-\nboss monsters in the Tower Dungeon! Mid-bosses are supposed\nto be really strong, but I managed to do it even without\nTaro-kun..."
+                                "\\N<Luna>*pant*... *pant*... With this, I've defeated all the mid-\nboss monsters in the Tower Dungeon! Mid-bosses are supposed\nto be really strong, but I managed to do it even without\n\\N[2]-kun..."
                             ]
                         },
                         {
@@ -16213,7 +16213,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... Yes! Yes! Yes! With this, all the mid-\nbosses have been defeated♪ No matter what kind of monster it\nis, I've leveled up enough to defeat them on my own!"
+                                "\\N<\\N[2]>*pant*... *pant*... Yes! Yes! Yes! With this, all the mid-\nbosses have been defeated♪ No matter what kind of monster it\nis, I've leveled up enough to defeat them on my own!"
                             ]
                         },
                         {
@@ -16230,7 +16230,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>I've been desperately hunting monsters to pay off my debt,\nbut it seems I've not only earned money but also leveled up\nenough to gain confidence..."
+                                "\\N<\\N[2]>I've been desperately hunting monsters to pay off my debt,\nbut it seems I've not only earned money but also leveled up\nenough to gain confidence..."
                             ]
                         },
                         {
@@ -16247,7 +16247,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>That being said... It seems reckless to challenge the final\nboss alone, so it's safer to rely on Luna-chan's strength...\nAlright, the big payday is just ahead, let's prepare\nthoroughly and take it on!"
+                                "\\N<\\N[2]>That being said... It seems reckless to challenge the final\nboss alone, so it's safer to rely on Luna-chan's strength...\nAlright, the big payday is just ahead, let's prepare\nthoroughly and take it on!"
                             ]
                         },
                         {
@@ -16283,7 +16283,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... Victory over an incredible monster! With\nthis, I've managed to defeat all the mid-bosses in the Tower\nDungeon--♪"
+                                "\\N<\\N[2]>*pant*... *pant*... Victory over an incredible monster! With\nthis, I've managed to defeat all the mid-bosses in the Tower\nDungeon--♪"
                             ]
                         },
                         {
@@ -16317,7 +16317,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>That's right, we've been steadily leveling up and we've\nbecome quite strong... I'm feeling confident, next is the\nfinal boss battle... We'll definitely defeat it and end our\njourney!"
+                                "\\N<\\N[2]>That's right, we've been steadily leveling up and we've\nbecome quite strong... I'm feeling confident, next is the\nfinal boss battle... We'll definitely defeat it and end our\njourney!"
                             ]
                         },
                         {
@@ -16447,7 +16447,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Dalton>So here's a proposal～... After we defeat the final boss, how\nabout you break off your relationship with Taro-kun and\nstart dating \"me\"?"
+                                "\\N<Dalton>So here's a proposal～... After we defeat the final boss, how\nabout you break off your relationship with \\N[2]-kun and\nstart dating \"me\"?"
                             ]
                         },
                         {
@@ -16571,7 +16571,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Dalton>(Good good, she didn't reject me outright like before – she\nmust be confused about cutting ties with Taro. Heh heh heh～)"
+                                "\\N<Dalton>(Good good, she didn't reject me outright like before – she\nmust be confused about cutting ties with \\N[2]. Heh heh heh～)"
                             ]
                         },
                         {
@@ -18404,7 +18404,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "With his strength depleted and judging further battle to be\ndangerous, Taro reluctantly decided to escape from the\nsituation for now."
+                                "With his strength depleted and judging further battle to be\ndangerous, \\N[2] reluctantly decided to escape from the\nsituation for now."
                             ]
                         },
                         {

@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro, still unable to recover from his breakup with Luna,\nremained an empty shell even as nearly a year had passed."
+                                "\\N[2], still unable to recover from his breakup with Luna,\nremained an empty shell even as nearly a year had passed."
                             ]
                         },
                         {
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sigh... It's been \"10 months\" since I came back... I just\ncan't find the motivation to do anything... No reason to\ntry, which I guess is to be expected..."
+                                "\\N<\\N[2]>Sigh... It's been \"10 months\" since I came back... I just\ncan't find the motivation to do anything... No reason to\ntry, which I guess is to be expected..."
                             ]
                         },
                         {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Luna-chan is gone... I know that, but I can't stop dwelling\non it... Me."
+                                "\\N<\\N[2]>Luna-chan is gone... I know that, but I can't stop dwelling\non it... Me."
                             ]
                         },
                         {
@@ -3457,7 +3457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sigh... I'm hungry, maybe I should go buy something..."
+                                "\\N<\\N[2]>Sigh... I'm hungry, maybe I should go buy something..."
                             ]
                         },
                         {
@@ -3586,7 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...A package? But I haven't ordered anything online..."
+                                "\\N<\\N[2]>...A package? But I haven't ordered anything online..."
                             ]
                         },
                         {
@@ -3660,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>A device...? I don't remember ordering this..."
+                                "\\N<\\N[2]>A device...? I don't remember ordering this..."
                             ]
                         },
                         {
@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>There's some video on it... Is it an ad? I'm really not in\nthe mood to watch it now..."
+                                "\\N<\\N[2]>There's some video on it... Is it an ad? I'm really not in\nthe mood to watch it now..."
                             ]
                         },
                         {
@@ -3712,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>What's this uneasy feeling... Well, I might as well check it\nout..."
+                                "\\N<\\N[2]>What's this uneasy feeling... Well, I might as well check it\nout..."
                             ]
                         },
                         {

@@ -7283,7 +7283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Taro Kiss] The scene is not yet unlocked. *Hint: Opening"
+                                "[\\N[2] Kiss] The scene is not yet unlocked. *Hint: Opening"
                             ]
                         },
                         {
@@ -7548,7 +7548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Taro Happy Ending] Scene is not yet unlocked. *Hint: \"The\nperson who wants to do H\" leads to Taro's ending."
+                                "[\\N[2] Happy Ending] Scene is not yet unlocked. *Hint: \"The\nperson who wants to do H\" leads to \\N[2]'s ending."
                             ]
                         },
                         {
@@ -7650,7 +7650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you like to view the 【Taro Happy Ending】 scene?"
+                                "Would you like to view the 【\\N[2] Happy Ending】 scene?"
                             ]
                         },
                         {
@@ -25449,7 +25449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Peeking into Taro's Cell] The scene is not yet available.\n*Hint: Slum's prison at night"
+                                "[Peeking into \\N[2]'s Cell] The scene is not yet available.\n*Hint: Slum's prison at night"
                             ]
                         },
                         {
@@ -25551,7 +25551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to watch the \"Taro Peeking into the Cell\" scene?"
+                                "Do you want to watch the \"\\N[2] Peeking into the Cell\" scene?"
                             ]
                         },
                         {

@@ -11985,7 +11985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>Maybe I've become stronger than Taro-kun♪ As an adventurer,\nbeing strong is always better, so I'll work even harder at\ndungeon exploration~"
+                                "\\N<Luna>Maybe I've become stronger than \\N[2]-kun♪ As an adventurer,\nbeing strong is always better, so I'll work even harder at\ndungeon exploration~"
                             ]
                         },
                         {
@@ -12021,7 +12021,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... Yes! I was able to defeat such a huge\nformidable monster alone... I honestly thought I was done\nfor, but leveling up paid off... Phew~~"
+                                "\\N<\\N[2]>*pant*... *pant*... Yes! I was able to defeat such a huge\nformidable monster alone... I honestly thought I was done\nfor, but leveling up paid off... Phew~~"
                             ]
                         },
                         {
@@ -12038,7 +12038,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>I haven't been able to show Luna-chan anything cool lately,\nso maybe this will make her fall for me again~~~ just\nkidding."
+                                "\\N<\\N[2]>I haven't been able to show Luna-chan anything cool lately,\nso maybe this will make her fall for me again~~~ just\nkidding."
                             ]
                         },
                         {
@@ -12055,7 +12055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Alright, we're about halfway through the dungeon\nexploration... I'll keep leveling up and conquer the next\nfield!!"
+                                "\\N<\\N[2]>Alright, we're about halfway through the dungeon\nexploration... I'll keep leveling up and conquer the next\nfield!!"
                             ]
                         },
                         {
@@ -12091,7 +12091,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*... *pant*... Yes, we did it, we defeated the giant\nmonster, woohoo~!"
+                                "\\N<\\N[2]>*pant*... *pant*... Yes, we did it, we defeated the giant\nmonster, woohoo~!"
                             ]
                         },
                         {
@@ -12125,7 +12125,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>That's right, being able to celebrate a victory with Luna-\nchan makes all the leveling up worth it♪"
+                                "\\N<\\N[2]>That's right, being able to celebrate a victory with Luna-\nchan makes all the leveling up worth it♪"
                             ]
                         },
                         {
@@ -12142,7 +12142,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>The dungeon is about halfway done... Let's conquer it in one\ngo!"
+                                "\\N<\\N[2]>The dungeon is about halfway done... Let's conquer it in one\ngo!"
                             ]
                         },
                         {
@@ -13945,7 +13945,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "With his energy drained and judging further battle to be\ndangerous, Taro decided to escape from the scene, though he\nleft with a sense of frustration"
+                                "With his energy drained and judging further battle to be\ndangerous, \\N[2] decided to escape from the scene, though he\nleft with a sense of frustration"
                             ]
                         },
                         {

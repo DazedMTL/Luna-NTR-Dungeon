@@ -10226,7 +10226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yeah, you're right... I've been so preoccupied with paying\noff debts that I hadn't even thought about how we're going\nto live..."
+                                "\\N<\\N[2]>Yeah, you're right... I've been so preoccupied with paying\noff debts that I hadn't even thought about how we're going\nto live..."
                             ]
                         },
                         {
@@ -10243,7 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Making Luna-chan go through such inconvenience... I'm really\nfailing as a boyfriend."
+                                "\\N<\\N[2]>Making Luna-chan go through such inconvenience... I'm really\nfailing as a boyfriend."
                             ]
                         },
                         {
@@ -10276,7 +10276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>I'm fine with it, as long as I can be with you, Taro-kun,\nanywhere is good."
+                                "\\N<Luna>I'm fine with it, as long as I can be with you, \\N[2]-kun,\nanywhere is good."
                             ]
                         },
                         {
@@ -10293,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>But..."
+                                "\\N<\\N[2]>But..."
                             ]
                         },
                         {
@@ -10553,7 +10553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...What's wrong?"
+                                "\\N<\\N[2]>...What's wrong?"
                             ]
                         },
                         {
@@ -10659,7 +10659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Eh?! Just entering an unknown place all of a sudden... Is\nit really okay!?"
+                                "\\N<\\N[2]>...Eh?! Just entering an unknown place all of a sudden... Is\nit really okay!?"
                             ]
                         },
                         {
@@ -10709,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>U-uh... Okay, let's go in..."
+                                "\\N<\\N[2]>U-uh... Okay, let's go in..."
                             ]
                         },
                         {
@@ -10743,7 +10743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With a feeling of clutching at straws, Taro cautiously\nentered through the door."
+                                "With a feeling of clutching at straws, \\N[2] cautiously\nentered through the door."
                             ]
                         },
                         {

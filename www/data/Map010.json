@@ -6888,7 +6888,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>I wonder if Taro-kun will be surprised～～ He probably thought\nwe'd defeat it together... fufufu"
+                                "\\N<Luna>I wonder if \\N[2]-kun will be surprised～～ He probably thought\nwe'd defeat it together... fufufu"
                             ]
                         },
                         {
@@ -6958,7 +6958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Haa... haa... I did it... phew... It was quite a formidable\nenemy, but somehow I managed to defeat my first boss-level\nmonster alone... yes!"
+                                "\\N<\\N[2]>Haa... haa... I did it... phew... It was quite a formidable\nenemy, but somehow I managed to defeat my first boss-level\nmonster alone... yes!"
                             ]
                         },
                         {
@@ -6975,7 +6975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>I wonder if Luna-chan will be surprised... I feel like I was\nable to show her something cool♪"
+                                "\\N<\\N[2]>I wonder if Luna-chan will be surprised... I feel like I was\nable to show her something cool♪"
                             ]
                         },
                         {
@@ -6992,7 +6992,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>With this, I should receive a decent reward, and I can do\nvarious things like repayments and buying more equipment and\nitems...♪"
+                                "\\N<\\N[2]>With this, I should receive a decent reward, and I can do\nvarious things like repayments and buying more equipment and\nitems...♪"
                             ]
                         },
                         {
@@ -7009,7 +7009,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>The road to paying off my debt is long, but this is a good\nstart♪ At this rate, I'll conquer the next fields and mid-\nbosses one after another!!"
+                                "\\N<\\N[2]>The road to paying off my debt is long, but this is a good\nstart♪ At this rate, I'll conquer the next fields and mid-\nbosses one after another!!"
                             ]
                         },
                         {
@@ -7045,7 +7045,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Haa... haa... We did it, we defeated the boss-level monster,\nyesss!"
+                                "\\N<\\N[2]>Haa... haa... We did it, we defeated the boss-level monster,\nyesss!"
                             ]
                         },
                         {
@@ -7079,7 +7079,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>That's right, this victory has given me a lot of confidence.\nLet's keep this up and conquer the next field and mid-boss!"
+                                "\\N<\\N[2]>That's right, this victory has given me a lot of confidence.\nLet's keep this up and conquer the next field and mid-boss!"
                             ]
                         },
                         {
@@ -8943,7 +8943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Depleted of strength and judging that further battle would\nbe dangerous, Taro decided to escape from the scene, though\nhe did so with lingering frustration."
+                                "Depleted of strength and judging that further battle would\nbe dangerous, \\N[2] decided to escape from the scene, though\nhe did so with lingering frustration."
                             ]
                         },
                         {

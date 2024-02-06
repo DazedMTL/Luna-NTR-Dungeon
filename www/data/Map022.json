@@ -3324,7 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is \"Taro's Home.\""
+                                "This is \"\\N[2]'s Home.\""
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, Taro was haunted by the fear that if he failed, it\nmight lead to a breakup."
+                                "However, \\N[2] was haunted by the fear that if he failed, it\nmight lead to a breakup."
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sigh... I'm so nervous... The time we agreed on is almost\nhere..."
+                                "\\N<\\N[2]>Sigh... I'm so nervous... The time we agreed on is almost\nhere..."
                             ]
                         },
                         {
@@ -3401,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I've prepared everything for today, it should be fine... now\nit's all up to Luna-chan..."
+                                "\\N<\\N[2]>I've prepared everything for today, it should be fine... now\nit's all up to Luna-chan..."
                             ]
                         },
                         {
@@ -3477,7 +3477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sh-she's here...!"
+                                "\\N<\\N[2]>Sh-she's here...!"
                             ]
                         },
                         {
@@ -3696,7 +3696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>N-no, it's okay, I'm sorry for making you come all this way."
+                                "\\N<\\N[2]>N-no, it's okay, I'm sorry for making you come all this way."
                             ]
                         },
                         {
@@ -3722,7 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>It's not right to talk here, please come inside..."
+                                "\\N<\\N[2]>It's not right to talk here, please come inside..."
                             ]
                         },
                         {
@@ -3879,7 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>We've been together for quite a while now, haven't we?"
+                                "\\N<\\N[2]>We've been together for quite a while now, haven't we?"
                             ]
                         },
                         {
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>That's because Luna-chan was so charming... I was more\nsurprised that you said yes right after I confessed."
+                                "\\N<\\N[2]>That's because Luna-chan was so charming... I was more\nsurprised that you said yes right after I confessed."
                             ]
                         },
                         {
@@ -4004,7 +4004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Because I thought Taro-kun was such a hardworking and\nwonderful person..."
+                                "\\N<Luna>Because I thought \\N[2]-kun was such a hardworking and\nwonderful person..."
                             ]
                         },
                         {
@@ -4021,7 +4021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Luna-chan..."
+                                "\\N<\\N[2]>Luna-chan..."
                             ]
                         },
                         {
@@ -4038,7 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I guess, even now and in the future... my feelings of loving\nLuna-chan won't change."
+                                "\\N<\\N[2]>I guess, even now and in the future... my feelings of loving\nLuna-chan won't change."
                             ]
                         },
                         {
@@ -4088,7 +4088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Actually, the reason I invited you over today is because\nthere's something I want to tell you..."
+                                "\\N<\\N[2]>Actually, the reason I invited you over today is because\nthere's something I want to tell you..."
                             ]
                         },
                         {
@@ -4105,7 +4105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I want to be with Luna-chan forever and protect you for the\nrest of my life, so, um... er... wi-will you..."
+                                "\\N<\\N[2]>I want to be with Luna-chan forever and protect you for the\nrest of my life, so, um... er... wi-will you..."
                             ]
                         },
                         {
@@ -4176,7 +4176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Will you... ma-ma-ma... marry"
+                                "\\N<\\N[2]>Will you... ma-ma-ma... marry"
                             ]
                         },
                         {
@@ -4385,7 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>Hey Taro! You're there, right? I'm coming in~♪"
+                                "\\N<???>Hey \\N[2]! You're there, right? I'm coming in~♪"
                             ]
                         },
                         {
@@ -4402,7 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Wh-what the!?"
+                                "\\N<\\N[2]>Wh-what the!?"
                             ]
                         },
                         {
@@ -5513,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Huh?! Wh-who's there?!"
+                                "\\N<\\N[2]>Huh?! Wh-who's there?!"
                             ]
                         },
                         {
@@ -5629,7 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>W-wait a minute! Who the hell are you guys? And what money\nare you talking about..."
+                                "\\N<\\N[2]>W-wait a minute! Who the hell are you guys? And what money\nare you talking about..."
                             ]
                         },
                         {
@@ -5717,7 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Th-that money should have been fully repaid already! With\nthe quest rewards..."
+                                "\\N<\\N[2]>Th-that money should have been fully repaid already! With\nthe quest rewards..."
                             ]
                         },
                         {
@@ -5814,7 +5814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>What?! What kind of outrageous interest is that?!"
+                                "\\N<\\N[2]>What?! What kind of outrageous interest is that?!"
                             ]
                         },
                         {
@@ -5882,7 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Th-that's... I wasn't told verbally, and I never imagined it\nwould be written in such tiny letters..."
+                                "\\N<\\N[2]>Th-that's... I wasn't told verbally, and I never imagined it\nwould be written in such tiny letters..."
                             ]
                         },
                         {
@@ -5899,7 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Th-this is underhanded... making it hard to notice on\npurpose and then demanding payment..."
+                                "\\N<\\N[2]>Th-this is underhanded... making it hard to notice on\npurpose and then demanding payment..."
                             ]
                         },
                         {
@@ -6027,7 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Debt Collector>You're the one who signed the contract, Taro! Who do you\nthink you're talking to?!"
+                                "\\N<Debt Collector>You're the one who signed the contract, \\N[2]! Who do you\nthink you're talking to?!"
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I-I'm sorry..."
+                                "\\N<\\N[2]>I-I'm sorry..."
                             ]
                         },
                         {
@@ -6111,7 +6111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Wha..."
+                                "\\N<\\N[2]>Wha..."
                             ]
                         },
                         {
@@ -6289,7 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Debt Collector>Oh my❤ Taro's girl, she's got huge tits and a big ass♪"
+                                "\\N<Debt Collector>Oh my❤ \\N[2]'s girl, she's got huge tits and a big ass♪"
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Wait! She has nothing to do with this!"
+                                "\\N<\\N[2]>Wait! She has nothing to do with this!"
                             ]
                         },
                         {
@@ -6458,7 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The intention was to refuse the payment of the exorbitant\ninterest, but when she was taken hostage, Taro had no choice\nbut to accept the demands."
+                                "The intention was to refuse the payment of the exorbitant\ninterest, but when she was taken hostage, \\N[2] had no choice\nbut to accept the demands."
                             ]
                         },
                         {
@@ -6491,7 +6491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Alright... I'll pay the interest... Just please, don't take\nher away..."
+                                "\\N<\\N[2]>Alright... I'll pay the interest... Just please, don't take\nher away..."
                             ]
                         },
                         {
@@ -6638,7 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...What should I do?"
+                                "\\N<\\N[2]>...What should I do?"
                             ]
                         },
                         {
@@ -6757,7 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...I will."
+                                "\\N<\\N[2]>...I will."
                             ]
                         },
                         {
@@ -6800,7 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I-I'll go to that island!!"
+                                "\\N<\\N[2]>I-I'll go to that island!!"
                             ]
                         },
                         {
@@ -6842,7 +6842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>...Taro-kun..."
+                                "\\N<Luna>...\\N[2]-kun..."
                             ]
                         },
                         {
@@ -7040,7 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>What's this...?"
+                                "\\N<\\N[2]>What's this...?"
                             ]
                         },
                         {
@@ -7124,7 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Understood."
+                                "\\N<\\N[2]>...Understood."
                             ]
                         },
                         {
@@ -7216,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro, who was supposed to become happy by proposing,\nsuddenly fell into a life of debt hell, and everything\nbefore him turned pitch black."
+                                "\\N[2], who was supposed to become happy by proposing,\nsuddenly fell into a life of debt hell, and everything\nbefore him turned pitch black."
                             ]
                         },
                         {
@@ -7456,7 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Just like they said, it was for taking on a high-level\nquest."
+                                "\\N<\\N[2]>...Just like they said, it was for taking on a high-level\nquest."
                             ]
                         },
                         {
@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\N<Taro>There was a reward item that I really wanted... It was my\nfirst time borrowing money, so I had no idea how things\nworked... I never imagined there would be such a trap,\ndamn..."
+                                "\\C[14]\\N<\\N[2]>There was a reward item that I really wanted... It was my\nfirst time borrowing money, so I had no idea how things\nworked... I never imagined there would be such a trap,\ndamn..."
                             ]
                         },
                         {
@@ -7541,7 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(This is entirely my own doing...)"
+                                "\\N<\\N[2]>(This is entirely my own doing...)"
                             ]
                         },
                         {
@@ -7567,7 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(Damn it, instead of proposing, who would have thought it\nwould turn out like this...)"
+                                "\\N<\\N[2]>(Damn it, instead of proposing, who would have thought it\nwould turn out like this...)"
                             ]
                         },
                         {
@@ -7584,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(But regretting it won't solve anything, this is the only\nway left...)"
+                                "\\N<\\N[2]>(But regretting it won't solve anything, this is the only\nway left...)"
                             ]
                         },
                         {
@@ -7601,7 +7601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>That was scary earlier, I'm really sorry... for putting\nLuna-chan through this... I'm not fit to be a lover."
+                                "\\N<\\N[2]>That was scary earlier, I'm really sorry... for putting\nLuna-chan through this... I'm not fit to be a lover."
                             ]
                         },
                         {
@@ -7669,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...As I said earlier, I have to go monster hunting on the\nisland now."
+                                "\\N<\\N[2]>...As I said earlier, I have to go monster hunting on the\nisland now."
                             ]
                         },
                         {
@@ -7686,7 +7686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Of course, I plan to earn 10 million G and return as soon as\npossible."
+                                "\\N<\\N[2]>Of course, I plan to earn 10 million G and return as soon as\npossible."
                             ]
                         },
                         {
@@ -7712,7 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>But as you know, monster hunting is a dangerous job."
+                                "\\N<\\N[2]>But as you know, monster hunting is a dangerous job."
                             ]
                         },
                         {
@@ -7729,7 +7729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>If something happens to me and I can't pay back the debt,\nthose debt collectors will take my girlfriend Luna-chan\naway."
+                                "\\N<\\N[2]>If something happens to me and I can't pay back the debt,\nthose debt collectors will take my girlfriend Luna-chan\naway."
                             ]
                         },
                         {
@@ -7746,7 +7746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Just imagining that scene is painful, worse than death."
+                                "\\N<\\N[2]>Just imagining that scene is painful, worse than death."
                             ]
                         },
                         {
@@ -7772,7 +7772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...So"
+                                "\\N<\\N[2]>...So"
                             ]
                         },
                         {
@@ -7789,7 +7789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I think it's best to \"\\C[4]break up\\C[0]\" with Luna-chan\ncleanly..."
+                                "\\N<\\N[2]>I think it's best to \"\\C[4]break up\\C[0]\" with Luna-chan\ncleanly..."
                             ]
                         },
                         {
@@ -7806,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro made his decision with tears held back, out of concern\nfor Luna."
+                                "\\N[2] made his decision with tears held back, out of concern\nfor Luna."
                             ]
                         },
                         {
@@ -7916,7 +7916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>But..."
+                                "\\N<\\N[2]>But..."
                             ]
                         },
                         {
@@ -8000,7 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Luna-chan..."
+                                "\\N<\\N[2]>Luna-chan..."
                             ]
                         },
                         {

@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "Luna's favorite dress is a blue checkered one-piece, a gift from Taro.\nIt's made of special fibers that can be reinforced at the tailor to\nprevent damage.",
+        "description": "Luna's favorite dress is a blue checkered one-piece, a gift from \\N[2].\nIt's made of special fibers that can be reinforced at the tailor to\nprevent damage.",
         "etypeId": 3,
         "traits": [
             {

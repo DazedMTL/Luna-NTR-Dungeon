@@ -26746,7 +26746,7 @@
                             "parameters": [
                                 [
                                     "Luna\\B[2]",
-                                    "Luna & Taro\\B[3]",
+                                    "Luna & \\N[2]\\B[3]",
                                     "Cancel\\B[4]"
                                 ],
                                 2,
@@ -26900,7 +26900,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "ルナ&Taro\\B[3]"
+                                "ルナ&\\N[2]\\B[3]"
                             ]
                         },
                         {
@@ -27208,7 +27208,7 @@
         {
             "id": 28,
             "name": "彼氏",
-            "note": "<namePop:Taro -7>",
+            "note": "<namePop:\\N[2] -7>",
             "pages": [
                 {
                     "conditions": {
@@ -27257,7 +27257,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Taro\\B[2]",
+                                    "\\N[2]\\B[2]",
                                     "Cancel\\B[4]"
                                 ],
                                 1,
@@ -27271,7 +27271,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Taro\\B[2]"
+                                "\\N[2]\\B[2]"
                             ]
                         },
                         {
@@ -27497,8 +27497,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Taro\\B[2]",
-                                    "Luna&Taro\\B[3]",
+                                    "\\N[2]\\B[2]",
+                                    "Luna&\\N[2]\\B[3]",
                                     "Cancel\\B[4]"
                                 ],
                                 2,
@@ -27512,7 +27512,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "Taro\\B[2]"
+                                "\\N[2]\\B[2]"
                             ]
                         },
                         {
@@ -27652,7 +27652,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "ルナ&Taro\\B[3]"
+                                "ルナ&\\N[2]\\B[3]"
                             ]
                         },
                         {
@@ -28131,7 +28131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You cannot accompany Taro."
+                                "You cannot accompany \\N[2]."
                             ]
                         },
                         {
@@ -28540,7 +28540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You cannot accompany Taro."
+                                "You cannot accompany \\N[2]."
                             ]
                         },
                         {
@@ -28949,7 +28949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You cannot accompany Taro."
+                                "You cannot accompany \\N[2]."
                             ]
                         },
                         {
@@ -29358,7 +29358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You cannot accompany Taro."
+                                "You cannot accompany \\N[2]."
                             ]
                         },
                         {
@@ -29561,7 +29561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～Cuckold System～(1/3) When Luna and Taro enter the Tower\nDungeon as a \"\\C[3]pair\\C[0]\", depending on the day of the\nweek, an event may occur where a lurking rival man\n\\C[10]invites only Luna\\C[0]."
+                                "～Cuckold System～(1/3) When Luna and \\N[2] enter the Tower\nDungeon as a \"\\C[3]pair\\C[0]\", depending on the day of the\nweek, an event may occur where a lurking rival man\n\\C[10]invites only Luna\\C[0]."
                             ]
                         },
                         {
@@ -29590,7 +29590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～Cuckold System～(2/3) Taro can choose to decline the\ninvitation, but if he allows Luna to go with the rival man,\n\"the relationship with the rival man\" will progress, so\nplease be careful (This does not occur with \\C[2]initial\nstage rival men\\C[0])."
+                                "～Cuckold System～(2/3) \\N[2] can choose to decline the\ninvitation, but if he allows Luna to go with the rival man,\n\"the relationship with the rival man\" will progress, so\nplease be careful (This does not occur with \\C[2]initial\nstage rival men\\C[0])."
                             ]
                         },
                         {

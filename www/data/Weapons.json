@@ -1200,7 +1200,7 @@
     {
         "id": 35,
         "animationId": 142,
-        "description": "A common bow often equipped by adventurers [Taro Exclusive] [Attack\n+2・M. Power +1]",
+        "description": "A common bow often equipped by adventurers [\\N[2] Exclusive] [Attack\n+2・M. Power +1]",
         "etypeId": 1,
         "traits": [
             {
@@ -1233,7 +1233,7 @@
     {
         "id": 36,
         "animationId": 142,
-        "description": "A longbow for combat with slightly increased power [Taro Exclusive]\n[Attack +3・M. Power +3]",
+        "description": "A longbow for combat with slightly increased power [\\N[2] Exclusive]\n[Attack +3・M. Power +3]",
         "etypeId": 1,
         "traits": [
             {
@@ -1266,7 +1266,7 @@
     {
         "id": 37,
         "animationId": 143,
-        "description": "An enhanced bow made of silver for higher ranks [Taro Exclusive]\n[Attack +5・M. Power +4]",
+        "description": "An enhanced bow made of silver for higher ranks [\\N[2] Exclusive]\n[Attack +5・M. Power +4]",
         "etypeId": 1,
         "traits": [
             {
@@ -1299,7 +1299,7 @@
     {
         "id": 38,
         "animationId": 142,
-        "description": "A bow with high offensive capability but reduced agility due to its\nweight [Taro Exclusive] [Attack +7・M. Power +2・Agility -4]",
+        "description": "A bow with high offensive capability but reduced agility due to its\nweight [\\N[2] Exclusive] [Attack +7・M. Power +2・Agility -4]",
         "etypeId": 1,
         "traits": [
             {
@@ -1332,7 +1332,7 @@
     {
         "id": 39,
         "animationId": 143,
-        "description": "A bow made from the magical metal mithril, improving magical power\n[Taro Exclusive] [Attack +6・M. Power +8・M. Defense +4]",
+        "description": "A bow made from the magical metal mithril, improving magical power\n[\\N[2] Exclusive] [Attack +6・M. Power +8・M. Defense +4]",
         "etypeId": 1,
         "traits": [
             {
@@ -1365,7 +1365,7 @@
     {
         "id": 40,
         "animationId": 143,
-        "description": "An item that enhances the user's abilities [Taro Exclusive] [Attack\n+12・M. Power +11・Agility +4]",
+        "description": "An item that enhances the user's abilities [\\N[2] Exclusive] [Attack\n+12・M. Power +11・Agility +4]",
         "etypeId": 1,
         "traits": [
             {
@@ -1398,7 +1398,7 @@
     {
         "id": 41,
         "animationId": 144,
-        "description": "A magical bow whose normal attacks become fire attribute [Taro\nExclusive] [Attack +3・M. Power +2]",
+        "description": "A magical bow whose normal attacks become fire attribute [\\N[2]\nExclusive] [Attack +3・M. Power +2]",
         "etypeId": 1,
         "traits": [
             {
@@ -1431,7 +1431,7 @@
     {
         "id": 42,
         "animationId": 145,
-        "description": "A magical bow whose normal attacks become ice attribute [Taro\nExclusive] [Attack +5・M. Power +4]",
+        "description": "A magical bow whose normal attacks become ice attribute [\\N[2]\nExclusive] [Attack +5・M. Power +4]",
         "etypeId": 1,
         "traits": [
             {
@@ -1464,7 +1464,7 @@
     {
         "id": 43,
         "animationId": 146,
-        "description": "A magical bow whose normal attacks become thunder attribute [Taro\nExclusive] [Attack +6・M. Power +6]",
+        "description": "A magical bow whose normal attacks become thunder attribute [\\N[2]\nExclusive] [Attack +6・M. Power +6]",
         "etypeId": 1,
         "traits": [
             {

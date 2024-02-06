@@ -11266,7 +11266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Phew... we finally made it... To think it's towering at the\nhighest elevation on this island..."
+                                "\\N<\\N[2]>Phew... we finally made it... To think it's towering at the\nhighest elevation on this island..."
                             ]
                         },
                         {
@@ -11300,7 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Indeed... Thinking that we'll be visiting and conquering\nthis dungeon multiple times from now on gives me a lot to\nponder...(Especially about Luna-chan)"
+                                "\\N<\\N[2]>Indeed... Thinking that we'll be visiting and conquering\nthis dungeon multiple times from now on gives me a lot to\nponder...(Especially about Luna-chan)"
                             ]
                         },
                         {
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Anyway, that looks like the reception desk over there.\nShall we go and get the paperwork done?"
+                                "\\N<\\N[2]>...Anyway, that looks like the reception desk over there.\nShall we go and get the paperwork done?"
                             ]
                         },
                         {
@@ -11679,7 +11679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Looks like the person ahead is finished... I'll go and take\ncare of the registration for both of us."
+                                "\\N<\\N[2]>Looks like the person ahead is finished... I'll go and take\ncare of the registration for both of us."
                             ]
                         },
                         {
@@ -11729,7 +11729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I owe you an apology, so♪ Luna-chan, just wait here for a\nbit."
+                                "\\N<\\N[2]>I owe you an apology, so♪ Luna-chan, just wait here for a\nbit."
                             ]
                         },
                         {
@@ -12446,7 +12446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(Grr... I'm concerned about Luna-chan's conversation with\nthat guy behind us... But I need to focus on the\nregistration right now.)"
+                                "\\N<\\N[2]>(Grr... I'm concerned about Luna-chan's conversation with\nthat guy behind us... But I need to focus on the\nregistration right now.)"
                             ]
                         },
                         {
@@ -12570,7 +12570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(Why is he still here... Please go away already...)"
+                                "\\N<\\N[2]>(Why is he still here... Please go away already...)"
                             ]
                         },
                         {
@@ -12884,7 +12884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>5... 5 million G!? To think such a large sum could be\nearned...! (Could I earn half of my 10 million G debt by\ndefeating the final boss!?)"
+                                "\\N<\\N[2]>5... 5 million G!? To think such a large sum could be\nearned...! (Could I earn half of my 10 million G debt by\ndefeating the final boss!?)"
                             ]
                         },
                         {
@@ -13631,7 +13631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Phew, it's finally over..."
+                                "\\N<\\N[2]>Phew, it's finally over..."
                             ]
                         },
                         {
@@ -13712,7 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>No, it's okay... But what were you talking with that guy\nabout?"
+                                "\\N<\\N[2]>No, it's okay... But what were you talking with that guy\nabout?"
                             ]
                         },
                         {
@@ -13746,7 +13746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I see... Luna-chan is cute, so you need to be careful with\nthose types. I need to be more vigilant..."
+                                "\\N<\\N[2]>I see... Luna-chan is cute, so you need to be careful with\nthose types. I need to be more vigilant..."
                             ]
                         },
                         {
@@ -13779,7 +13779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>You don't have to worry so much. After all, I have Taro-kun,\nsomeone very important to me."
+                                "\\N<Luna>You don't have to worry so much. After all, I have \\N[2]-kun,\nsomeone very important to me."
                             ]
                         },
                         {
@@ -13796,7 +13796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yeah... If that's the case, then it's fine..."
+                                "\\N<\\N[2]>Yeah... If that's the case, then it's fine..."
                             ]
                         },
                         {
@@ -13867,7 +13867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Eh!! You're not going to meet him, are you?"
+                                "\\N<\\N[2]>Eh!! You're not going to meet him, are you?"
                             ]
                         },
                         {
@@ -13901,7 +13901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Oh, that's right... I completely forgot about that. Let's\nhead to the village right away then."
+                                "\\N<\\N[2]>Oh, that's right... I completely forgot about that. Let's\nhead to the village right away then."
                             ]
                         },
                         {

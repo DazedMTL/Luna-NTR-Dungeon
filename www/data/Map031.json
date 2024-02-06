@@ -35464,7 +35464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>It's supposed to be a rest space for all adventurers, but\nit's locked."
+                                "\\N<\\N[2]>It's supposed to be a rest space for all adventurers, but\nit's locked."
                             ]
                         },
                         {
@@ -35481,7 +35481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>This is going to be a problem for adventurers who want to\ntake a break... I wonder if Luna-chan is okay."
+                                "\\N<\\N[2]>This is going to be a problem for adventurers who want to\ntake a break... I wonder if Luna-chan is okay."
                             ]
                         },
                         {
@@ -35498,7 +35498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "As Taro was pondering why the door, which is usually open,\nwas closed, he could faintly hear a woman's voice coming\nfrom inside the cabin."
+                                "As \\N[2] was pondering why the door, which is usually open,\nwas closed, he could faintly hear a woman's voice coming\nfrom inside the cabin."
                             ]
                         },
                         {
@@ -35524,7 +35524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>I can only hear indistinct voices and noises, no idea what\nthey're doing..."
+                                "\\N<\\N[2]>I can only hear indistinct voices and noises, no idea what\nthey're doing..."
                             ]
                         },
                         {
@@ -35550,7 +35550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>Waiting here is just going to waste the day away, so I guess\nI'll move on without taking a break today... Such an\ninconvenience caused by some adventurer."
+                                "\\N<\\N[2]>Waiting here is just going to waste the day away, so I guess\nI'll move on without taking a break today... Such an\ninconvenience caused by some adventurer."
                             ]
                         },
                         {
@@ -35595,7 +35595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>The lock is still on... I guess I'll just move on without\ntaking a break today."
+                                "\\N<\\N[2]>The lock is still on... I guess I'll just move on without\ntaking a break today."
                             ]
                         },
                         {
@@ -35746,7 +35746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>It's supposed to be a rest space for adventurers, but it's\nlocked."
+                                "\\N<\\N[2]>It's supposed to be a rest space for adventurers, but it's\nlocked."
                             ]
                         },
                         {
@@ -35763,7 +35763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>This could trouble adventurers who want to rest... I wonder\nif Luna-chan is okay."
+                                "\\N<\\N[2]>This could trouble adventurers who want to rest... I wonder\nif Luna-chan is okay."
                             ]
                         },
                         {
@@ -35780,7 +35780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "As Taro pondered why the door that should usually be open\nwas closed, he could faintly hear a woman's voice coming\nfrom inside the cabin."
+                                "As \\N[2] pondered why the door that should usually be open\nwas closed, he could faintly hear a woman's voice coming\nfrom inside the cabin."
                             ]
                         },
                         {
@@ -35806,7 +35806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>All I can hear are indistinct voices and noises; I have no\nidea what they're doing..."
+                                "\\N<\\N[2]>All I can hear are indistinct voices and noises; I have no\nidea what they're doing..."
                             ]
                         },
                         {
@@ -35832,7 +35832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such an inconvenience\ncaused by some adventurer."
+                                "\\N<\\N[2]>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such an inconvenience\ncaused by some adventurer."
                             ]
                         },
                         {
@@ -35877,7 +35877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>The lock is still in place... I guess I'll move on without\nresting today."
+                                "\\N<\\N[2]>The lock is still in place... I guess I'll move on without\nresting today."
                             ]
                         },
                         {
@@ -36028,7 +36028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>It's supposed to be a rest space for all adventurers, but\nit's locked."
+                                "\\N<\\N[2]>It's supposed to be a rest space for all adventurers, but\nit's locked."
                             ]
                         },
                         {
@@ -36045,7 +36045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>This could be troublesome for adventurers who want to\nrest... I wonder if Luna-chan is okay."
+                                "\\N<\\N[2]>This could be troublesome for adventurers who want to\nrest... I wonder if Luna-chan is okay."
                             ]
                         },
                         {
@@ -36062,7 +36062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "As Taro pondered why a door that should usually be open was\nclosed, he could faintly hear noises coming from inside the\ncabin."
+                                "As \\N[2] pondered why a door that should usually be open was\nclosed, he could faintly hear noises coming from inside the\ncabin."
                             ]
                         },
                         {
@@ -36088,7 +36088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>All I can hear is rustling noises, no clue what they're\ndoing..."
+                                "\\N<\\N[2]>All I can hear is rustling noises, no clue what they're\ndoing..."
                             ]
                         },
                         {
@@ -36114,7 +36114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such an inconvenience\ncaused by some adventurer."
+                                "\\N<\\N[2]>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such an inconvenience\ncaused by some adventurer."
                             ]
                         },
                         {
@@ -36159,7 +36159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>The lock is still in place... I guess I'll move on without\ntaking a break today."
+                                "\\N<\\N[2]>The lock is still in place... I guess I'll move on without\ntaking a break today."
                             ]
                         },
                         {
@@ -36310,7 +36310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>It's supposed to be a rest space for all adventurers, but\nit's locked."
+                                "\\N<\\N[2]>It's supposed to be a rest space for all adventurers, but\nit's locked."
                             ]
                         },
                         {
@@ -36327,7 +36327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>This could be troubling for adventurers who want to rest...\nI wonder if Luna-chan is okay."
+                                "\\N<\\N[2]>This could be troubling for adventurers who want to rest...\nI wonder if Luna-chan is okay."
                             ]
                         },
                         {
@@ -36344,7 +36344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "As Taro pondered why the door, which is usually open, was\nclosed, he could faintly hear a woman's voice coming from\ninside the cabin."
+                                "As \\N[2] pondered why the door, which is usually open, was\nclosed, he could faintly hear a woman's voice coming from\ninside the cabin."
                             ]
                         },
                         {
@@ -36370,7 +36370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>All I can hear are indistinct voices and noises; I have no\nidea what they're doing..."
+                                "\\N<\\N[2]>All I can hear are indistinct voices and noises; I have no\nidea what they're doing..."
                             ]
                         },
                         {
@@ -36396,7 +36396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such a nuisance, these\nadventurers."
+                                "\\N<\\N[2]>Waiting here will just lead to nightfall, so I guess I'll\nmove on without resting today... Such a nuisance, these\nadventurers."
                             ]
                         },
                         {
@@ -36441,7 +36441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>The lock is still in place... I guess I'll move on without\ntaking a break today."
+                                "\\N<\\N[2]>The lock is still in place... I guess I'll move on without\ntaking a break today."
                             ]
                         },
                         {

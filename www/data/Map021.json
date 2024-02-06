@@ -20493,7 +20493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>No, no, I'm an adventurer after all, so this much is\nnothing... Fortunately, the monsters here are just slimes\nthat can be defeated in one hit, so let's stay alert for\nsurprise attacks as we explore."
+                                "\\N<\\N[2]>No, no, I'm an adventurer after all, so this much is\nnothing... Fortunately, the monsters here are just slimes\nthat can be defeated in one hit, so let's stay alert for\nsurprise attacks as we explore."
                             ]
                         },
                         {

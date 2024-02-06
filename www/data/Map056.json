@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luna approaches Taro, whose face is pale."
+                                "Luna approaches \\N[2], whose face is pale."
                             ]
                         },
                         {
@@ -1422,7 +1422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Hey, Taro-kun...?"
+                                "\\N<Luna>Hey, \\N[2]-kun...?"
                             ]
                         },
                         {
@@ -1439,7 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Hmm?"
+                                "\\N<\\N[2]>...Hmm?"
                             ]
                         },
                         {
@@ -1473,7 +1473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Surprised by the sudden request, Taro closes his eyes as\nasked."
+                                "Surprised by the sudden request, \\N[2] closes his eyes as\nasked."
                             ]
                         },
                         {
@@ -1490,7 +1490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Eh... Oh, okay..."
+                                "\\N<\\N[2]>Eh... Oh, okay..."
                             ]
                         },
                         {

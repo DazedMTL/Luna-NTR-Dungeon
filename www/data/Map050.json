@@ -14608,7 +14608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Ugh... as expected, the slums really do look like this..."
+                                "\\N<\\N[2]>Ugh... as expected, the slums really do look like this..."
                             ]
                         },
                         {
@@ -14676,7 +14676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>No matter how much we need to save money, I still can't\nshake off this unease..."
+                                "\\N<\\N[2]>No matter how much we need to save money, I still can't\nshake off this unease..."
                             ]
                         },
                         {
@@ -14693,7 +14693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>If we stayed in a place like this and something happened to\nLuna-chan... I just can't bring myself to stay in the slums."
+                                "\\N<\\N[2]>If we stayed in a place like this and something happened to\nLuna-chan... I just can't bring myself to stay in the slums."
                             ]
                         },
                         {
@@ -14823,7 +14823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yeah, but where should we spend our time while we're on this\nisland..."
+                                "\\N<\\N[2]>Yeah, but where should we spend our time while we're on this\nisland..."
                             ]
                         },
                         {
@@ -14840,7 +14840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As Luna and Taro stood there dumbfounded, a man seemed to\nreturn to the slums from behind them."
+                                "As Luna and \\N[2] stood there dumbfounded, a man seemed to\nreturn to the slums from behind them."
                             ]
                         },
                         {
@@ -15375,7 +15375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Not just recently, we arrived today... We've decided to do\nour best on this island for a while, please take care of us."
+                                "\\N<\\N[2]>Not just recently, we arrived today... We've decided to do\nour best on this island for a while, please take care of us."
                             ]
                         },
                         {
@@ -15670,7 +15670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>My name is Luna, and this is Taro."
+                                "\\N<Luna>My name is Luna, and this is \\N[2]."
                             ]
                         },
                         {
@@ -15784,7 +15784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Ah, thank you very much! It's reassuring to hear you say\nthat!"
+                                "\\N<\\N[2]>Ah, thank you very much! It's reassuring to hear you say\nthat!"
                             ]
                         },
                         {
@@ -15832,7 +15832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Thank you! That's great, Taro-kun♪"
+                                "\\N<Luna>Thank you! That's great, \\N[2]-kun♪"
                             ]
                         },
                         {
@@ -15897,7 +15897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Well, actually... this and that happened and..."
+                                "\\N<\\N[2]>Well, actually... this and that happened and..."
                             ]
                         },
                         {
@@ -16076,7 +16076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>No partitions and everyone sleeping together... That does\nsound dangerous..."
+                                "\\N<\\N[2]>No partitions and everyone sleeping together... That does\nsound dangerous..."
                             ]
                         },
                         {
@@ -16884,7 +16884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...What should we do? Dalton-san said we should look\nelsewhere but..."
+                                "\\N<\\N[2]>...What should we do? Dalton-san said we should look\nelsewhere but..."
                             ]
                         },
                         {
@@ -16967,7 +16967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Luna-chan... Yeah, let's go back for now..."
+                                "\\N<\\N[2]>Luna-chan... Yeah, let's go back for now..."
                             ]
                         },
                         {

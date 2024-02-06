@@ -35988,7 +35988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>So this is the village with the inn... It has a rather calm\natmosphere, and the vibe is nice too."
+                                "\\N<\\N[2]>So this is the village with the inn... It has a rather calm\natmosphere, and the vibe is nice too."
                             ]
                         },
                         {
@@ -36022,7 +36022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Now, if we can secure a room at the inn without any issues,\nwe'll have the perfect environment to focus on our\nadventure."
+                                "\\N<\\N[2]>Now, if we can secure a room at the inn without any issues,\nwe'll have the perfect environment to focus on our\nadventure."
                             ]
                         },
                         {
@@ -36056,7 +36056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Oh, right... Let's see... according to this guide map... we\nare here right now~"
+                                "\\N<\\N[2]>Oh, right... Let's see... according to this guide map... we\nare here right now~"
                             ]
                         },
                         {
@@ -36265,7 +36265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>The shop on the right looks like an \\C[2]Item Shop\\C[0].\nSeems like they sell recovery items like potions and magic\nherbs."
+                                "\\N<\\N[2]>The shop on the right looks like an \\C[2]Item Shop\\C[0].\nSeems like they sell recovery items like potions and magic\nherbs."
                             ]
                         },
                         {
@@ -36299,7 +36299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>The shop across the way is a \\C[2]Food Vendor\\C[0]. Looks\nlike you can enjoy meals that fully restore your health at a\ncheap price."
+                                "\\N<\\N[2]>The shop across the way is a \\C[2]Food Vendor\\C[0]. Looks\nlike you can enjoy meals that fully restore your health at a\ncheap price."
                             ]
                         },
                         {
@@ -36342,7 +36342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Hm!? ...Yeah, that's right (Those words sting a bit for\nsomeone drowning in debt like me)."
+                                "\\N<\\N[2]>Hm!? ...Yeah, that's right (Those words sting a bit for\nsomeone drowning in debt like me)."
                             ]
                         },
                         {
@@ -36376,7 +36376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...What do you mean? Anyway, let's keep looking."
+                                "\\N<\\N[2]>...What do you mean? Anyway, let's keep looking."
                             ]
                         },
                         {
@@ -36409,7 +36409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>This place looks like a \\C[2]Tool Shop\\C[0]. \"The more\nexpensive the weapon, the easier your dungeon conquests will\nbe.\" That's certainly true~"
+                                "\\N<\\N[2]>This place looks like a \\C[2]Tool Shop\\C[0]. \"The more\nexpensive the weapon, the easier your dungeon conquests will\nbe.\" That's certainly true~"
                             ]
                         },
                         {
@@ -36443,7 +36443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(Sigh~ Luna-chan is so kind~♪ She's like a goddess.)"
+                                "\\N<\\N[2]>(Sigh~ Luna-chan is so kind~♪ She's like a goddess.)"
                             ]
                         },
                         {
@@ -36460,7 +36460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I'll make sure to defeat monsters and buy expensive\nequipment to make things easier for Luna-chan!"
+                                "\\N<\\N[2]>I'll make sure to defeat monsters and buy expensive\nequipment to make things easier for Luna-chan!"
                             ]
                         },
                         {
@@ -36477,7 +36477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Fufufu♪ I'm looking forward to it, Taro-kun."
+                                "\\N<Luna>Fufufu♪ I'm looking forward to it, \\N[2]-kun."
                             ]
                         },
                         {
@@ -36494,7 +36494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(Alright! I'm getting motivated!) Leave it to me! Next up\nis..."
+                                "\\N<\\N[2]>(Alright! I'm getting motivated!) Leave it to me! Next up\nis..."
                             ]
                         },
                         {
@@ -36527,7 +36527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Back there is the... \\C[2]Guild\\C[0]. Looks like they have\nlots of requests other than monster subjugation."
+                                "\\N<\\N[2]>Back there is the... \\C[2]Guild\\C[0]. Looks like they have\nlots of requests other than monster subjugation."
                             ]
                         },
                         {
@@ -36561,7 +36561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yeah, when we want to avoid battle, it might be a good idea\nto look for requests at the guild."
+                                "\\N<\\N[2]>Yeah, when we want to avoid battle, it might be a good idea\nto look for requests at the guild."
                             ]
                         },
                         {
@@ -36578,7 +36578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>And next is... the place that sailor mentioned."
+                                "\\N<\\N[2]>And next is... the place that sailor mentioned."
                             ]
                         },
                         {
@@ -36629,7 +36629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]\\N<Taro>An open-air bath\\C[0]. \"The benefits of hot springs include\n- fatigue recovery - injury healing - status ailment\nimprovement -\" it says."
+                                "\\C[2]\\N<\\N[2]>An open-air bath\\C[0]. \"The benefits of hot springs include\n- fatigue recovery - injury healing - status ailment\nimprovement -\" it says."
                             ]
                         },
                         {
@@ -36663,7 +36663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(There was a weird guy there, but if Luna-chan can lead a\nstress-free life, that would make me happy too... Open-air\nbath, good job!)"
+                                "\\N<\\N[2]>(There was a weird guy there, but if Luna-chan can lead a\nstress-free life, that would make me happy too... Open-air\nbath, good job!)"
                             ]
                         },
                         {
@@ -36680,7 +36680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>It's the perfect place to relieve dungeon fatigue. Let's\nstop by when we're in the area."
+                                "\\N<\\N[2]>It's the perfect place to relieve dungeon fatigue. Let's\nstop by when we're in the area."
                             ]
                         },
                         {
@@ -36739,7 +36739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Past the residential area is... a \\C[2]Tailor\\C[0], huh?\nLooks like they can reinforce the durability of clothes\ndamaged in battle."
+                                "\\N<\\N[2]>Past the residential area is... a \\C[2]Tailor\\C[0], huh?\nLooks like they can reinforce the durability of clothes\ndamaged in battle."
                             ]
                         },
                         {
@@ -36756,7 +36756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Plus, they offer \\C[3]free\\C[0] repairs for clothes that\nhave been torn. Isn't that a subtly great service for you,\nLuna-chan?"
+                                "\\N<\\N[2]>Plus, they offer \\C[3]free\\C[0] repairs for clothes that\nhave been torn. Isn't that a subtly great service for you,\nLuna-chan?"
                             ]
                         },
                         {
@@ -36790,7 +36790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Then next is... oh, looks like it's the last one."
+                                "\\N<\\N[2]>Then next is... oh, looks like it's the last one."
                             ]
                         },
                         {
@@ -36823,7 +36823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>This must be the \\C[2]Inn\\C[0]... It looks exactly like what\nI imagined. I want to secure a room quickly and relax for a\nbit..."
+                                "\\N<\\N[2]>This must be the \\C[2]Inn\\C[0]... It looks exactly like what\nI imagined. I want to secure a room quickly and relax for a\nbit..."
                             ]
                         },
                         {
@@ -37382,7 +37382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Luna-chan!?... Are you okay?"
+                                "\\N<\\N[2]>Luna-chan!?... Are you okay?"
                             ]
                         },
                         {
@@ -37898,7 +37898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Y-yeah... that's right (I don't think I can beat those\nmuscles...)"
+                                "\\N<\\N[2]>Y-yeah... that's right (I don't think I can beat those\nmuscles...)"
                             ]
                         },
                         {
@@ -38039,7 +38039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Luna-chan, let's go."
+                                "\\N<\\N[2]>...Luna-chan, let's go."
                             ]
                         },
                         {
@@ -38613,7 +38613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...sigh"
+                                "\\N<\\N[2]>...sigh"
                             ]
                         },
                         {
@@ -38661,7 +38661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Taro-kun? What's wrong?"
+                                "\\N<Luna>\\N[2]-kun? What's wrong?"
                             ]
                         },
                         {
@@ -38709,7 +38709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>No... it's nothing, let's try the inn."
+                                "\\N<\\N[2]>No... it's nothing, let's try the inn."
                             ]
                         },
                         {
@@ -38754,7 +38754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As time passed, Taro felt uneasy and anxious as the number\nof men who took a liking to Luna around him increased."
+                                "As time passed, \\N[2] felt uneasy and anxious as the number\nof men who took a liking to Luna around him increased."
                             ]
                         },
                         {
@@ -38771,7 +38771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the midst of these complex feelings, Taro arrived at the\ndestination inn."
+                                "In the midst of these complex feelings, \\N[2] arrived at the\ndestination inn."
                             ]
                         },
                         {
@@ -38872,7 +38872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yes, for two people..."
+                                "\\N<\\N[2]>Yes, for two people..."
                             ]
                         },
                         {
@@ -38969,7 +38969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Um, we'd like to stay for multiple nights, what about in\nthat case..."
+                                "\\N<\\N[2]>Um, we'd like to stay for multiple nights, what about in\nthat case..."
                             ]
                         },
                         {
@@ -39037,7 +39037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>I see...(She's quite firm with her pricing, this old\nlady...)"
+                                "\\N<\\N[2]>I see...(She's quite firm with her pricing, this old\nlady...)"
                             ]
                         },
                         {
@@ -39085,7 +39085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Well... not knowing how long it will take to pay off every\nday... if we stay for many days... the expenses will..."
+                                "\\N<\\N[2]>Well... not knowing how long it will take to pay off every\nday... if we stay for many days... the expenses will..."
                             ]
                         },
                         {
@@ -39118,7 +39118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Luna>Taro-kun, maybe there are other inns around here? Should we\ncheck them out?"
+                                "\\N<Luna>\\N[2]-kun, maybe there are other inns around here? Should we\ncheck them out?"
                             ]
                         },
                         {
@@ -39135,7 +39135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Maybe we should..."
+                                "\\N<\\N[2]>...Maybe we should..."
                             ]
                         },
                         {
@@ -39199,7 +39199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Excuse me, are there any other inns around here?"
+                                "\\N<\\N[2]>Excuse me, are there any other inns around here?"
                             ]
                         },
                         {
@@ -39233,7 +39233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Even so, could you tell us about them?"
+                                "\\N<\\N[2]>Even so, could you tell us about them?"
                             ]
                         },
                         {
@@ -39315,7 +39315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Yeah... This is troubling. I can't let Luna-chan stay in the\nSlums, but this place is..."
+                                "\\N<\\N[2]>Yeah... This is troubling. I can't let Luna-chan stay in the\nSlums, but this place is..."
                             ]
                         },
                         {
@@ -39365,7 +39365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Eh... Yeah, let's just go and see, and then we can decide..."
+                                "\\N<\\N[2]>Eh... Yeah, let's just go and see, and then we can decide..."
                             ]
                         },
                         {
@@ -39430,7 +39430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sorry... I'll come back after giving it some more thought."
+                                "\\N<\\N[2]>Sorry... I'll come back after giving it some more thought."
                             ]
                         },
                         {
@@ -39476,7 +39476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Never having anticipated that lodging expenses would be a\nproblem, Taro reluctantly made his way towards the Slums."
+                                "Never having anticipated that lodging expenses would be a\nproblem, \\N[2] reluctantly made his way towards the Slums."
                             ]
                         },
                         {

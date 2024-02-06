@@ -5982,7 +5982,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Taro\\B[2]",
+                                    "\\N[2]\\B[2]",
                                     "Dalton",
                                     "Bob",
                                     "Arashi",
@@ -6000,7 +6000,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Taro\\B[2]"
+                                "\\N[2]\\B[2]"
                             ]
                         },
                         {
@@ -6111,7 +6111,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It seems that Taro's intimacy level has increased slightly."
+                                "It seems that \\N[2]'s intimacy level has increased slightly."
                             ]
                         },
                         {
@@ -6195,7 +6195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It seems that Taro's intimacy level has decreased slightly."
+                                "It seems that \\N[2]'s intimacy level has decreased slightly."
                             ]
                         },
                         {

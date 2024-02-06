@@ -6736,7 +6736,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>*pant*...*pant*... With this, the third boss-class monster\nof the Tower Dungeon is defeated! At first, I thought I\ncould do it with Taro-kun, but to think I could defeat it\nalone... I'm surprised♪"
+                                "\\N<Luna>*pant*...*pant*... With this, the third boss-class monster\nof the Tower Dungeon is defeated! At first, I thought I\ncould do it with \\N[2]-kun, but to think I could defeat it\nalone... I'm surprised♪"
                             ]
                         },
                         {
@@ -6753,7 +6753,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>It seems too tough to challenge the final boss alone, but I\nneed to keep conquering dungeons so I won't be a burden to\nTaro-kun♪"
+                                "\\N<Luna>It seems too tough to challenge the final boss alone, but I\nneed to keep conquering dungeons so I won't be a burden to\n\\N[2]-kun♪"
                             ]
                         },
                         {
@@ -6806,7 +6806,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*...*pant*... Phew～～ The third mid-boss is\ndefeated～～... To think that I could defeat that Cerberus\nalone, I must have grown."
+                                "\\N<\\N[2]>*pant*...*pant*... Phew～～ The third mid-boss is\ndefeated～～... To think that I could defeat that Cerberus\nalone, I must have grown."
                             ]
                         },
                         {
@@ -6823,7 +6823,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Since my carelessness caused the debt, I'd like to reach the\nfinal boss without relying on Luna-chan if possible... Let's\nsee how far I can go..."
+                                "\\N<\\N[2]>Since my carelessness caused the debt, I'd like to reach the\nfinal boss without relying on Luna-chan if possible... Let's\nsee how far I can go..."
                             ]
                         },
                         {
@@ -6840,7 +6840,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Also, I'm curious about how much G I'll get for defeating\nCerberus♪ I think I can pay off a lot of debt, and if I get\npast the next area, it's the final boss... The light of full\nrepayment is in sight!"
+                                "\\N<\\N[2]>Also, I'm curious about how much G I'll get for defeating\nCerberus♪ I think I can pay off a lot of debt, and if I get\npast the next area, it's the final boss... The light of full\nrepayment is in sight!"
                             ]
                         },
                         {
@@ -6876,7 +6876,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>*pant*...*pant*... The third mid-boss, Cerberus, is\ndefeated... Yes!♪"
+                                "\\N<\\N[2]>*pant*...*pant*... The third mid-boss, Cerberus, is\ndefeated... Yes!♪"
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>Yeah, we always struggle with mid-boss battles, but we're a\nparty that has defeated many strong enemies so far, so we\nshould be able to win against the final boss too!"
+                                "\\N<\\N[2]>Yeah, we always struggle with mid-boss battles, but we're a\nparty that has defeated many strong enemies so far, so we\nshould be able to win against the final boss too!"
                             ]
                         },
                         {
@@ -7509,7 +7509,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Luna>That's not true... I think...(But indeed, instead of Taro-\nkun, I'm relying on Syouta-kun...)"
+                                "\\N<Luna>That's not true... I think...(But indeed, instead of \\N[2]-\nkun, I'm relying on Syouta-kun...)"
                             ]
                         },
                         {
@@ -8586,7 +8586,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Deeming any further battle too dangerous with his energy\ndrained, Taro decided to escape from the scene, though he\nstill felt frustrated."
+                                "Deeming any further battle too dangerous with his energy\ndrained, \\N[2] decided to escape from the scene, though he\nstill felt frustrated."
                             ]
                         },
                         {

@@ -10191,7 +10191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>W-What is this place... Amazing, it's got a full set of\nliving supplies!"
+                                "\\N<\\N[2]>W-What is this place... Amazing, it's got a full set of\nliving supplies!"
                             ]
                         },
                         {
@@ -10225,7 +10225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Why is there such a secluded hideaway by the seaside..."
+                                "\\N<\\N[2]>Why is there such a secluded hideaway by the seaside..."
                             ]
                         },
                         {
@@ -10330,7 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>...Yeah, this place looks good enough to rest in... It'll\nprotect us from the rain and wind, and we might just be able\nto live here."
+                                "\\N<\\N[2]>...Yeah, this place looks good enough to rest in... It'll\nprotect us from the rain and wind, and we might just be able\nto live here."
                             ]
                         },
                         {
@@ -10347,7 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>For now, we should be grateful just to have found a place to\nsleep."
+                                "\\N<\\N[2]>For now, we should be grateful just to have found a place to\nsleep."
                             ]
                         },
                         {
@@ -10406,7 +10406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>Sorry for being so disorganized and negative... Let's cheer\nup and work hard on paying off our debt from now on!"
+                                "\\N<\\N[2]>Sorry for being so disorganized and negative... Let's cheer\nup and work hard on paying off our debt from now on!"
                             ]
                         },
                         {

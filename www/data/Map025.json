@@ -18617,7 +18617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>We've made it deep into the forest... There are monsters\nwandering around here and there, but they seem weak, so as\nlong as we stay alert while exploring, we should be fine."
+                                "\\N<\\N[2]>We've made it deep into the forest... There are monsters\nwandering around here and there, but they seem weak, so as\nlong as we stay alert while exploring, we should be fine."
                             ]
                         },
                         {
@@ -18667,7 +18667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>Understood, Country Girl, don't worry about the monsters and\njust focus on searching for the herbs!"
+                                "\\N<\\N[2]>Understood, Country Girl, don't worry about the monsters and\njust focus on searching for the herbs!"
                             ]
                         },
                         {

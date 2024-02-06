@@ -26,7 +26,7 @@
         "name": "Luna",
         "nickname": "",
         "note": "<LevelUpVoice:Runa_LevelUp>\n<処女スキル:20,9>\n<攻撃ボイス:Runa_Attack1,100,100,0 | Runa_Attack2,100,100,0 | Runa_Attack3,100,100,0 | Runa_Attack4,100,100,0 | Runa_Attack5,100,100,0 | Runa_Attack6,100,100,0 | Runa_Attack7,100,100,0 | Runa_Attack8,100,100,0>\n<ダメージボイス:Runa_Damage1,100,100,0 | Runa_Damage2,100,100,0 | Runa_Damage3,100,100,0 | Runa_Damage4,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage6,100,100,0 | Runa_Damage7,100,100,0 | Runa_Damage8,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage10,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス1:Runa_Damage2,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Runa_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Runa_Special,100,100,0>\n<死亡ボイス:Runa_Death1,100,100 | Runa_Death2,100,100>\n<アーマー:SD_Kanojo,0>\n<マイクロビキニ:SD_Kanojo,1>\n<nude:SD_Kanojo,2>",
-        "profile": "Taro's girlfriend, she is a virgin and they share a platonic love. She\nexcels at magic and is a magician who can handle it in all aspects."
+        "profile": "\\N[2]'s girlfriend, she is a virgin and they share a platonic love. She\nexcels at magic and is a magician who can handle it in all aspects."
     },
     {
         "id": 2,
@@ -194,7 +194,7 @@
         "name": "????: \"Country Girl\"",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "A shy girl who makes her living gathering medicinal herbs and\ncompounding them. She met Taro when she requested an escort to the\nforest."
+        "profile": "A shy girl who makes her living gathering medicinal herbs and\ncompounding them. She met \\N[2] when she requested an escort to the\nforest."
     },
     {
         "id": 8,
