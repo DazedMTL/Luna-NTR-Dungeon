@@ -3831,7 +3831,7 @@
       this.drawActorName(this._actor, x, y);
       this.drawActorIcons(this._actor, x + _OBS_MenuStatusIconPos, y);
       this.drawActorLevel(this._actor, x, y + lineHeight * 1);
-      const virginText = this._actor.isVirgin() ? "処女" : "非処女";
+      const virginText = this._actor.isVirgin() ? "Virgin" : "Experienced";
       this.drawTextEx(virginText, x + 140, y + lineHeight * 1);
       this.drawActorHp(this._actor, x, y + lineHeight * 2, width2);
       this.drawActorMp(this._actor, x, y + lineHeight * 3, width2);

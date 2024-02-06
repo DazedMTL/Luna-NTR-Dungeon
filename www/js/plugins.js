@@ -185,7 +185,7 @@ var $plugins = [
     parameters: {
       月ごとの日数配列: "31,28,31,30,31,30,31,31,30,31,30,31",
       月名配列: "Jan.,Feb.,Mar.,Apr.,May.,Jun.,Jul.,Aug.,Sep.,Oct.,Nov.,Dec.",
-      曜日配列: "【日】,【月】,【火】,【水】,【木】,【金】,【土】",
+      曜日配列: "【MON】,【TUE】,【WED】,【THU】,【FRI】,【SAT】,【SUN】",
       自然時間加算: "10",
       自然時間加算間隔: "180",
       場所移動時間加算: "0",
@@ -422,7 +422,7 @@ var $plugins = [
     status: true,
     description:
       "【ver.1.1】装備画面で装備後のアイテムを選択する際、一番左上の空白に「はずす」などの文字を入れます。",
-    parameters: { Text: "はずす", "Text X": "36", "Text Enabled": "true" },
+    parameters: { Text: "Remove", "Text X": "36", "Text Enabled": "true" },
   },
   {
     name: "SSEP_BattleSpeedUp_v2",
