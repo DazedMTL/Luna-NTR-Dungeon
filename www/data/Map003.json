@@ -9657,7 +9657,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[3]通常\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[3]Normal\\C[0]_Monster_purchase_is_over_here>"
                             ]
                         },
                         {
@@ -10404,7 +10404,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]Boss-level\\C[0]_Monster_purchase_is_over_here>"
                             ]
                         },
                         {
@@ -10508,7 +10508,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]Boss-level\\C[0]_Monster_purchases_are_over_here>"
                             ]
                         },
                         {
@@ -11059,7 +11059,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]Boss-level\\C[0]_Monster_purchases_are_over_here>"
                             ]
                         },
                         {
@@ -12031,7 +12031,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]For_the_purchase_of_Boss-level\\C[0]_monsters,_come_this_way>"
                             ]
                         },
                         {
@@ -13436,7 +13436,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]For_purchasing_Boss-level\\C[0]_monsters,_come_here>"
                             ]
                         },
                         {
@@ -15274,7 +15274,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\"\\C[2]ボス級\\C[0]\"モンスター買取はこちらです>"
+                                "<ActiveMessage:\\C[2]For_purchasing_Boss-level\\C[0]_monsters,_come_here>"
                             ]
                         },
                         {

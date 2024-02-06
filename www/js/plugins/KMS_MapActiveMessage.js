@@ -1300,7 +1300,7 @@ var KMS = KMS || {};
 
     this._textState = {
       index: 0,
-      text: this.convertEscapeCharacters(message.text),
+      text: this.convertEscapeCharacters(message.text.replace(/_/g, ' ')),
     };
     this._allTextWidth = 0;
     this._initialDisplayDuration = message.duration;
