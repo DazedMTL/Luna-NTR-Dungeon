@@ -16,7 +16,7 @@
         "volume": 65
     },
     "disableDashing": false,
-    "displayName": "最上階層",
+    "displayName": "Top Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5609,7 +5609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>久しぶり　の　冒険者　だな..."
+                                "\\N<Iron Giant>It's been a while since an adventurer has come..."
                             ]
                         },
                         {
@@ -5626,7 +5626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>ここまで　辿り　着いた　ので　あれば　少なくとも　凡人冒険者　では　なさそう　だ"
+                                "\\N<Iron Giant>If you've made it this far, you're at least no ordinary\nadventurer."
                             ]
                         },
                         {
@@ -5652,7 +5652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>これがラスボスモンスターか……このボスを倒せば、借金を一気に返済できるぞ♪"
+                                "\\N<Taro>So this is the final boss monster... If I defeat this boss,\nI can pay off all my debt in one go♪"
                             ]
                         },
                         {
@@ -5679,7 +5679,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>これがラスボスモンスター……このボスを倒せば、大金がもらえるって話だったよね"
+                                "\\N<Luna>This is the final boss monster... If we defeat it, we'll get\na huge reward, right?"
                             ]
                         },
                         {
@@ -5715,7 +5715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>金　に　目が眩んだ　冒険者　か"
+                                "\\N<Iron Giant>An adventurer blinded by greed, I see."
                             ]
                         },
                         {
@@ -5732,7 +5732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>そんな　浮ついた　覚悟　で　挑んで　来る　とは　我も　甘く　見られた　もの　だ"
+                                "\\N<Iron Giant>To think you'd challenge me with such a frivolous resolve, I\nmust have been underestimated."
                             ]
                         },
                         {
@@ -5749,7 +5749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>下級　の　中ボスども　との　差に　絶望する　ことに　なる　ぞ"
+                                "\\N<Iron Giant>You will despair at the difference between me and the lesser\nmid-bosses."
                             ]
                         },
                         {
@@ -5775,7 +5775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>今　なら　見逃して　やっても　良い　ぞ？　ハッハッハ"
+                                "\\N<Iron Giant>I could still let you go now if I wanted to? Hahahaha"
                             ]
                         },
                         {
@@ -5801,14 +5801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>やっとここまで来れたんだ、諦めるわけないだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "絶対討伐してルナちゃんとの幸せな日に戻るんだ！"
+                                "\\N<Taro>After finally getting here, there's no way I'm giving up!\nI'll definitely defeat you and return to happy days with\nLuna-chan!"
                             ]
                         },
                         {
@@ -5835,14 +5828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>やっとここまで来れたんだもの、諦めるわけにはいかないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "絶対に討伐して目標を達成させなきゃ！"
+                                "\\N<Luna>After finally getting here, there's no way I can give up! I\nmust defeat it and achieve our goal!"
                             ]
                         },
                         {
@@ -5869,7 +5855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>まあ　よい…退屈　していた　ところ　だ　遊んで　やろう"
+                                "\\N<Iron Giant>Very well... I was getting bored. Let's have some fun."
                             ]
                         },
                         {
@@ -5886,7 +5872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>我が　暗黒の力　に　包まれて　立って　いられる　かな"
+                                "\\N<Iron Giant>Let's see if you can stand being enveloped by my dark power."
                             ]
                         },
                         {
@@ -5912,7 +5898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>暗黒の闇で攻めてくるなら、闇を切り裂く光属性のスキルで乗り切るまでだ！"
+                                "\\N<Taro>If you're going to attack with dark shadows, then I'll just\nhave to overcome it with light attribute skills that can cut\nthrough darkness!"
                             ]
                         },
                         {
@@ -5939,7 +5925,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>暗黒の闇で攻めてくるなら、闇を切り裂く光属性のスキルで乗り切るまでだわ！"
+                                "\\N<Luna>If you're going to attack with dark shadows, then I'll just\nhave to overcome it with light attribute skills that can cut\nthrough darkness!"
                             ]
                         },
                         {
@@ -5966,7 +5952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>ふっふっふ…　それならば　試して　みるが　よい"
+                                "\\N<Iron Giant>Huhuhu... Then try it if you dare."
                             ]
                         },
                         {
@@ -5983,7 +5969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>かかって　こい　冒険者　よ！"
+                                "\\N<Iron Giant>Come at me, adventurer!"
                             ]
                         },
                         {
@@ -6045,7 +6031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>ほお…　また　来たか　軟弱冒険者"
+                                "\\N<Iron Giant>Oh... You've come back, weak adventurer."
                             ]
                         },
                         {
@@ -6062,14 +6048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>そんな　に　金が　欲しいか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分の　実力も　わからず　挑んで　くる　愚か者　よ"
+                                "\\N<Iron Giant>You want money that badly... Foolish one, challenging\nwithout knowing your own strength."
                             ]
                         },
                         {
@@ -6086,7 +6065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>いい　だろ　即刻　叩き潰して　やろう！"
+                                "\\N<Iron Giant>Very well, I shall crush you immediately!"
                             ]
                         },
                         {
@@ -6728,14 +6707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐、しちゃった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターを、一人で討伐しちゃったよ！"
+                                "\\N<Luna>*pant*... *pant*... *pant*... *pant*... We did it... We\nfinally defeated the final boss! I defeated the strongest\nmonster in the Tower Dungeon all by myself!"
                             ]
                         },
                         {
@@ -6752,7 +6724,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今でも信じられない…夢でも見ているみたい...あわわ…"
+                                "\\N<Luna>I still can't believe it... It feels like a dream... Oh\nmy..."
                             ]
                         },
                         {
@@ -6778,14 +6750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>これで旅の目標であった\"タワーダンジョンの攻略\"は達成することができた♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりか～…"
+                                "\\N<Luna>With this, we've achieved our journey's goal of \"conquering\nthe Tower Dungeon\"♪ Now all that's left is to pay off the\nremaining debt, and then life on this island will be over..."
                             ]
                         },
                         {
@@ -6802,14 +6767,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>ここまでくるのは長かったような短かったような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この島でいろいろな人と出会って、離れるってなると少し名残惜しい感じがするわ..."
+                                "\\N<Luna>It feels like it's been both a long and short journey to get\nhere... Meeting various people on this island, it feels a\nbit sad to think about leaving..."
                             ]
                         },
                         {
@@ -6826,14 +6784,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今後の事はこれから考えればいいよね…♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "とりあえず討伐報酬を頂いてTaro君と考えようかな"
+                                "\\N<Luna>We can think about what comes next later...♪ For now, let's\nreceive the subjugation reward and then consider it with\nTaro-kun"
                             ]
                         },
                         {
@@ -6929,14 +6880,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>はぁ...はぁ...はぁ...はぁ...よ、よっしゃーー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターを一人で討伐してしまったぞ～！"
+                                "\\N<Taro>*pant*... *pant*... *pant*... *pant*... Yes! I've managed to\ndefeat the strongest monster in the Tower Dungeon all by\nmyself!"
                             ]
                         },
                         {
@@ -6953,14 +6897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>今までレベルアップして付いた自信は錯覚じゃなかったんだ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今でも信じられないが、夢じゃないことだけはわかるぞ♪"
+                                "\\N<Taro>The confidence I gained from leveling up wasn't an\nillusion... I still can't believe it, but I know for sure\nthis isn't a dream♪"
                             ]
                         },
                         {
@@ -6977,14 +6914,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>これで借金取り男から指示された\"タワーダンジョンの攻略\"は達成だ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりだ～…"
+                                "\\N<Taro>With this, the \"conquest of the Tower Dungeon\" ordered by\nthe debt collector is achieved♪ Once I pay off the remaining\ndebt, life on this island will be over..."
                             ]
                         },
                         {
@@ -7001,14 +6931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>ここまでくるのは長かったような短かったような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "旅を始めた頃は、ラスボス討伐なんて無理でも小さい報酬で何とか…と思ってたけど達成してしまった..."
+                                "\\N<Taro>It feels like it's been both a long and short journey to get\nhere... When I started my journey, I thought defeating the\nfinal boss was impossible and that I'd somehow manage with\nsmall rewards, but here we are..."
                             ]
                         },
                         {
@@ -7025,14 +6948,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>借金完済がゴールだからいつまでも達成感に浸ってる場合じゃないな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "討伐報酬もらったあとは借金ゼロにして……ついにルナに\"あの続き\"を...(ドキドキ)"
+                                "\\N<Taro>Paying off the debt is the goal so I can't bask in this\nsense of achievement forever～ After receiving the\nsubjugation reward and clearing my debt... finally, I can\ncontinue \"that\" with Luna...(heart pounding)"
                             ]
                         },
                         {
@@ -7068,14 +6984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>はぁ...はぁ...はぁ...はぁ...よ、よっしゃーー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターを僕たちの力で討伐することができたぞ～♪"
+                                "\\N<Taro>*pant*... *pant*... *pant*... *pant*... Yes! We were able to\ndefeat the strongest monster in the Tower Dungeon with our\ncombined strength!"
                             ]
                         },
                         {
@@ -7092,14 +7001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐…しちゃったね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私たちタワーダンジョンを完全攻略できちゃった～…あわわ..."
+                                "\\N<Luna>*pant*... *pant*... *pant*... We did it... We finally\ndefeated the final boss! We've completely conquered the\nTower Dungeon～... Oh my..."
                             ]
                         },
                         {
@@ -7116,14 +7018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>今まで地道にレベルアップしてきた結果が実ったんだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりだ～…"
+                                "\\N<Taro>The results of diligently leveling up have paid off♪ Now all\nthat's left is to pay off the remaining debt, and then life\non this island will be over..."
                             ]
                         },
                         {
@@ -7140,14 +7035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>ここまでくるのは長かったような短かったような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この島でいろいろな人と出会って、離れるってなると少し名残惜しい感じがするわ..."
+                                "\\N<Luna>It feels like it's been both a long and short journey to get\nhere... Meeting various people on this island, it feels a\nbit sad to think about leaving..."
                             ]
                         },
                         {
@@ -7164,14 +7052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>たしかにお世話になったからな...感謝だね…でも今後の生活もあるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "僕たちの町に戻って、次に進もう(……ついにルナに\"あの続き\"を...)"
+                                "\\N<Taro>Indeed, we owe them a lot of thanks... But we also have our\nfuture lives to think about, so let's return to our town and\nmove on to what comes next(...finally, I can continue \"that\"\nwith Luna...)"
                             ]
                         },
                         {
@@ -7216,14 +7097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐、できました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターに勝てたなんて…\\C[2]ドルトンさんが一緒で\\C[0]本当に良かったです♪"
+                                "\\N<Luna>*pant*... *pant*... *pant*... *pant*... We did it... We\nfinally defeated the final boss! To think we could win\nagainst the strongest monster in the Tower\nDungeon...\\C[2]Having Dalton-san with me\\C[0] was truly a\nblessing♪"
                             ]
                         },
                         {
@@ -7240,7 +7114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今までの冒険で一番感動しているかもしれません...夢でも見ているみたい...あわわ…"
+                                "\\N<Luna>This adventure might be the most moving experience I've ever\nhad... It feels like a dream... Oh my..."
                             ]
                         },
                         {
@@ -7266,14 +7140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ドルトン>はしゃいで喜ぶ可愛いルナちゃんの隣にいる相手が\"俺\"でオジサンも嬉しいよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "途中でボス討伐は無理かと諦めかけたけど、相方がルナちゃんだったから乗り越えられたよ"
+                                "\\N<Dalton>Seeing cute Luna-chan so excited and happy next to \"me\"\nmakes this old man happy too～♪ There was a moment when I\nthought defeating the boss was impossible, but because my\npartner was Luna-chan, we were able to overcome it"
                             ]
                         },
                         {
@@ -7290,14 +7157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そんなそんな…私こそドルトンさんがいなかったら絶対に討伐できませんでした..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お互いが支えになって勝利した感じだったんですね～～うふふふ...♪"
+                                "\\N<Luna>No no no... If it weren't for Dalton-san, there's no way I\ncould have defeated it... We supported each other and\nachieved victory together～～ufufufu...♪"
                             ]
                         },
                         {
@@ -7314,14 +7174,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ドルトン>あっはっは♪そういうことになるな～すっかり我々はお互い欠かせない関係ってことだな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これでタワーダンジョン攻略は無事達成できたようだな～～で、今後はどうするんだい？"
+                                "\\N<Dalton>Ahahaha♪ That's how it is～ We've become indispensable to\neach other～ Now that we've successfully conquered the Tower\nDungeon～～ what do you plan to do next?"
                             ]
                         },
                         {
@@ -7368,14 +7221,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そうですね...旅の目標の一つ\"タワーダンジョンの攻略\"は達成することができたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりになるかと思います…"
+                                "\\N<Luna>Well... One of our journey's goals, \"conquering the Tower\nDungeon,\" has been achieved, so all that's left is to pay\noff the remaining debt and then life on this island will\nprobably come to an end..."
                             ]
                         },
                         {
@@ -7392,14 +7238,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ドルトン>そうかそうか、あとは借金とやらを返済すれば終わりなのか～～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボスの討伐報酬はかなりもらえると聞いているから恐らく完済できそうだな"
+                                "\\N<Dalton>I see, I see, so once we pay off the debt, it's all over...\nI've heard that the reward for defeating the final boss is\nquite substantial, so it looks like we'll probably be able\nto pay it all off."
                             ]
                         },
                         {
@@ -7416,7 +7255,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ドルトン>それで何だが～～…覚えているかい？この前聞いたオジサンとの\"今後の関係\"…"
+                                "\\N<Dalton>And about that... do you remember? The \"future relationship\"\nwith this old man that we talked about before..."
                             ]
                         },
                         {
@@ -7454,7 +7293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ドルトン>そろそろ聞かせてくれるかい？\"ルナちゃんの気持ちを\""
+                                "\\N<Dalton>Is it about time you let me hear it? \"Luna-chan's feelings?\""
                             ]
                         },
                         {
@@ -7480,14 +7319,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そ、そうですね……あやふやなままではいけませんよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の\"正直な\"気持ちを…本心を、お伝えします......"
+                                "\\N<Luna>That's right... I shouldn't leave things vague, should I? My\n\"honest\" feelings... I will tell you my true feelings..."
                             ]
                         },
                         {
@@ -7535,14 +7367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　ルナが選んだ相手は\\C[2]借金返済後のエンディング\\C[0]でお楽しみください"
+                                "Who Luna chose will be revealed in the ending after the debt\nis paid off."
                             ]
                         },
                         {
@@ -7578,14 +7403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐、できました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターに勝てたなんて…\\C[2]ボブさんが一緒で\\C[0]本当に良かったです♪"
+                                "\\N<Luna>*pant*... *pant*... *pant*... *pant*... We did it... We\nfinally defeated the final boss! To think we could win\nagainst the strongest monster in the Tower\nDungeon...\\C[1]Having Bob-san with me\\C[2] was truly a\nblessing♪"
                             ]
                         },
                         {
@@ -7602,7 +7420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今までの冒険で一番感動しているかもしれません...夢でも見ているみたい...あわわ…"
+                                "\\N<Luna>This might be the most moving adventure I've ever had... It\nfeels like a dream... Oh my..."
                             ]
                         },
                         {
@@ -7628,14 +7446,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボブ>Congratulations！！ミーもボス討伐はさすがに興奮してマ～ス♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボスが強敵だったから負けも覚悟しましたが、本気のルナから勇気もらって頑張れまシタ"
+                                "\\N<Bob>Congratulations!! Even I'm excited about defeating the\nboss～♪ The final boss was a formidable enemy, so I was\nprepared for defeat, but I got courage from the serious Luna\nand managed to do my best."
                             ]
                         },
                         {
@@ -7652,14 +7463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そんなそんな…私こそ心強いボブさんがいなかったら絶対に討伐できませんでした..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お互いが支えになって勝利した感じだったんですね～～うふふふ...♪"
+                                "\\N<Luna>No no no... If it weren't for strong-hearted Bob-san,\nthere's no way I could have defeated it... It felt like we\nsupported each other and achieved victory\ntogether～～ufufufu...♪"
                             ]
                         },
                         {
@@ -7676,14 +7480,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボブ>YES～♪そういうことになりますネ～～ミーたちはもうハートで繋がった関係デ～ス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これでタワーダンジョンはクリアしたようですけど、今後はどうするつもりですカ～？"
+                                "\\N<Bob>YES～♪ That's how it is～～ We are now connected by the heart～\nNow that we've cleared the Tower Dungeon～～ what do you plan\nto do next?"
                             ]
                         },
                         {
@@ -7730,14 +7527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そうですね...旅の目標の一つ\"タワーダンジョンの攻略\"は達成することができたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりになるかと思います…"
+                                "\\N<Luna>Well... One of our journey's goals, \"conquering the Tower\nDungeon,\" has been achieved, so all that's left is to pay\noff the remaining debt and then life on this island will\nprobably come to an end..."
                             ]
                         },
                         {
@@ -7754,14 +7544,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボブ>Wow～～…残るは借金の返済のみですカ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボスの討伐報酬はベリーベリーグッドと聞いてマ～ス、借金もクリアできそうですネ♪"
+                                "\\N<Bob>Wow～～... All that's left is to pay off the debt, huh～ I've\nheard that the reward for defeating the final boss is very\nvery good, so it seems like we'll be able to clear our debt♪"
                             ]
                         },
                         {
@@ -7778,14 +7561,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボブ>それでなのですガ～～…そろそろミーとの\"今後の関係\"について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルナの正直な気持ちを聞きたいデ～ス"
+                                "\\N<Bob>And about that～～... It's about time I heard Luna's honest\nfeelings about \"our future relationship.\""
                             ]
                         },
                         {
@@ -7832,14 +7608,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そ、そうですね……あやふやなままではいけませんよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の\"正直な\"気持ちを…本心を、お伝えします......"
+                                "\\N<Luna>That's right... I shouldn't leave things vague, should I? My\n\"honest\" feelings... I will tell you my true feelings..."
                             ]
                         },
                         {
@@ -7887,14 +7656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　ルナが選んだ相手は\\C[2]借金返済後のエンディング\\C[0]でお楽しみください"
+                                "Who Luna chose will be revealed in the ending after the debt\nis paid off."
                             ]
                         },
                         {
@@ -7930,14 +7692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐、できました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターに勝てたなんて…\\C[2]アラシさんが一緒で\\C[0]本当に良かったです♪"
+                                "\\N<Luna>*pant*... *pant*... *pant*... *pant*... We did it... We\nfinally defeated the final boss! To think we could win\nagainst the strongest monster in the Tower\nDungeon...\\C[1]Having Arashi-san with me\\C[2] was truly a\nblessing♪"
                             ]
                         },
                         {
@@ -7954,7 +7709,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今までの冒険で一番感動しているかもしれません...夢でも見ているみたい...あわわ…"
+                                "\\N<Luna>This might be the most moving adventure I've ever had... It\nfeels like a dream... Oh my..."
                             ]
                         },
                         {
@@ -7980,14 +7735,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<アラシ>ルナちゃんメッチャはしゃぎすぎ～ｗｗｗさすがに俺もラスボス勝利はグッと来てるけど♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "途中マジで負けるかと思ったけど、ルナちゃんの必死さに引きずられて耐えられたって感じだな～"
+                                "\\N<Arashi>Luna-chan is way too excited～ww But I gotta admit, even I'm\nfeeling pretty moved by our victory over the final boss♪ I\nseriously thought we were gonna lose at one point, but I\nmanaged to hang in there because of Luna-chan's desperation."
                             ]
                         },
                         {
@@ -8004,14 +7752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そんなそんな…私こそアラシさんがいなかったら絶対に討伐できませんでした..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お互いが支えになって勝利した感じだったんですね～～うふふふ...♪"
+                                "\\N<Luna>No no no... If it weren't for Arashi-san, there's no way I\ncould have defeated it... It felt like we supported each\nother and achieved victory together～～ufufufu...♪"
                             ]
                         },
                         {
@@ -8028,14 +7769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<アラシ>うわ～それってガチ相思相愛ってやつじゃ～ん♪……ますます今後が気になるんだけど～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョンの攻略も終わったことだし、次はどうするん？"
+                                "\\N<Arashi>Whoa～ that sounds like true mutual love～♪... Now I'm even\nmore curious about what comes next～ Now that we've conquered\nthe Tower Dungeon, what are you planning to do?"
                             ]
                         },
                         {
@@ -8082,14 +7816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そうですね...旅の目標の一つ\"タワーダンジョンの攻略\"は達成することができたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりになるかと思います…"
+                                "\\N<Luna>Well... One of our journey's goals, \"conquering the Tower\nDungeon,\" has been achieved, so all that's left is to pay\noff the remaining debt and then life on this island will\nprobably come to an end..."
                             ]
                         },
                         {
@@ -8106,14 +7833,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<アラシ>へ～～あとは借金の返済が終われば、一応フリーってことね～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボスの討伐報酬は…500万Gだっけか？それだけあれば完済できるでしょ♪"
+                                "\\N<Arashi>Huh～～ so once we pay off the debt, we're basically free,\nhuh～ The reward for defeating the final boss was... 5\nmillion G, right? With that much, we should be able to pay\nit all off♪"
                             ]
                         },
                         {
@@ -8130,7 +7850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<アラシ>それでメチャクチャ気になってるんだけどさ～～…俺と\"付き合う\"話、聞かせてくんね？"
+                                "\\N<Arashi>And I'm super curious about something～～... About \"dating\"\nme, let me hear what you've decided?"
                             ]
                         },
                         {
@@ -8177,14 +7897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そ、そうですね……あやふやなままではいけませんよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の\"正直な\"気持ちを…本心を、お伝えします......"
+                                "\\N<Luna>That's right... I shouldn't leave things vague, should I? My\n\"honest\" feelings... I will tell you my true feelings..."
                             ]
                         },
                         {
@@ -8232,14 +7945,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　ルナが選んだ相手は\\C[2]借金返済後のエンディング\\C[0]でお楽しみください"
+                                "Who Luna chose will be revealed in the ending after the debt\nis paid off."
                             ]
                         },
                         {
@@ -8275,14 +7981,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...はぁ...はぁ...やった…つ、ついにラスボスを討伐、できたね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "タワーダンジョン最強のモンスターに勝てたなんて…\\C[2]ショウタ君が一緒で\\C[0]本当に良かったよ♪"
+                                "\\N<Luna>*pant*... *pant*... *pant*... *pant*... We did it... We\nfinally defeated the final boss! To think we could win\nagainst the strongest monster in the Tower\nDungeon...\\C[1]Having Syouta-kun with me\\C[2] was truly a\nblessing♪"
                             ]
                         },
                         {
@@ -8299,7 +7998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>今までの冒険で一番感動しているかもしれません...夢でも見ているみたい...あわわ…"
+                                "\\N<Luna>This might be the most moving adventure I've ever had... It\nfeels like a dream... Oh my..."
                             ]
                         },
                         {
@@ -8325,14 +8024,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ショウタ>いくらラスボスに勝ったからって、はしゃぎすぎだろ～まぁ俺としても自慢できるネタだけど♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "途中で一旦退こうかと思ったが弟子だけ残して逃げるなんてマネできねぇから腹くくったぜ！"
+                                "\\N<Syouta>You're getting a little too excited just because we beat the\nfinal boss～ But hey, it's something even I can brag about♪ I\nthought about retreating at one point, but leaving my\ndisciple behind and running away just wasn't an option, so I\nsteeled myself!"
                             ]
                         },
                         {
@@ -8349,14 +8041,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そうだったんだ…私もショウタ君が必死で戦ってたから逃げずに最後まで戦えたよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私たち一丸となって勝利した感じだったんだね～～うふふふ...♪"
+                                "\\N<Luna>Is that so... Because Syouta-kun fought so desperately, I\nwas able to fight without running away until the end～ It\nfelt like we were united in our victory～～ufufufu...♪"
                             ]
                         },
                         {
@@ -8373,14 +8058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ショウタ>なんとか親方の威厳を守れたぜ、これで正真正銘オレの強さが証明されたって感じだな、へっへっへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これでタワーダンジョンは制覇したが～～次はどうするんだ？"
+                                "\\N<Syouta>Somehow I managed to maintain my master's dignity, and now\nmy strength has been truly proven, heh heh heh♪ Now that\nwe've conquered the Tower Dungeon～～ what's next?"
                             ]
                         },
                         {
@@ -8427,14 +8105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>えっとね...旅の目標の一つ\"タワーダンジョンの攻略\"は達成することができたから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あとは残りの借金を完済すれば、この島での生活も終わりになるね"
+                                "\\N<Luna>Let's see... One of our journey's goals, \"conquering the\nTower Dungeon,\" has been achieved, so... all that's left is\nto pay off the remaining debt and then life on this island\nwill come to an end."
                             ]
                         },
                         {
@@ -8451,14 +8122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ショウタ>ふ～～ん、あとは借金返せば終わりってことか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボス討伐の報酬って、かなりもらえるみたいだし借金も終わりそうじゃん"
+                                "\\N<Syouta>Hmmmm, so all that's left is to pay off the debt and it's\nover, huh... The reward for defeating the final boss seems\npretty hefty, so it looks like we'll be able to finish off\nour debt."
                             ]
                         },
                         {
@@ -8475,14 +8139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ショウタ>それで～～前に聞いた…正式に\"俺の弟子\"になって話、どうするんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もちろんラスボスも倒せる俺様を選ぶのがフツーだと思うが！"
+                                "\\N<Syouta>So about that～～ Remember what we talked about before...\nabout officially becoming \"my disciple,\" what are you gonna\ndo? Of course, choosing me, who can defeat even the final\nboss, would be normal!"
                             ]
                         },
                         {
@@ -8529,14 +8186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>そ、そうだね……あやふやなままじゃあ、いけないよね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の\"正直な\"気持ちを…本心を、伝えるね......"
+                                "\\N<Luna>That's right... I shouldn't leave things vague, should I? My\n\"honest\" feelings... I will tell you my true feelings..."
                             ]
                         },
                         {
@@ -8584,14 +8234,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　ルナが選んだ相手は\\C[2]借金返済後のエンディング\\C[0]でお楽しみください"
+                                "Who Luna chose will be revealed in the ending after the debt\nis paid off."
                             ]
                         },
                         {
@@ -8656,21 +8299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　手に入れたアイテム\"\\C[6]要塞のアイロンジャイアント\\C[0]\"は【\\C[3]タワーダンジョン前の受付\\C[0]】にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　換金することで\\C[2]G(ゴールド)\\C[0]が手に入ります\\|"
+                                "The item \"\\C[6]Fortress Iron Giant\\C[0]\" obtained can be\nexchanged for \\C[2]G (Gold)\\C[0] at 【\\C[3]Tower Dungeon\nReception\\C[0]】."
                             ]
                         },
                         {
@@ -8863,14 +8492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>なんて強さなんだ…これが暗黒の力...今の僕じゃあ歯が立たないレベルだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くそっ...実力には自信があったのに……うぅぅ..."
+                                "\\N<Taro>What strength... This is the power of darkness... At this\nlevel, I don't stand a chance damn it... And here I thought\nI was confident in my abilities... ugh..."
                             ]
                         },
                         {
@@ -8897,14 +8519,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>なんて強さなの…これが暗黒の力...今の私じゃあ歯が立たないレベル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うぅぅっ...実力には自信があったのに..."
+                                "\\N<Luna>What strength this is... This is the power of darkness... At\nthis level, I don't stand a chance ughhhhh... And here I\nthought I was confident in my abilities..."
                             ]
                         },
                         {
@@ -8931,14 +8546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>良いザマ　だ　冒険者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お主　の　力　では　手も足も　出ないこと　に　気づかなかった　のか　愚か者　よ"
+                                "\\N<Iron Giant>A fine sight indeed adventurers. Have you not realized that\nyou stand no chance against me? Fools."
                             ]
                         },
                         {
@@ -8955,14 +8563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アイロンジャイアント>遊び　は　もう飽きた…　一から　出直して　こい　軟弱冒険者　よ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度　挑戦しても　結果　は　同じこと　に　なる　がな"
+                                "\\N<Iron Giant>I've grown tired of this game... Go back to square one and\ncome back weak adventurers. No matter how many times you\ntry, the result will be the same."
                             ]
                         },
                         {
@@ -8988,7 +8589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Taro>まだ...戦いは…終わって...な…"
+                                "\\N<Taro>The fight... isn't... over... yet..."
                             ]
                         },
                         {
@@ -9015,7 +8616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ルナ>まだ...戦いは…終わって...な…"
+                                "\\N<Luna>The fight... isn't... over... yet..."
                             ]
                         },
                         {
@@ -9072,21 +8673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　話している途中に、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　\"転生の間\"へ強制的にワープさせられた"
+                                "In the midst of the conversation, light flooded the area and\nthey were forcibly warped to the \"Chamber of Reincarnation\""
                             ]
                         },
                         {
@@ -9127,28 +8714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -9407,21 +8973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　タワーの頂上で待ち構えていた最後のモンスターは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　 \"要塞のアイロンジャイアント\"であった"
+                                "The final monster awaiting at the top of the tower was the\n\"Fortress Iron Giant.\""
                             ]
                         },
                         {
@@ -9438,21 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　要塞という名称通り大型で、鉄壁の守りが特徴なため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　討伐にはこれまで以上に長期戦が強いられそうだ"
+                                "True to its name as a fortress, it's large and has an\nironclad defense, suggesting that the battle to defeat it\nwill be a prolonged one, more so than ever before."
                             ]
                         },
                         {
@@ -9481,21 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　　　　 \\C[2]ラスボス戦では敗北後のイベントはございません\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　\\C[17]500万G\\C[0]獲得目指して全力で討伐に挑みましょう"
+                                "\\C[2]There are no events after defeat in the final boss\nbattle.\\C[17] Aim to gain \\C[0]5 million G\\C[17] and\nchallenge it with all your might!"
                             ]
                         },
                         {

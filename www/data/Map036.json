@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "第12階層",
+    "displayName": "12th Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 52,
@@ -25028,7 +25028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「転移の間」へワープしますか？"
+                                "Would you like to warp to the \"Transfer Room\"?"
                             ]
                         },
                         {
@@ -25036,8 +25036,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -25521,7 +25521,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "床ダメージとか勘弁してよ>"
+                                "Please Spare Me from Floor Damage!"
                             ]
                         },
                         {
@@ -25614,7 +25614,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "モンスター狩りは酷だぜ>"
+                                "Monster hunting is cruel, man>"
                             ]
                         },
                         {
@@ -25707,7 +25707,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "この階層かよ…チクショ、あぢぃ…>"
+                                "This layer, huh Damn, it's hot>"
                             ]
                         },
                         {
@@ -25851,7 +25851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "灼熱の岩石を手に入れた！"
+                                "Gained the Scorching Rock!"
                             ]
                         },
                         {
@@ -26212,21 +26212,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -26431,21 +26417,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -26639,21 +26611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -27106,21 +27064,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -27325,21 +27269,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -27533,21 +27463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -28000,21 +27916,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -28219,21 +28121,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -28427,21 +28315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -28894,21 +28768,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -29113,21 +28973,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -29321,21 +29167,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -29788,21 +29620,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30007,21 +29825,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30215,21 +30019,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30682,21 +30472,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30901,21 +30677,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -31109,21 +30871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -31576,21 +31324,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -31795,21 +31529,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -32003,21 +31723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -32470,21 +32176,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -32689,21 +32381,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -32897,21 +32575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {

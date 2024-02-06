@@ -10209,7 +10209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ふふっ、何度見ても海は綺麗だね～"
+                                "\\N<Luna>Hehe, no matter how many times I see it, the ocean is\nbeautiful, isn't it~"
                             ]
                         },
                         {
@@ -10226,14 +10226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>うん、そうだね...借金返済のことしか考えてなくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやって生活していくか全然頭になかったから……"
+                                "\\N<Taro>Yeah, you're right... I've been so preoccupied with paying\noff debts that I hadn't even thought about how we're going\nto live..."
                             ]
                         },
                         {
@@ -10250,7 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃんにまで不便な思いをさせて……やっぱり彼氏失格だ"
+                                "\\N<Taro>Making Luna-chan go through such inconvenience... I'm really\nfailing as a boyfriend."
                             ]
                         },
                         {
@@ -10283,7 +10276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私なら平気だよ、Taro君と一緒に居られるなら、どこでもいいもの"
+                                "\\N<Luna>I'm fine with it, as long as I can be with you, Taro-kun,\nanywhere is good."
                             ]
                         },
                         {
@@ -10300,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>でも……"
+                                "\\N<Taro>But..."
                             ]
                         },
                         {
@@ -10364,7 +10357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>今だってほら、見渡す限り広くてきれいな海を一緒に見られているし……"
+                                "\\N<Luna>Look, even now, we can see this vast and beautiful ocean\ntogether..."
                             ]
                         },
                         {
@@ -10512,7 +10505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……あら？"
+                                "\\N<Luna>...Oh?"
                             ]
                         },
                         {
@@ -10560,7 +10553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……どうしたの？"
+                                "\\N<Taro>...What's wrong?"
                             ]
                         },
                         {
@@ -10595,14 +10588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ねえねえ、あっちの方に扉？みたいなのがあるんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあたりは浜辺しかないのに不思議……"
+                                "\\N<Luna>Hey hey, there seems to be something like a door over\nthere... It's strange since this area is just a beach..."
                             ]
                         },
                         {
@@ -10635,7 +10621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>人目のつかない所にあるし、もしかして隠れ家？なのかも...ちょっと様子見に行ってみない？"
+                                "\\N<Luna>It's out of sight, maybe it's a hideout? Should we go check\nit out?"
                             ]
                         },
                         {
@@ -10673,7 +10659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>…えぇ？！いきなり知らない場所に入るなんて…大丈夫！？"
+                                "\\N<Taro>...Eh?! Just entering an unknown place all of a sudden... Is\nit really okay!?"
                             ]
                         },
                         {
@@ -10690,14 +10676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>特に気配もないし、物音もない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしモンスターがいたら、すぐに出れば大丈夫でしょ？"
+                                "\\N<Luna>There's no particular presence and no sounds... If there's a\nmonster, we can just get out quickly, right?"
                             ]
                         },
                         {
@@ -10730,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>う、うん……わかった、入ってよう…"
+                                "\\N<Taro>U-uh... Okay, let's go in..."
                             ]
                         },
                         {
@@ -10764,21 +10743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　ワラにもすがる気持ちのTaroは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　警戒しながらも扉の奥へと入って行った"
+                                "With a feeling of clutching at straws, Taro cautiously\nentered through the door."
                             ]
                         },
                         {

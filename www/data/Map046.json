@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "タワーダンジョン",
+    "displayName": "Tower Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -10324,21 +10324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かったるい説明とか要らねーからさ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くタワーダンジョンへの許可出せって！"
+                                "New Hunter (Male): I don't need any tedious explanations,\njust give me the permission to enter the Tower Dungeon\nalready!"
                             ]
                         },
                         {
@@ -10364,14 +10350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギルド職員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言われましてもハンター様への説明は義務でして…"
+                                "Guild Staff: Even so, it's our duty to explain things to\nHunters..."
                             ]
                         },
                         {
@@ -10388,28 +10367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせザコばっかだろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説明とか危険性なんか知らなくったって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺様１人でタワーのモンスターを一匹残らず駆除してやんよ"
+                                "New Hunter (Male): They're all just weaklings, right?! I\ndon't need any explanations or warnings about dangers. I'll\nexterminate every single monster in the Tower by myself!"
                             ]
                         },
                         {
@@ -10480,21 +10438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター女】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャァ～超カッコいい～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゾクゾクしてお股濡れてきちゃう～"
+                                "New Hunter (Female): Kyaa~ That's so cool~ It's giving me\nchills and making my crotch wet~"
                             ]
                         },
                         {
@@ -10565,28 +10509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいおい、そう焦るなって～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パパっと大金ゲットして超高級ホテルで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日中ハメ倒してやっから待ってな♪"
+                                "New Hunter (Male): Hey, hey, don't be in such a rush~ I'll\nquickly grab a fortune and then we can spend all day\nscrewing in a super luxurious hotel, so just wait♪"
                             ]
                         },
                         {
@@ -10665,21 +10588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってなことで～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺らこの後めっちゃ忙しいから説明終わりな"
+                                "New Hunter (Male): So yeah, we're super busy after this, so\nlet's wrap up the explanation."
                             ]
                         },
                         {
@@ -10705,21 +10614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギルド職員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んんん…わかりました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは最後に緊急脱出用の「帰還石」をお渡ししま…"
+                                "Guild Staff: Hmmmm... understood. Then, as a final matter,\nI'll give you the 'Return Stone' for emergency escapes..."
                             ]
                         },
                         {
@@ -10798,28 +10693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【新入ハンター男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ～そういうのも要らねーから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより俺らが次来る時までに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと大金用意しとけよ～～じゃな～"
+                                "New Hunter (Male): Ahh, I don't need that kind of thing\neither. Instead, make sure you have a big reward ready for\nus when we come back next time~~ See ya~"
                             ]
                         },
                         {
@@ -10841,21 +10715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギルド職員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{ちょっと！ハンター様！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは無謀すぎま…"
+                                "Guild Staff: Wait! Hunter-sama!! That's too reckless..."
                             ]
                         },
                         {
@@ -11406,7 +11266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ふぅ～～や、やっと着いた～～…この島で一番標高の高い所にそびえ立っているとは..."
+                                "\\N<Taro>Phew... we finally made it... To think it's towering at the\nhighest elevation on this island..."
                             ]
                         },
                         {
@@ -11423,14 +11283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ここがタワーダンジョン……！の、入り口だね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠くからでも大きかったけど、真下に来ると圧倒されちゃう高さ…"
+                                "\\N<Luna>So this is the Tower Dungeon...! The entrance, huh? It\nlooked big from afar, but it's overwhelmingly tall up\nclose..."
                             ]
                         },
                         {
@@ -11447,14 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>たしかに…僕らはこれからこのダンジョンを何度も訪れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略することになると思うと、いろいろ考えさせられるなぁ...(特にルナちゃんを)"
+                                "\\N<Taro>Indeed... Thinking that we'll be visiting and conquering\nthis dungeon multiple times from now on gives me a lot to\nponder...(Especially about Luna-chan)"
                             ]
                         },
                         {
@@ -11471,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……とりあえず、あっちが受付みたいだから、手続きを済ませに行こうか"
+                                "\\N<Taro>...Anyway, that looks like the reception desk over there.\nShall we go and get the paperwork done?"
                             ]
                         },
                         {
@@ -11488,7 +11334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうだね、先客がいるみたいだけど混んでなくて良かった"
+                                "\\N<Luna>Right, it seems there's someone ahead of us, but it's not\ntoo crowded, which is good."
                             ]
                         },
                         {
@@ -11699,7 +11545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>……っし、これでオッケ？"
+                                "\\N<???>...Alright, is this okay?"
                             ]
                         },
                         {
@@ -11716,14 +11562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>はい、問題ございません…ありがとうございました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以上で登録の方は完了となります、お疲れさまでした"
+                                "\\N<Receptionist>Yes, there are no problems... Thank you very much. With\nthat, your registration is complete. Thank you for your hard\nwork."
                             ]
                         },
                         {
@@ -11749,14 +11588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>よっしゃ～これからガンガン狩って金儲けするとするかなー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと\"上玉女\"も喰いてぇぜ♪"
+                                "\\N<???>Alright~ Time to hunt like crazy and make a fortune. And I\nwouldn't mind getting my hands on a \"top-tier girl\" either♪"
                             ]
                         },
                         {
@@ -11847,7 +11679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>前の人、終わったみたい…僕が二人分一緒に手続きしてくるよ"
+                                "\\N<Taro>Looks like the person ahead is finished... I'll go and take\ncare of the registration for both of us."
                             ]
                         },
                         {
@@ -11880,7 +11712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>いいの？…それじゃあお言葉に甘えてお願いしちゃおっかな♪"
+                                "\\N<Luna>Is that okay?... Well then, I'll gladly take you up on that\noffer♪"
                             ]
                         },
                         {
@@ -11897,7 +11729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>詫びの気持ちもあるからさ♪ルナちゃんはちょっと待ってて"
+                                "\\N<Taro>I owe you an apology, so♪ Luna-chan, just wait here for a\nbit."
                             ]
                         },
                         {
@@ -12222,7 +12054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>……おっ？(おぃ～マジかよ♪早速、上玉の女発～～～～～～見♪)"
+                                "\\N<???>...Oh?(Hey~ Seriously?♪ I've already found a top-tier\ngirl～～～～～～sight♪)"
                             ]
                         },
                         {
@@ -12323,7 +12155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>………？？？"
+                                "\\N<Luna>...???"
                             ]
                         },
                         {
@@ -12340,14 +12172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>っべー、まさかこんなところでイイ女……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃなくて、可愛い女の子に会えるとはな♪"
+                                "\\N<???>Damn, I didn't expect to meet such a fine woman... I mean, a\ncute girl in a place like this♪"
                             ]
                         },
                         {
@@ -12364,7 +12189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>は、はあ……ありがとうございます"
+                                "\\N<Luna>Ah, um... Thank you very much."
                             ]
                         },
                         {
@@ -12397,14 +12222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>オレの名は\\C[2]アラシ\\C[0]、冒険者だぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は……見たところ魔術師だろ？　名前は？"
+                                "\\N<Arashi>The name's \\C[2]Arashi\\C[17], an adventurer♪ And you are...\nYou look like a magician, right? What's your name?"
                             ]
                         },
                         {
@@ -12437,7 +12255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私の名前はルナです、どうして魔術師ってわかったんですか？"
+                                "\\N<Luna>My name is Luna. How did you know I was a magician?"
                             ]
                         },
                         {
@@ -12470,14 +12288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>ルナちゃんね、覚えたわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん～……前に組んだ魔術師の女の子と雰囲気が近かったから、かな♪"
+                                "\\N<Arashi>Luna-chan, got it♪ Hmm... You have a similar vibe to a\nmagician girl I teamed up with before, maybe that's why♪"
                             ]
                         },
                         {
@@ -12510,14 +12321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>でもルナちゃんは別格な感じがするぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さては可愛い見た目でも相当強い感じ～？　だからここに来たん？"
+                                "\\N<Arashi>But Luna-chan, you seem exceptional. Could it be that\ndespite your cute appearance, you're quite strong? Is that\nwhy you're here?"
                             ]
                         },
                         {
@@ -12550,14 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>いえいえ、私はちょっとした事情があって彼と来たんですけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラシさんはどうしてここに？"
+                                "\\N<Luna>No, no, I'm here with him due to certain circumstances...\nBut why are you here, Arashi-san?"
                             ]
                         },
                         {
@@ -12590,14 +12387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>オレはもちろん賞金目当てで来てるぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、あとは可愛い女の子探し……って、もう目の前にいるじゃ～ん♪"
+                                "\\N<Arashi>I'm here for the bounty, of course♪ Well, that and looking\nfor cute girls... and look, there's one right in front of\nme♪"
                             ]
                         },
                         {
@@ -12630,7 +12420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あはぁぁ…恥ずかしいですよぉ(けっこう軽い人だな～)"
+                                "\\N<Luna>Ahaha... You're making me blush (He seems pretty\nflippant...)"
                             ]
                         },
                         {
@@ -12656,14 +12446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(くっ……ルナちゃんと後ろの人の会話が気になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…でも、今は手続きに集中しないと)"
+                                "\\N<Taro>(Grr... I'm concerned about Luna-chan's conversation with\nthat guy behind us... But I need to focus on the\nregistration right now.)"
                             ]
                         },
                         {
@@ -12680,7 +12463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>では次に、ダンジョンについてご説明させて頂きます"
+                                "\\N<Receptionist>Next, I will explain about the dungeon."
                             ]
                         },
                         {
@@ -12744,7 +12527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>それじゃあ、受付の人の話を聞くのでこれで……"
+                                "\\N<Luna>Then, I'll listen to what the receptionist has to say..."
                             ]
                         },
                         {
@@ -12761,7 +12544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>～～♪オレももう一回ちゃんと聞きたかったんだよね～一緒に聞こうぜ、ルナちゃん♪"
+                                "\\N<Arashi>～～♪ I wanted to hear it properly again too～ Let's listen\ntogether, Luna-chan♪"
                             ]
                         },
                         {
@@ -12787,7 +12570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(なんでまだいるんだ……早く帰ってくれよ……)"
+                                "\\N<Taro>(Why is he still here... Please go away already...)"
                             ]
                         },
                         {
@@ -12891,14 +12674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>このタワーダンジョンは\\C[3]全22階層\\C[0]までございます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[3]1階\\C[0]は一度訪れた階層へワープができる\"転送の間\"となっております"
+                                "\\N<Receptionist>This Tower Dungeon has a total of \\C[3]22 floors\\C[17]. The\n\\C[3]first floor\\C[17] serves as the \"Transfer Room\" where\nyou can warp to any floor you've previously visited."
                             ]
                         },
                         {
@@ -12915,14 +12691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>討伐したモンスターは、島のショップであればどこでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "換金することができますし、この受付でも責任もって買い取らせていただきます"
+                                "\\N<Receptionist>The monsters you defeat can be exchanged for cash at any\nshop on the island or at this reception desk where we will\nbuy them from you responsibly."
                             ]
                         },
                         {
@@ -12939,14 +12708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>また各フィールドの最深部にいる\\C[2]ボス級モンスター\\C[0]については"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\"特別高額\"な換金となりますので、\\C[3]ココの受付のみ\\C[0]の取引となります"
+                                "\\N<Receptionist>Furthermore, for \\C[2]boss-class monsters\\C[17] located in\nthe deepest parts of each field, there will be a \"special\nhigh price\" for exchange, which will only be handled at\n\\C[3]this reception desk\\C[17]."
                             ]
                         },
                         {
@@ -12963,14 +12725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>\\C[3]通常モンスター\\C[0]の取引は「私」が行ないまして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]ボス級モンスター\\C[0]の取引は「隣にいる彼」が担当しております"
+                                "\\C[3]\\N<Receptionist>Normal monster transactions are handled by 'me', and\n\\C[2]boss-class monster\\C[17] transactions are handled by\n'the person next to me'."
                             ]
                         },
                         {
@@ -13027,7 +12782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>ども、よろしく"
+                                "\\N<Receptionist>Hello, nice to meet you."
                             ]
                         },
                         {
@@ -13075,7 +12830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>最上階に君臨するボスモンスターの討伐報酬は\"\\C[17]500万G\\C[0]\"となります"
+                                "\\N<Receptionist>The bounty for defeating the boss monster reigning over the\ntop floor is \"[Color_17]5 million G\\C[17].\""
                             ]
                         },
                         {
@@ -13129,14 +12884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>5…500万G！？そんな大金がもらえるなんて…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(僕の借金1000万Gの半分がラスボス討伐で稼げるのか！？)"
+                                "\\N<Taro>5... 5 million G!? To think such a large sum could be\nearned...! (Could I earn half of my 10 million G debt by\ndefeating the final boss!?)"
                             ]
                         },
                         {
@@ -13169,7 +12917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ボス一体倒すだけで相当返済できるね♪"
+                                "\\N<Luna>Just defeating one boss could significantly reduce your\ndebt♪"
                             ]
                         },
                         {
@@ -13195,14 +12943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>くれぐれも大金に目を奪われないようにしてください"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけ屈強な相手ですから、準備を決して怠らないようにしてください"
+                                "\\N<Receptionist>Please be careful not to be blinded by the prospect of large\nsums of money. As they are formidable opponents, do not\nneglect your preparations."
                             ]
                         },
                         {
@@ -13253,7 +12994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あっ…はい、すみません..."
+                                "\\N<Luna>Oh... Yes, sorry..."
                             ]
                         },
                         {
@@ -13270,14 +13011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>以上がタワーダンジョン内についての説明となります、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題がなければ、こちらの書類に目を通してサインを……"
+                                "\\N<Receptionist>That concludes the explanation about the Tower Dungeon. If\nthere are no issues, please review this document and sign..."
                             ]
                         },
                         {
@@ -13381,14 +13115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>ね、ルナちゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ、剣士で腕には自信あるからさ、ダンジョン攻略協力するぜ♪"
+                                "\\N<Arashi>Hey, Luna-chan♪ I'm a swordsman and confident in my skills,\nso let me help you with dungeon exploration♪"
                             ]
                         },
                         {
@@ -13452,14 +13179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっ……そんな、申し訳ないですよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラシさんに悪いですし、私たちだけで何とかやらないといけない問題なので…"
+                                "\\N<Luna>Eh... That's really kind of you but it would be wrong to\nimpose on Arashi-san. We have our own issues to deal with..."
                             ]
                         },
                         {
@@ -13492,14 +13212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>遠慮しなくていいって♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力者は多いに越したことないし、傭兵雇う資金とか…ヤバめでしょ？"
+                                "\\N<Arashi>Don't be shy♪ It's always better to have more allies, and I\nbet hiring mercenaries is financially tough, right?"
                             ]
                         },
                         {
@@ -13516,14 +13229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>それにここで出会った縁は、やっぱ大事にしたいじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ\\C[3]村の宿屋\\C[0]に滞在してっからさ、ダンジョン行く前に声掛けてくれよな♪"
+                                "\\N<Arashi>Plus, I value the connections made here, you know? I'm\nstaying at the \\C[3]village inn\\C[0], so give me a shout\nbefore you head to the dungeon, okay?♪"
                             ]
                         },
                         {
@@ -13540,14 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>ちなみに\"3人でダンジョン\"ってのは無しな～ルナちゃんと\\C[27]ペア\\C[0]ね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多数行動苦手っていうか～可愛いルナちゃんにだけ尽くしたいっていうか～♪"
+                                "\\N<Arashi>By the way, \"three's a crowd\" in dungeons – I prefer to pair\nup. Not a fan of large groups, you could say – or maybe I\njust want to devote myself to cute Luna-chan♪"
                             ]
                         },
                         {
@@ -13564,7 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>そういう訳でマジで待ってるから♪…それじゃあまた今度ね"
+                                "\\N<Arashi>So, I'm seriously waiting for you♪... See you around then."
                             ]
                         },
                         {
@@ -13597,7 +13296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あっ…は、はい、それでは……"
+                                "\\N<Luna>Ah... Yes, well then..."
                             ]
                         },
                         {
@@ -13932,7 +13631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ふう、やっと終わった……"
+                                "\\N<Taro>Phew, it's finally over..."
                             ]
                         },
                         {
@@ -13996,7 +13695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>お疲れ様♪ごめんね、全部任せちゃって"
+                                "\\N<Luna>Good work♪ Sorry for leaving everything to you."
                             ]
                         },
                         {
@@ -14013,7 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ううん、大丈夫……それよりさっきの人と、何を話していたの？"
+                                "\\N<Taro>No, it's okay... But what were you talking with that guy\nabout?"
                             ]
                         },
                         {
@@ -14030,14 +13729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっとね、あの人も冒険者らしくて、一緒にダンジョン攻略しないかって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと……何度も可愛いって言われちゃった"
+                                "\\N<Luna>Well, he's an adventurer too, and he asked if we could\nexplore the dungeon together... and he kept calling me cute."
                             ]
                         },
                         {
@@ -14054,14 +13746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そっか……確かにルナちゃんは可愛いから、ああいう輩には気を付けないとね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと僕がしっかりしなくちゃ..."
+                                "\\N<Taro>I see... Luna-chan is cute, so you need to be careful with\nthose types. I need to be more vigilant..."
                             ]
                         },
                         {
@@ -14094,14 +13779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そんなに心配しなくても大丈夫だよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にはTaro君という大事な人がいるんだもの"
+                                "\\N<Luna>You don't have to worry so much. After all, I have Taro-kun,\nsomeone very important to me."
                             ]
                         },
                         {
@@ -14118,7 +13796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>うん……それなら、いいんだけど……"
+                                "\\N<Taro>Yeah... If that's the case, then it's fine..."
                             ]
                         },
                         {
@@ -14151,7 +13829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あ、あとね！あの人、村の宿屋にいるって言っていたの"
+                                "\\N<Luna>Oh, and! He said he's staying at the village inn."
                             ]
                         },
                         {
@@ -14189,7 +13867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>え！！まさか、会いに行くの？"
+                                "\\N<Taro>Eh!! You're not going to meet him, are you?"
                             ]
                         },
                         {
@@ -14206,14 +13884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうじゃなくて、村に行ってみようよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも泊まるところを探さないといけないし……"
+                                "\\N<Luna>No, that's not it. Let's go check out the village♪ We need\nto find a place to stay ourselves..."
                             ]
                         },
                         {
@@ -14230,14 +13901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そ、そういえばそうだった……すっかり忘れていたよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ早速、村へ行ってみようか"
+                                "\\N<Taro>Oh, that's right... I completely forgot about that. Let's\nhead to the village right away then."
                             ]
                         },
                         {
@@ -14270,7 +13934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うん、さんせーい♪"
+                                "\\N<Luna>Yes, sensei♪"
                             ]
                         },
                         {
@@ -14306,21 +13970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　ダンジョン登録の手続きを終えたルナたちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　この島で活動売るための拠点探しをすることとなった"
+                                "Having completed their dungeon registration, Luna and her\ncompanions set out to find a base of operations for their\nactivities on the island."
                             ]
                         },
                         {

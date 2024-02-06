@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "転移の間",
+    "displayName": "Transfer Chamber",
     "encounterList": [],
     "encounterStep": 30,
     "height": 41,
@@ -10165,7 +10165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第2階層へ転移しますか？"
+                                "Would you like to transfer to the second layer?"
                             ]
                         },
                         {
@@ -10173,8 +10173,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -10500,14 +10500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>それじゃあルナちゃん、一旦解散だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またいつでも協力するから声掛けてくれ～"
+                                "\\N<Dalton>\"Well then, Luna-chan, let's disband for now. I'm always\nready to help, so just call on me anytime~\""
                             ]
                         },
                         {
@@ -10632,14 +10625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　パーティーからドルトンが抜けた"
+                                "Dalton has left the party."
                             ]
                         },
                         {
@@ -10675,14 +10661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>ここでルナとお別れデ～ス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また一緒にダンジョン攻略しましょーネ♪"
+                                "\\N<Bob>\"This is where we part ways with Luna~ Let's conquer a\ndungeon together again sometime♪\""
                             ]
                         },
                         {
@@ -10807,14 +10786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　パーティーからボブが抜けた"
+                                "Bob has left the party."
                             ]
                         },
                         {
@@ -10850,14 +10822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>またルナちゃんとダンジョン行きたいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マジでいつでも誘ってくれなー♪"
+                                "\\N<Arashi>\"I want to go to the dungeon with Luna-chan again, so\nseriously, invite me anytime♪\""
                             ]
                         },
                         {
@@ -10982,14 +10947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　パーティーからアラシが抜けた"
+                                "Arashi has left the party."
                             ]
                         },
                         {
@@ -11025,14 +10983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>弟子よ、ここで解散だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "親方である俺は忙しいが、弟子の為ならまた協力してやるぜ！"
+                                "\\N<Syouta>\"Disciple, this is where we part ways. As your master, I'm\nbusy, but I'll help you out again for your sake!\""
                             ]
                         },
                         {
@@ -11157,14 +11108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　パーティーからショウタが抜けた"
+                                "Syouta has left the party."
                             ]
                         },
                         {
@@ -11435,7 +11379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breasts \\C[0]+1"
                             ]
                         },
                         {
@@ -11477,7 +11421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -11534,7 +11478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ボブ　休憩マッサージ】回想シーンが追加されました"
+                                "\"Bob's Rest Massage\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -11577,7 +11521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Impression of Bob has been updated."
                             ]
                         },
                         {
@@ -11608,7 +11552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -11745,7 +11689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -11857,7 +11801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -11914,7 +11858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ショウタ　魚捕り】回想シーンが追加されました"
+                                "\"Syouta's Fishing\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -11957,7 +11901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ショウタへの印象が更新されました"
+                                "Impression of Syouta has been updated."
                             ]
                         },
                         {
@@ -11988,7 +11932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -12125,7 +12069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -12241,7 +12185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]キス\\C[0]　+2"
+                                "\\C[27]Kiss \\C[0]+2"
                             ]
                         },
                         {
@@ -12283,7 +12227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]ぶっかけ\\C[0]　+1"
+                                "\\C[27]Bukkake \\C[0]+1"
                             ]
                         },
                         {
@@ -12325,7 +12269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+86ml"
+                                "\\C[27]Amount of semen extracted \\C[0]+86ml"
                             ]
                         },
                         {
@@ -12367,7 +12311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -12424,7 +12368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ドルトン　近道1本目＆2本目】回想シーンが追加されました"
+                                "\"Dalton's Shortcut First & Second\" reminiscence scenes have\nbeen added."
                             ]
                         },
                         {
@@ -12474,7 +12418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンへの印象が更新されました"
+                                "Impression of Dalton has been updated."
                             ]
                         },
                         {
@@ -12505,7 +12449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -12642,7 +12586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -12740,7 +12684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breasts \\C[0]+1"
                             ]
                         },
                         {
@@ -12782,7 +12726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -12839,7 +12783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アラシ　睡眠薬】回想シーンが追加されました"
+                                "\"Arashi's Sleeping Pill\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -12882,7 +12826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated."
                             ]
                         },
                         {
@@ -12913,7 +12857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -13050,7 +12994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -13141,7 +13085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]クンニ\\C[0]　+1"
+                                "\\C[27]Cunnilingus \\C[0]+1"
                             ]
                         },
                         {
@@ -13183,7 +13127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Orgasm \\C[0]+1"
                             ]
                         },
                         {
@@ -13225,7 +13169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -13282,7 +13226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ボブ　雪小屋マッサージ】回想シーンが追加されました"
+                                "\"Bob's Snow Hut Massage\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -13325,7 +13269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Impression of Bob has been updated."
                             ]
                         },
                         {
@@ -13356,7 +13300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -13493,7 +13437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -13616,7 +13560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]クンニ\\C[0]　+2"
+                                "\\C[27]Cunnilingus \\C[0]+2"
                             ]
                         },
                         {
@@ -13658,7 +13602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+2"
+                                "\\C[27]Squirting Orgasm \\C[0]+2"
                             ]
                         },
                         {
@@ -13700,7 +13644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -13757,7 +13701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ショウタ　抜け道1本目＆2本目】回想シーンが追加されました"
+                                "\"Syouta's Secret Path 1st & 2nd\" reminiscence scene has been\nadded."
                             ]
                         },
                         {
@@ -13800,7 +13744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ショウタへの印象が更新されました"
+                                "Impression of Syouta has been updated."
                             ]
                         },
                         {
@@ -13831,7 +13775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -13968,7 +13912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -14066,7 +14010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Boobs \\C[0]+1"
                             ]
                         },
                         {
@@ -14108,7 +14052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]パイズリ\\C[0]　+1"
+                                "\\C[27]Paizuri (Titty Fuck) \\C[0]+1"
                             ]
                         },
                         {
@@ -14150,7 +14094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]ぶっかけ\\C[0]　+1"
+                                "\\C[27]Bukkake \\C[0]+1"
                             ]
                         },
                         {
@@ -14204,7 +14148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -14246,7 +14190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -14303,7 +14247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ドルトン　ルナ泥酔】回想シーンが追加されました"
+                                "\"Dalton & Luna Drunken\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -14353,7 +14297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンへの印象が更新されました"
+                                "Impression of Dalton has been updated."
                             ]
                         },
                         {
@@ -14384,7 +14328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -14521,7 +14465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -14619,7 +14563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]キス\\C[0]　+1"
+                                "\\C[27]Kiss \\C[0]+1"
                             ]
                         },
                         {
@@ -14661,7 +14605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]手マン\\C[0]　+1"
+                                "\\C[27]Fingering \\C[0]+1"
                             ]
                         },
                         {
@@ -14703,7 +14647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Orgasm \\C[0]+1"
                             ]
                         },
                         {
@@ -14745,7 +14689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -14802,7 +14746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アラシ　人肌】回想シーンが追加されました"
+                                "\"Arashi's Human Warmth\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -14845,7 +14789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated."
                             ]
                         },
                         {
@@ -14876,7 +14820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -15013,7 +14957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -15104,7 +15048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]アナル\\C[0]　+1"
+                                "\\C[27]Anal \\C[0]+1"
                             ]
                         },
                         {
@@ -15146,7 +15090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Orgasm \\C[0]+1"
                             ]
                         },
                         {
@@ -15200,7 +15144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -15242,7 +15186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Cream Pie \\C[0]+1"
                             ]
                         },
                         {
@@ -15284,7 +15228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -15341,7 +15285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ボブ　アナルマッサージ】回想シーンが追加されました"
+                                "\"Bob's Anal Massage\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -15384,7 +15328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Impression of Bob has been updated."
                             ]
                         },
                         {
@@ -15415,7 +15359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -15552,7 +15496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -15657,7 +15601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Boobs \\C[0]+1"
                             ]
                         },
                         {
@@ -15699,7 +15643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]手コキ\\C[0]　+1"
+                                "\\C[27]Handjob \\C[0]+1"
                             ]
                         },
                         {
@@ -15741,7 +15685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]ぶっかけ\\C[0]　+1"
+                                "\\C[27]Bukkake \\C[0]+1"
                             ]
                         },
                         {
@@ -15795,7 +15739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -15837,7 +15781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -15894,7 +15838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ショウタ　授乳手コキ】回想シーンが追加されました"
+                                "\"Syouta's Nursing Handjob\" reminiscence scene has been\nadded."
                             ]
                         },
                         {
@@ -15937,7 +15881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ショウタへの印象が更新されました"
+                                "Impression of Syouta has been updated."
                             ]
                         },
                         {
@@ -15968,7 +15912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -16105,7 +16049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -16203,7 +16147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]クンニ\\C[0]　+1"
+                                "\\C[27]Cunnilingus \\C[0]+1"
                             ]
                         },
                         {
@@ -16245,7 +16189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]手コキ\\C[0]　+1"
+                                "\\C[27]Handjob \\C[0]+1"
                             ]
                         },
                         {
@@ -16287,7 +16231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax \\C[0]+1"
                             ]
                         },
                         {
@@ -16329,7 +16273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]ぶっかけ\\C[0]　+1"
+                                "\\C[27]Bukkake \\C[0]+1"
                             ]
                         },
                         {
@@ -16383,7 +16327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -16425,7 +16369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -16482,7 +16426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ドルトン　69】回想シーンが追加されました"
+                                "\"Dalton 69\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -16532,7 +16476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンへの印象が更新されました"
+                                "Impression of Dalton has been updated."
                             ]
                         },
                         {
@@ -16563,7 +16507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -16700,7 +16644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -16798,7 +16742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]パイズリ\\C[0]　+1"
+                                "\\C[27]Paizuri (Titty Fuck) \\C[0]+1"
                             ]
                         },
                         {
@@ -16840,7 +16784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]フェラチオ\\C[0]　+1"
+                                "\\C[27]Fellatio \\C[0]+1"
                             ]
                         },
                         {
@@ -16882,7 +16826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]口内射精\\C[0]　+1"
+                                "\\C[27]Cum in Mouth \\C[0]+1"
                             ]
                         },
                         {
@@ -16936,7 +16880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -16978,7 +16922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -17035,7 +16979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アラシ　ゲスな要求】回想シーンが追加されました"
+                                "\"Arashi's Lewd Demands\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -17078,7 +17022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated."
                             ]
                         },
                         {
@@ -17109,7 +17053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -17246,7 +17190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -17310,21 +17254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ついにルナが\\C[10]寝取られてしまった\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ボブとの横取りイベント　～完～\\|"
+                                "Finally, Luna has been cuckolded, Bob's stealing event -\nComplete -"
                             ]
                         },
                         {
@@ -17389,7 +17319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]マンコ\\C[0]　+1"
+                                "\\C[27]Pussy \\C[0]+1"
                             ]
                         },
                         {
@@ -17431,7 +17361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax \\C[0]+1"
                             ]
                         },
                         {
@@ -17473,7 +17403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]浮気セックス\\C[0]　+1"
+                                "\\C[27]Cheating Sex \\C[0]+1"
                             ]
                         },
                         {
@@ -17515,7 +17445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]経験人数\\C[0]　+1"
+                                "\\C[27]Number of Sexual Partners \\C[0]+1"
                             ]
                         },
                         {
@@ -17569,7 +17499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -17611,7 +17541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Creampie \\C[0]+1"
                             ]
                         },
                         {
@@ -17653,7 +17583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+10"
+                                "\\C[27]Lewdness \\C[0]+10"
                             ]
                         },
                         {
@@ -17710,7 +17640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ボブ　SEXマッサージ】回想シーンが追加されました"
+                                "\"Bob's SEX Massage\" reminiscence scene has been added."
                             ]
                         },
                         {
@@ -17753,7 +17683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Impression of Bob has been updated."
                             ]
                         },
                         {
@@ -17784,7 +17714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -17982,7 +17912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -18046,21 +17976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ついにルナが\\C[10]寝取られてしまった\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ショウタとの横取りイベント　～完～\\|"
+                                "Finally, Luna has been cuckolded, Syouta's stealing event -\nComplete -"
                             ]
                         },
                         {
@@ -18139,7 +18055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]マンコ\\C[0]　+1"
+                                "\\C[27]Pussy \\C[0]+1"
                             ]
                         },
                         {
@@ -18181,7 +18097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax \\C[0]+1"
                             ]
                         },
                         {
@@ -18223,7 +18139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]浮気セックス\\C[0]　+1"
+                                "\\C[27]Cheating Sex \\C[0]+1"
                             ]
                         },
                         {
@@ -18265,7 +18181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]経験人数\\C[0]　+1"
+                                "\\C[27]Number of Sexual Partners \\C[0]+1"
                             ]
                         },
                         {
@@ -18319,7 +18235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -18361,7 +18277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Creampie \\C[0]+1"
                             ]
                         },
                         {
@@ -18403,7 +18319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+10"
+                                "\\C[27]Lewdness \\C[0]+10"
                             ]
                         },
                         {
@@ -18460,7 +18376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ショウタ　ショタSEX】回想シーンが追加されました"
+                                "[Syouta Shota SEX] Memory scene has been added"
                             ]
                         },
                         {
@@ -18503,7 +18419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ショウタへの印象が更新されました"
+                                "Impression of Syouta has been updated"
                             ]
                         },
                         {
@@ -18534,7 +18450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -18732,7 +18648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -18796,21 +18712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ついにルナが\\C[10]寝取られてしまった\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ドルトンとの横取りイベント　～完～\\|"
+                                "Finally, Luna has been cuckolded, Dalton's stealing event -\nComplete -"
                             ]
                         },
                         {
@@ -18882,7 +18784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]マンコ\\C[0]　+1"
+                                "\\C[27]Pussy \\C[0]+1"
                             ]
                         },
                         {
@@ -18924,7 +18826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax \\C[0]+1"
                             ]
                         },
                         {
@@ -18966,7 +18868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]浮気セックス\\C[0]　+1"
+                                "\\C[27]Cheating Sex \\C[0]+1"
                             ]
                         },
                         {
@@ -19008,7 +18910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]経験人数\\C[0]　+1"
+                                "\\C[27]Number of Sexual Partners \\C[0]+1"
                             ]
                         },
                         {
@@ -19062,7 +18964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -19104,7 +19006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Creampie \\C[0]+1"
                             ]
                         },
                         {
@@ -19146,7 +19048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+10"
+                                "\\C[27]Lewdness \\C[0]+10"
                             ]
                         },
                         {
@@ -19203,7 +19105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ドルトン　おじさんSEX】回想シーンが追加されました"
+                                "[Dalton Uncle SEX] Memory scene has been added"
                             ]
                         },
                         {
@@ -19253,7 +19155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンへの印象が更新されました"
+                                "Impression of Dalton has been updated"
                             ]
                         },
                         {
@@ -19284,7 +19186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -19482,7 +19384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -19546,21 +19448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　ついにルナが\\C[10]寝取られてしまった\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　　アラシとの横取りイベント　～完～\\|"
+                                "Finally, Luna has been cuckolded, Arashi's stealing event -\nComplete -"
                             ]
                         },
                         {
@@ -19632,7 +19520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]マンコ\\C[0]　+1"
+                                "\\C[27]Pussy \\C[0]+1"
                             ]
                         },
                         {
@@ -19674,7 +19562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax \\C[0]+1"
                             ]
                         },
                         {
@@ -19716,7 +19604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]浮気セックス\\C[0]　+1"
+                                "\\C[27]Cheating Sex \\C[0]+1"
                             ]
                         },
                         {
@@ -19758,7 +19646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]経験人数\\C[0]　+1"
+                                "\\C[27]Number of Sexual Partners \\C[0]+1"
                             ]
                         },
                         {
@@ -19812,7 +19700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extraction Volume \\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -19854,7 +19742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Creampie \\C[0]+1"
                             ]
                         },
                         {
@@ -19896,7 +19784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+10"
+                                "\\C[27]Lewdness \\C[0]+10"
                             ]
                         },
                         {
@@ -19953,7 +19841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アラシ　発情セックス】回想シーンが追加されました"
+                                "[Arashi Estrus SEX] Memory scene has been added"
                             ]
                         },
                         {
@@ -19996,7 +19884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated"
                             ]
                         },
                         {
@@ -20027,7 +19915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -20225,7 +20113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -22032,7 +21920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第3階層へ転移しますか？"
+                                "Would you like to transfer to the third layer?"
                             ]
                         },
                         {
@@ -22040,8 +21928,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -22264,7 +22152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第6階層へ転移しますか？"
+                                "Would you like to transfer to the 6th layer?"
                             ]
                         },
                         {
@@ -22272,8 +22160,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -22665,7 +22553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第4階層へ転移しますか？"
+                                "Would you like to transfer to the 4th layer?"
                             ]
                         },
                         {
@@ -22673,8 +22561,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -22897,7 +22785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第5階層へ転移しますか？"
+                                "Would you like to transfer to the 5th layer?"
                             ]
                         },
                         {
@@ -22905,8 +22793,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -23129,7 +23017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第11階層へ転移しますか？"
+                                "Would you like to transfer to the 11th floor?"
                             ]
                         },
                         {
@@ -23137,8 +23025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -23361,7 +23249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第16階層へ転移しますか？"
+                                "Would you like to warp to the 16th floor?"
                             ]
                         },
                         {
@@ -23369,8 +23257,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -23593,7 +23481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第21階層へ転移しますか？"
+                                "Would you like to transfer to the 21st floor?"
                             ]
                         },
                         {
@@ -23601,8 +23489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -23825,7 +23713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第7階層へ転移しますか？"
+                                "Would you like to transfer to the 7th layer?"
                             ]
                         },
                         {
@@ -23833,8 +23721,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -24057,7 +23945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第8階層へ転移しますか？"
+                                "Would you like to transfer to the 8th layer?"
                             ]
                         },
                         {
@@ -24065,8 +23953,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -24289,7 +24177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第9階層へ転移しますか？"
+                                "Would you like to transfer to the 9th layer?"
                             ]
                         },
                         {
@@ -24297,8 +24185,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -24521,7 +24409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第10階層へ転移しますか？"
+                                "Would you like to transfer to the 10th floor?"
                             ]
                         },
                         {
@@ -24529,8 +24417,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -24753,7 +24641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第12階層へ転移しますか？"
+                                "Would you like to transfer to the 12th floor?"
                             ]
                         },
                         {
@@ -24761,8 +24649,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -24985,7 +24873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第13階層へ転移しますか？"
+                                "Would you like to transfer to the 13th floor?"
                             ]
                         },
                         {
@@ -24993,8 +24881,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -25217,7 +25105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第14階層へ転移しますか？"
+                                "Would you like to warp to the 14th floor?"
                             ]
                         },
                         {
@@ -25225,8 +25113,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -25449,7 +25337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第15階層へ転移しますか？"
+                                "Would you like to transfer to the 15th floor?"
                             ]
                         },
                         {
@@ -25457,8 +25345,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -25681,7 +25569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第17階層へ転移しますか？"
+                                "Would you like to transfer to the 17th layer?"
                             ]
                         },
                         {
@@ -25689,8 +25577,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -25913,7 +25801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第18階層へ転移しますか？"
+                                "Would you like to transfer to the 18th floor?"
                             ]
                         },
                         {
@@ -25921,8 +25809,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -26145,7 +26033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第19階層へ転移しますか？"
+                                "Would you like to warp to the 19th floor?"
                             ]
                         },
                         {
@@ -26153,8 +26041,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -26377,7 +26265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第20階層へ転移しますか？"
+                                "Would you like to transfer to the 20th floor?"
                             ]
                         },
                         {
@@ -26385,8 +26273,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -26609,7 +26497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どのキャラクターで行動にしますか？"
+                                "Which character will you take action with?"
                             ]
                         },
                         {
@@ -26617,8 +26505,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ルナ\\B[2]",
-                                    "キャンセル\\B[4]"
+                                    "Luna\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -26849,7 +26737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どのキャラクターで行動にしますか？"
+                                "Which character will you take action with?"
                             ]
                         },
                         {
@@ -26857,9 +26745,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ルナ\\B[2]",
-                                    "ルナ&Taro\\B[3]",
-                                    "キャンセル\\B[4]"
+                                    "Luna\\B[2]",
+                                    "Luna & Taro\\B[3]",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 0,
@@ -27284,14 +27172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ルナは不在のため、パーティーに入れることができない"
+                                "Luna is absent, so she cannot join the party."
                             ]
                         },
                         {
@@ -27368,7 +27249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どのキャラクターで行動にしますか？"
+                                "Which character will you take action with?"
                             ]
                         },
                         {
@@ -27377,7 +27258,7 @@
                             "parameters": [
                                 [
                                     "Taro\\B[2]",
-                                    "キャンセル\\B[4]"
+                                    "Cancel\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -27608,7 +27489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どのキャラクターで行動にしますか？"
+                                "Which character will you take action with?"
                             ]
                         },
                         {
@@ -27617,8 +27498,8 @@
                             "parameters": [
                                 [
                                     "Taro\\B[2]",
-                                    "ルナ&Taro\\B[3]",
-                                    "キャンセル\\B[4]"
+                                    "Luna&Taro\\B[3]",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 0,
@@ -27998,7 +27879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドルトンを同行させますか？"
+                                "Would you like to bring Dalton along?"
                             ]
                         },
                         {
@@ -28006,8 +27887,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[3]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[3]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -28250,7 +28131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taroとの同行はできません"
+                                "You cannot accompany Taro."
                             ]
                         },
                         {
@@ -28330,14 +28211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ドルトンは不在のため、パーティーに入れることができない"
+                                "Dalton is absent, so he cannot join the party."
                             ]
                         },
                         {
@@ -28414,7 +28288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボブを同行させますか？"
+                                "Would you like Bob to accompany you?"
                             ]
                         },
                         {
@@ -28422,8 +28296,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[3]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[3]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -28666,7 +28540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taroとの同行はできません"
+                                "You cannot accompany Taro."
                             ]
                         },
                         {
@@ -28746,14 +28620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ボブは不在のため、パーティーに入れることができない"
+                                "Bob is absent, so he can't join the party."
                             ]
                         },
                         {
@@ -28830,7 +28697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラシを同行させますか？"
+                                "Would you like to take Arashi along?"
                             ]
                         },
                         {
@@ -28838,8 +28705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[3]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[3]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -29082,7 +28949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taroとの同行はできません"
+                                "You cannot accompany Taro."
                             ]
                         },
                         {
@@ -29162,14 +29029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　アラシは不在のため、パーティーに入れることができない"
+                                "Arashi is absent, so you can't add him to the party."
                             ]
                         },
                         {
@@ -29246,7 +29106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショウタを同行させますか？"
+                                "Would you like to take Syouta along?"
                             ]
                         },
                         {
@@ -29254,8 +29114,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[3]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[3]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -29498,7 +29358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taroとの同行はできません"
+                                "You cannot accompany Taro."
                             ]
                         },
                         {
@@ -29578,14 +29438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　ショウタは不在のため、パーティーに入れることができない"
+                                "Syouta is absent, so he cannot join the party."
                             ]
                         },
                         {
@@ -29708,21 +29561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(1/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 ルナとTaro\"\\C[3]二人\\C[0]\"でタワーダンジョンへ入ると曜日によっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　待ち伏せていた間男から\\C[10]ルナだけ誘われる\\C[0]イベントが発生します\\|"
+                                "～Cuckold System～(1/3) When Luna and Taro enter the Tower\nDungeon as a \"\\C[3]pair\\C[0]\", depending on the day of the\nweek, an event may occur where a lurking rival man\n\\C[10]invites only Luna\\C[0]."
                             ]
                         },
                         {
@@ -29751,28 +29590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(2/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　Taroの選択で誘いを断ることが可能ですが、もし間男へルナを譲ってしまうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 　\"間男との関係\"が進展してしまいますのでご注意ください"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　 　　(\\C[2]初期段階の間男とは発生しません\\C[0]) \\|"
+                                "～Cuckold System～(2/3) Taro can choose to decline the\ninvitation, but if he allows Luna to go with the rival man,\n\"the relationship with the rival man\" will progress, so\nplease be careful (This does not occur with \\C[2]initial\nstage rival men\\C[0])."
                             ]
                         },
                         {
@@ -29801,28 +29619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(3/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 　　　　　　　間男が現れる曜日は以下となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　  　 　\\C[3]月曜日\\C[0]：アラシ　　\\C[1]水曜日\\C[0]：ドルトン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　   　\\C[17]金曜日\\C[0]：ショウタ　\\C[20]土曜日\\C[0]：ボブ\\|"
+                                "～Cuckold System～(3/3) The days of the week when the rival\nmen appear are as follows: \\C[3]Monday\\C[0]: Arashi,\n\\C[1]Wednesday\\C[0]: Dalton, \\C[17]Friday\\C[0]: Syouta,\n\\C[20]Saturday\\C[0]: Bob"
                             ]
                         },
                         {
@@ -29851,21 +29648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　タワーダンジョンの前にある\\C[14]掲示板\\C[0]から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　 　いつでも間男が出現する\\C[2]曜日\\C[0]など確認することができます\\|"
+                                "You can check the \\C[14]notice board\\C[0] in front of the\nTower Dungeon at any time to see which days the rival men\nappear."
                             ]
                         },
                         {

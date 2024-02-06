@@ -9979,21 +9979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　急転直下な展開に二人はとにかく身支度を済ませ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　借金取りの指示のもと、目的の島へ船で移動する二人であった"
+                                "In a sudden turn of events, the two hurriedly prepared\nthemselves and, following the instructions of the debt\ncollector, set sail for the designated island."
                             ]
                         },
                         {
@@ -10036,7 +10022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>お、見えてきたぜ～アレがアンタらが滞在する孤島だ"
+                                "\\N<Sailor>Oh, there it is! That's the deserted island where you'll be\nstaying."
                             ]
                         },
                         {
@@ -10079,7 +10065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>わあ……自然豊かで綺麗な島……♪"
+                                "\\N<Luna>Wow... such a naturally rich and beautiful island...♪"
                             ]
                         },
                         {
@@ -10096,14 +10082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>まわりは何もない絶海の孤島だが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くの冒険者が一攫千金を狙って、わんさか集まっているんぜ～"
+                                "\\N<Sailor>It's a remote island in the middle of nowhere, but it's\nswarming with adventurers all aiming for a quick fortune."
                             ]
                         },
                         {
@@ -10120,7 +10099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(「憂鬱だなあ」なんて……言えないや……)"
+                                "\\N<Taro>(\"This is so depressing\"... I can't say that...)"
                             ]
                         },
                         {
@@ -10137,14 +10116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>安心しな、宿もあるし飲み食いできる店もある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きるには困らないし、遊びもちょっとはある島だぜ♪"
+                                "\\N<Sailor>Don't worry, there are inns and places to eat and drink.\nIt's an island where you won't have trouble living, and\nthere's even a bit of entertainment.♪"
                             ]
                         },
                         {
@@ -10161,14 +10133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>ただ……小耳の挟んだ噂によるとよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島に行くカップルは不仲になって別れるって……、いや気にすることはねえよ"
+                                "\\N<Sailor>However... I've heard rumors that couples who come to this\nisland end up falling out and breaking up... but, nah, it's\nnothing to worry about."
                             ]
                         },
                         {
@@ -10185,7 +10150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……………ん？？"
+                                "\\N<Luna>...Hm??"
                             ]
                         },
                         {
@@ -10202,14 +10167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>悪い悪い♪気を取り直して～あんたら、島への上陸は初めてだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単に何があるのか教えてやるよ"
+                                "\\N<Sailor>My bad, my bad♪ Let's start over—this is your first time\nlanding on the island, right? I'll give you a brief rundown\nof what's here."
                             ]
                         },
                         {
@@ -10226,7 +10184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>それじゃあまず初めは～～島のシンボル的建物からだな"
+                                "\\N<Sailor>First off, let's start with the island's symbolic structure."
                             ]
                         },
                         {
@@ -10340,14 +10298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>島の奥にでかくそびえ立っているのが\\C[3]タワーダンジョン\\C[0]だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者たちはここの踏破を目的として集まってきてるわけだ"
+                                "\\N<Sailor>Towering in the back of the island is the \\C[27]Tower\nDungeon\\C[2]! Adventurers gather here with the goal of\nconquering it."
                             ]
                         },
                         {
@@ -10364,14 +10315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>最上階にいるボスの報奨金がとんでもないとか聞いたぜ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんなヤバいモンスターか…船乗りの俺には想像もつかないぜ、次は…"
+                                "\\N<Sailor>I've heard that the bounty for the boss on the top floor is\noutrageous—what kind of fearsome monster it could be... even\na sailor like me can't imagine, next..."
                             ]
                         },
                         {
@@ -10485,14 +10429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>冒険者たちの拠点である\\C[3]村\\C[0]は、それなりににぎわってるぜ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器屋、道具屋、ギルドに露天風呂だってあるんだ、立派だろ？"
+                                "\\N<Sailor>The \\C[27]village\\C[2], which serves as a base for\nadventurers, is fairly bustling—there's a weapon shop, an\nitem shop, a guild, and even an open-air bath. Impressive,\nright?"
                             ]
                         },
                         {
@@ -10509,14 +10446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>まあダンジョンに行くならまずはこの村でしっかり準備していきな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低限の備えくらいはできるだろうよ"
+                                "\\N<Sailor>Well, if you're going to the dungeon, you should definitely\nprepare thoroughly in this village first. You should at\nleast be able to get the bare essentials ready."
                             ]
                         },
                         {
@@ -10630,14 +10560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>ダンジョンに行くよりもっと簡単に稼ぐ方法もあるぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猛者共の巣窟、\\C[3]コロシアム\\C[0]さ"
+                                "\\N<Sailor>There's also an easier way to make money than going to the\ndungeon—the den of the brave, the \\C[27]Colosseum\\C[2]."
                             ]
                         },
                         {
@@ -10654,14 +10577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>腕に自信があるならあんたらも行ってみるといい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強敵を倒して大金をゲット！ってな"
+                                "\\N<Sailor>If you're confident in your skills, you should give it a\ntry. Defeat strong opponents and get a big payday!"
                             ]
                         },
                         {
@@ -10775,14 +10691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>この島には\\C[3]スラム\\C[0]もあるんだ～ダンジョンに次いで治安の悪い地域だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風俗、ダンスバー、マッサージ屋……なんでもござれの無法地帯さ"
+                                "\\N<Sailor>This island also has a \\C[27]slum\\C[2]—second only to the\ndungeon in terms of poor security. Brothels, dance bars,\nmassage parlors... it's a lawless zone where anything goes."
                             ]
                         },
                         {
@@ -10799,14 +10708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>嬢ちゃんみたいな女は近づかない方がいいぜ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、楽して金を稼ぎたいなら話は別だがな！　ガーッハッハッハ！"
+                                "\\N<Sailor>A young lady like you shouldn't get too close—unless you\nwant to make money the easy way! Gah-hah-hah-hah!"
                             ]
                         },
                         {
@@ -10920,14 +10822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>あのでかい木は\\C[3]世界樹\\C[0]と呼ばれているが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんのために存在してそう呼ばれているのかは、正直なところよくわからねえ"
+                                "\\N<Sailor>That huge tree is called the \\C[27]World Tree\\C[2]... but to\nbe honest, I'm not really sure why it exists or why it's\ncalled that."
                             ]
                         },
                         {
@@ -10944,14 +10839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>噂によると、\\C[27]女だけ\\C[0]で行くと何か聞こえるらしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も行ったことがあるが、何も聞こえなかったから本当だぜ"
+                                "\\N<Sailor>Rumor has it that if [Color_27]only women\\C[2] go there,\nthey can hear something. I've been there myself but didn't\nhear anything, so it must be true."
                             ]
                         },
                         {
@@ -11065,14 +10953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>そして最後は\\C[3]ビーチ\\C[0]だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの砂浜だが、このビーチは\\C[2]カニ\\C[0]がよく採れるんだ"
+                                "\\N<Sailor>And lastly, there's the \\C[27]beach\\C[2]! It's just a sandy\nshore, but this beach is known for having lots of\n\\C[3]crabs\\C[2]."
                             ]
                         },
                         {
@@ -11089,14 +10970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>決して高価とは言えないが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初期装備を整えるくらいには稼げるぞ"
+                                "\\N<Sailor>They're not particularly valuable, but you can make enough\nto get some initial equipment."
                             ]
                         },
                         {
@@ -11113,14 +10987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>あんたらに良いことを教えてやるよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砂浜の奥で稀に現れる\\C[2]でかいカニ\\C[0]は、少し多めに稼げるぞ"
+                                "\\N<Sailor>I'll let you in on a good tip—the \\C[3]big crabs\\C[2] that\noccasionally appear at the back of the beach can earn you a\nbit more."
                             ]
                         },
                         {
@@ -11137,7 +11004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>ビーチへ行ったときは探してみると良いぜ～"
+                                "\\N<Sailor>When you go to the beach, it might be worth looking for\nthem."
                             ]
                         },
                         {
@@ -11154,14 +11021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>…って感じかなー、説明はザっとこんなところだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと詳しく知りたいなら直接足を運んでみるといいぜ"
+                                "\\N<Sailor>...That's about it for an overview. If you want to know more\ndetails, you should go check them out for yourself."
                             ]
                         },
                         {
@@ -11183,14 +11043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>説明ありがとうございました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "島に何があるのかわかりました♪"
+                                "\\N<Luna>Thank you for the explanation. Now I understand what's on\nthe island.♪"
                             ]
                         },
                         {
@@ -11207,14 +11060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>へへへ♪いいってことよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、そろそろ到着するぞ～降りる支度をしな！"
+                                "\\N<Sailor>Hehehe♪ No problem at all. We're about to arrive—get ready\nto disembark!"
                             ]
                         },
                         {

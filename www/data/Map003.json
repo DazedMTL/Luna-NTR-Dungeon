@@ -9237,7 +9237,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "気分が高揚してくるのよね♪>"
+                                "It's making me feel so excited♪"
                             ]
                         },
                         {
@@ -9368,7 +9368,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "いつか中ボスに挑戦するぞ>"
+                                "Someday I'll Challenge the Mid-Boss"
                             ]
                         },
                         {
@@ -10421,7 +10421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"ボス級\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>We handle cash transactions for \"boss-level\" monsters here."
                             ]
                         },
                         {
@@ -10450,14 +10450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　　\\C[2]塔6階層\\C[0]にいる中ボスに挑みましょう"
+                                "\\C[2]Let's challenge the mid-boss on the \\C[0]6th floor of\nthe tower."
                             ]
                         },
                         {
@@ -10532,7 +10525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"\\C[2]ボス級\\C[0]\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>\"We handle the exchange of \\C[2]boss-level\\C[0] monsters\nhere.\""
                             ]
                         },
                         {
@@ -10556,7 +10549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "換金するボス級モンスターを選んでください"
+                                "Please select the boss-level monster you wish to exchange."
                             ]
                         },
                         {
@@ -10564,8 +10557,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "人喰いラフレシア【\\C[17]50万G\\C[0]】\\B[2]",
-                                    "やめる\\B[4]"
+                                    "Man-Eating Rafflesia【\\C[17]500,000G\\C[0]】\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -10603,7 +10596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～人喰いラフレシア、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This appears to be... a Man-Eating Rafflesia... Allow me a\nmoment to confirm...\""
                             ]
                         },
                         {
@@ -10747,14 +10740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人喰いラフレシアですので…\"\\C[17]50万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' Man-\nEating Rafflesia monster... We will buy it from you for\n\\C[17]500,000G\\C[0].\""
                             ]
                         },
                         {
@@ -10780,7 +10766,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer as there was no issue with the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -10830,14 +10816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on defeating such a formidable boss-level\nmonster.\""
                             ]
                         },
                         {
@@ -10943,7 +10922,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{500000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You have received a bounty of \\C[17]500,000\\G[Color_2]G!"
                             ]
                         },
                         {
@@ -10982,7 +10961,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -11097,7 +11076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"\\C[2]ボス級\\C[0]\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>\"We handle the exchange of \\C[2]boss-level\\C[0] monsters\nhere.\""
                             ]
                         },
                         {
@@ -11121,7 +11100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "換金するボス級モンスターを選んでください"
+                                "Please select the boss-level monster you wish to exchange."
                             ]
                         },
                         {
@@ -11129,9 +11108,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "人喰いラフレシア【\\C[17]50万G\\C[0]】\\B[2]",
-                                    "巨大トロール【\\C[17]75万G\\C[0]】\\B[2]",
-                                    "やめる\\B[4]"
+                                    "Man-Eating Rafflesia【\\C[17]500,000G\\C[0]】\\B[2]",
+                                    "Giant Troll【\\C[17]750,000G\\C[0]】\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 0,
@@ -11169,7 +11148,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～人喰いラフレシア、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This appears to be... a Man-Eating Rafflesia... Allow me a\nmoment to confirm...\""
                             ]
                         },
                         {
@@ -11313,14 +11292,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人喰いラフレシアですので…\"\\C[17]50万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' monster,\nthe Man-Eating Rafflesia... We will buy it for\n\\C[17]500,000G\\C[0].\""
                             ]
                         },
                         {
@@ -11346,7 +11318,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer as there was no issue with the large\nsum of gold presented."
                             ]
                         },
                         {
@@ -11396,14 +11368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood. This is your reward for this time.\nCongratulations on defeating such a formidable boss-level\nmonster.\""
                             ]
                         },
                         {
@@ -11509,7 +11474,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{500000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You have obtained a bounty of \\C[17]500,000\\G[Color_2]G!"
                             ]
                         },
                         {
@@ -11548,7 +11513,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -11603,7 +11568,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～巨大トロール、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This seems to be... a Giant Troll... Allow me a moment to\nconfirm...\""
                             ]
                         },
                         {
@@ -11747,14 +11712,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大トロールですので…\"\\C[17]75万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' monster,\nthe Giant Troll... We will buy it for \\C[17]750,000G\\C[0].\""
                             ]
                         },
                         {
@@ -11780,7 +11738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer as there was no issue with the large\nsum of gold presented."
                             ]
                         },
                         {
@@ -11830,14 +11788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood. This is your reward for this time.\nCongratulations on defeating such a formidable boss-level\nmonster.\""
                             ]
                         },
                         {
@@ -11943,7 +11894,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{750000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You have obtained a bounty of \\C[17]750,000\\G[Color_2]G!"
                             ]
                         },
                         {
@@ -11982,7 +11933,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -12097,7 +12048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"\\C[2]ボス級\\C[0]\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>\"We are conducting cash transactions for '\\C[2]boss-\nlevel\\C[0]' monsters here.\""
                             ]
                         },
                         {
@@ -12121,7 +12072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "換金するボス級モンスターを選んでください"
+                                "Please select the boss-level monster you wish to exchange\nfor cash."
                             ]
                         },
                         {
@@ -12129,10 +12080,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "人喰いラフレシア【\\C[17]50万G\\C[0]】\\B[2]",
-                                    "巨大トロール【\\C[17]75万G\\C[0]】\\B[2]",
-                                    "烈火のケルベロス【\\C[17]100万G\\C[0]】\\B[2]",
-                                    "やめる\\B[4]"
+                                    "Man-Eating Rafflesia【\\C[17]500,000G\\C[0]】\\B[2]",
+                                    "Giant Troll【\\C[17]750,000G\\C[0]】\\B[2]",
+                                    "Blazing Cerberus【\\C[17]1,000,000G\\C[0]】\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 3,
                                 0,
@@ -12170,7 +12121,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～人喰いラフレシア、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This appears to be... a Man-Eating Rafflesia... Allow me a\nmoment to confirm...\""
                             ]
                         },
                         {
@@ -12314,14 +12265,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人喰いラフレシアですので…\"\\C[17]50万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' Man-\nEating Rafflesia monster... We will purchase it for\n'\\C[17]500,000G\\C[0]'.\""
                             ]
                         },
                         {
@@ -12347,7 +12291,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer as there was no issue with the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -12397,14 +12341,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on subduing such a formidable boss-level\nmonster.\""
                             ]
                         },
                         {
@@ -12510,7 +12447,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{500000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I acquired a bounty of \\C[17]500,000\\G[Color_2]!"
                             ]
                         },
                         {
@@ -12549,7 +12486,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -12604,7 +12541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～巨大トロール、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This seems to be... a Giant Troll... Allow me a moment to\nconfirm...\""
                             ]
                         },
                         {
@@ -12748,14 +12685,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大トロールですので…\"\\C[17]75万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' Giant\nTroll monster... We will purchase it for\n'\\C[17]750,000G\\C[0]'.\""
                             ]
                         },
                         {
@@ -12781,7 +12711,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer as there was no issue with the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -12831,14 +12761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on subduing such a formidable boss-level\nmonster.\""
                             ]
                         },
                         {
@@ -12944,7 +12867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{750000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I acquired a bounty of \\C[17]750,000\\G[Color_2]!"
                             ]
                         },
                         {
@@ -12983,7 +12906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -13038,7 +12961,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは…おぉ～～烈火のケルベロスではないか！少々確認します..."
+                                "\\N<Receptionist>\"Is this... Oh! A Blazing Cerberus! Allow me a moment to\nconfirm...\""
                             ]
                         },
                         {
@@ -13182,14 +13105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "烈火のケルベロスですので…\"\\C[17]100万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'rare' Blazing Cerberus\nmonster... We will purchase it for '\\C[17]1,000,000G\\C[0]'.\""
                             ]
                         },
                         {
@@ -13227,7 +13143,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドに驚きながら承諾した"
+                                "I was surprised by the large sum of gold offered but\naccepted it nonetheless."
                             ]
                         },
                         {
@@ -13277,14 +13193,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "手強いボス級討伐を…すごいですね、おめでとうございまーす！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time. You've\ndone an impressive job subduing such a formidable boss-level\nmonster... Congratulations!\""
                             ]
                         },
                         {
@@ -13390,7 +13299,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{1000000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I acquired a bounty of \\C[17]1,000,000\\G[Color_2]!"
                             ]
                         },
                         {
@@ -13429,7 +13338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -13544,7 +13453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"\\C[2]ボス級\\C[0]\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>\"We handle the exchange of 'Boss-class' monsters here.\""
                             ]
                         },
                         {
@@ -13568,7 +13477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "換金するボス級モンスターを選んでください"
+                                "Please select the Boss-class monster you wish to exchange."
                             ]
                         },
                         {
@@ -13576,11 +13485,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "人喰いラフレシア【\\C[17]50万G\\C[0]】\\B[2]",
-                                    "巨大トロール【\\C[17]75万G\\C[0]】\\B[2]",
-                                    "烈火のケルベロス【\\C[17]100万G\\C[0]】\\B[2]",
-                                    "魔のイーヴィルゴッド【\\C[17]125万G\\C[0]】\\B[2]",
-                                    "やめる\\B[4]"
+                                    "Man-Eating Rafflesia【\\C[17]500,000G\\C[0]】\\B[2]",
+                                    "Giant Troll【\\C[17]750,000G\\C[0]】\\B[2]",
+                                    "Inferno Cerberus【\\C[17]1,000,000G\\C[0]】\\B[2]",
+                                    "Demon Evil God【\\C[17]1,250,000G\\C[0]】\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 4,
                                 0,
@@ -13618,7 +13527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～人喰いラフレシア、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This appears to be... a Man-Eating Rafflesia, let me\nconfirm this...\""
                             ]
                         },
                         {
@@ -13762,14 +13671,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人喰いラフレシアですので…\"\\C[17]50万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is indeed a 'somewhat rare'\nMan-Eating Rafflesia monster... We will buy it for\n'500,000G'.\""
                             ]
                         },
                         {
@@ -13795,7 +13697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer without any issues due to the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -13845,14 +13747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on defeating such a formidable Boss-class\nmonster!\""
                             ]
                         },
                         {
@@ -13958,7 +13853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{500000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You've received a bounty of 500,000G!"
                             ]
                         },
                         {
@@ -13997,7 +13892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -14052,7 +13947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～巨大トロール、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This seems to be... a Giant Troll, let me confirm this...\""
                             ]
                         },
                         {
@@ -14196,14 +14091,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大トロールですので…\"\\C[17]75万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is indeed a 'somewhat rare'\nGiant Troll monster... We will buy it for '750,000G'.\""
                             ]
                         },
                         {
@@ -14229,7 +14117,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer without any issues due to the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -14279,14 +14167,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on defeating such a formidable Boss-class\nmonster!\""
                             ]
                         },
                         {
@@ -14392,7 +14273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{750000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You've received a bounty of 750,000G!"
                             ]
                         },
                         {
@@ -14431,7 +14312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -14486,7 +14367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは…おぉ～～烈火のケルベロスではないか！少々確認します..."
+                                "\\N<Receptionist>\"Is this... Oh! A Blazing Cerberus! Let me confirm this...\""
                             ]
                         },
                         {
@@ -14630,14 +14511,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "烈火のケルベロスですので…\"\\C[17]100万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is indeed a 'rare' Blazing\nCerberus monster... We will buy it for '1,000,000G'.\""
                             ]
                         },
                         {
@@ -14675,7 +14549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドに驚きながら承諾した"
+                                "I was surprised by the large sum of gold offered but\naccepted it nonetheless."
                             ]
                         },
                         {
@@ -14725,14 +14599,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "手強いボス級討伐を…すごいですね、おめでとうございまーす！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time. It's\namazing that you can defeat such a Boss-class monster...\nCongratulations!\""
                             ]
                         },
                         {
@@ -14838,7 +14705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{1000000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You've received a bounty of 1,000,000G!"
                             ]
                         },
                         {
@@ -14877,7 +14744,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -14932,14 +14799,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こ、これは！魔のイーヴィルゴッドではないか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか目にする事がないモンスターだ……少々確認します..."
+                                "\\N<Receptionist>\"This is! Could it be the Evil God?! It's a monster one\nrarely sees... Let me confirm this...\""
                             ]
                         },
                         {
@@ -15083,14 +14943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"上レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "間違いなく魔のイーヴィルゴッドでしたので…\"\\C[17]125万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is undoubtedly the 'super\nrare' Evil God monster... We will buy it for '1,250,000G'.\""
                             ]
                         },
                         {
@@ -15128,7 +14981,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドに驚きながら承諾した"
+                                "I was surprised by the large sum of gold offered but\naccepted it nonetheless."
                             ]
                         },
                         {
@@ -15178,14 +15031,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなボス級まで討伐できるなんて…すごいです！おめでとうございまーす！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time. To be\nable to defeat such a Boss-class monster... You're\nincredible! Congratulations!\""
                             ]
                         },
                         {
@@ -15291,7 +15137,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{1250000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "You've received a bounty of 1,250,000G!"
                             ]
                         },
                         {
@@ -15330,7 +15176,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged. Please choose\nanother option.\""
                             ]
                         },
                         {
@@ -15445,7 +15291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<受付>こちらでは\"\\C[2]ボス級\\C[0]\"モンスターの換金取引を行っております"
+                                "\\N<Receptionist>\"We are conducting cash transactions for 'boss-class'\nmonsters here.\""
                             ]
                         },
                         {
@@ -15469,7 +15315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "換金するボス級モンスターを選んでください"
+                                "Please select the boss-class monster you wish to exchange\nfor cash."
                             ]
                         },
                         {
@@ -15477,12 +15323,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "人喰いラフレシア【\\C[17]50万G\\C[0]】\\B[2]",
-                                    "巨大トロール【\\C[17]75万G\\C[0]】\\B[2]",
-                                    "烈火のケルベロス【\\C[17]100万G\\C[0]】\\B[2]",
-                                    "魔のイーヴィルゴッド【\\C[17]125万G\\C[0]】\\B[2]",
-                                    "要塞のアイロンジャイアント【\\C[17]500万G\\C[0]】\\B[2]",
-                                    "やめる\\B[4]"
+                                    "Man-Eating Rafflesia【\\C[17]500,000G\\C[0]】\\B[2]",
+                                    "Giant Troll【\\C[17]750,000G\\C[0]】\\B[2]",
+                                    "Blazing Cerberus【\\C[17]1,000,000G\\C[0]】\\B[2]",
+                                    "Demon Evil God【\\C[17]1,250,000G\\C[0]】\\B[2]",
+                                    "Fortress Iron Giant【\\C[17]5,000,000G\\C[0]】\\B[2]",
+                                    "Cancel\\B[4]"
                                 ],
                                 5,
                                 0,
@@ -15520,7 +15366,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～人喰いラフレシア、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This appears to be... a Man-Eating Rafflesia, doesn't it?\nAllow me a moment to confirm...\""
                             ]
                         },
                         {
@@ -15664,14 +15510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人喰いラフレシアですので…\"\\C[17]50万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' monster,\nthe Man-Eating Rafflesia. We will purchase it for\n'500,000G'.\""
                             ]
                         },
                         {
@@ -15697,7 +15536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer without any issues due to the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -15747,14 +15586,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on defeating such a formidable boss-class\nmonster.\""
                             ]
                         },
                         {
@@ -15860,7 +15692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{500000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I gained a bounty of 500000G!"
                             ]
                         },
                         {
@@ -15899,7 +15731,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -15954,7 +15786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは～～巨大トロール、のようですね……少々確認します..."
+                                "\\N<Receptionist>\"This seems to be... a Giant Troll, doesn't it? Allow me a\nmoment to confirm...\""
                             ]
                         },
                         {
@@ -16098,14 +15930,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"ややレア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大トロールですので…\"\\C[17]75万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'somewhat rare' monster,\nthe Giant Troll. We will purchase it for '750,000G'.\""
                             ]
                         },
                         {
@@ -16131,7 +15956,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドで問題なかったため承諾した"
+                                "I accepted the offer without any issues due to the\nsubstantial amount of gold presented."
                             ]
                         },
                         {
@@ -16181,14 +16006,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか手強いボス級討伐、おめでとうございまーす"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nCongratulations on defeating such a formidable boss-class\nmonster.\""
                             ]
                         },
                         {
@@ -16294,7 +16112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{750000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I gained a bounty of 750000G!"
                             ]
                         },
                         {
@@ -16333,7 +16151,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -16388,7 +16206,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>これは…おぉ～～烈火のケルベロスではないか！少々確認します..."
+                                "\\N<Receptionist>\"Is this... oh my, the Blazing Cerberus! Allow me a moment\nto confirm...\""
                             ]
                         },
                         {
@@ -16532,14 +16350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "烈火のケルベロスですので…\"\\C[17]100万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This is a 'rare' monster, the\nBlazing Cerberus. We will purchase it for '1,000,000G'.\""
                             ]
                         },
                         {
@@ -16577,7 +16388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドに驚きながら承諾した"
+                                "I was surprised by the large amount of gold offered but\naccepted it nonetheless."
                             ]
                         },
                         {
@@ -16627,14 +16438,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "手強いボス級討伐を…すごいですね、おめでとうございまーす！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time.\nDefeating such a tough boss-class monster... amazing!\nCongratulations!\""
                             ]
                         },
                         {
@@ -16740,7 +16544,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{1000000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I gained a bounty of 1000000G!"
                             ]
                         },
                         {
@@ -16779,7 +16583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -16855,14 +16659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こ、これは！魔のイーヴィルゴッド…ですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか目にする事がないモンスターだ……少々確認します..."
+                                "\\N<Receptionist>\"Could this be! The Evil God...? It's quite rare to see such\na monster... Allow me a moment to confirm...\""
                             ]
                         },
                         {
@@ -17006,14 +16803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました～～こちら\"上レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\"魔のイーヴィルゴッド\"でしたので…\"\\C[17]125万G\\C[0]\"で買い取らせていただきます"
+                                "\\N<Receptionist>\"Thank you for waiting... This was indeed the 'upper rare'\nmonster 'Evil God'. We will purchase it for '1,250,000G'.\""
                             ]
                         },
                         {
@@ -17051,7 +16841,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "提示された大金のゴールドに驚きながら承諾した"
+                                "I was surprised by the large amount of gold offered but\naccepted it nonetheless."
                             ]
                         },
                         {
@@ -17101,14 +16891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなボス級まで討伐できるなんて…すごいです！おめでとうございまーす！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time. To be\nable to defeat such a boss-class monster... incredible!\nCongratulations!\""
                             ]
                         },
                         {
@@ -17214,7 +16997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{1250000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I gained a bounty of 1250000G!"
                             ]
                         },
                         {
@@ -17253,7 +17036,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -17368,14 +17151,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こ、これはまさか\"要塞のアイロンジャイアント\"ではないですか！？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "初めて拝見しました……少々じっくり確認させていただきますね..."
+                                "\\N<Receptionist>\"Could this possibly be the 'Fortress Iron Giant'? I've\nnever seen one before... Allow me some time to thoroughly\nconfirm...\""
                             ]
                         },
                         {
@@ -17621,14 +17397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>お待たせしました！こちら\"超レア\"モンスターの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\"要塞のアイロンジャイアント\"で間違いないです！"
+                                "\\N<Receptionist>\"Thank you for waiting! There's no mistake, this is the\n'super rare' monster 'Fortress Iron Giant'!\""
                             ]
                         },
                         {
@@ -17645,7 +17414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらの討伐報酬はタワーダンジョン最高額の\\{\"\\C[17]500万G\\C[0]\"\\}で買い取らせていただきます！"
+                                "\\N<Receptionist>\"The bounty for defeating this one is the highest amount in\nthe Tower Dungeon, '5,000,000G'! We will purchase it at that\nprice!\""
                             ]
                         },
                         {
@@ -17683,7 +17452,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これまでの何倍もの金額を提示され、目が点になりながらも承諾した"
+                                "I was astounded by the amount offered, which was many times\nmore than before, but I accepted it nonetheless."
                             ]
                         },
                         {
@@ -17733,14 +17502,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>かしこまりました、こちらが今回分の報酬となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ついに制覇してしまうなんて恐れ入りました～！おめでとうございます！"
+                                "\\N<Receptionist>\"Understood, this will be your reward for this time. To have\nconquered it is truly awe-inspiring! Congratulations!\""
                             ]
                         },
                         {
@@ -17846,7 +17608,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "懸賞金\\C[17]\\{5000000\\G\\}\\C[0]を手に入れた！\\|\\|\\|"
+                                "I gained a bounty of 5000000G!"
                             ]
                         },
                         {
@@ -17863,14 +17625,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>貴方様ほどの実力をお持ちの方であれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これからダンジョン攻略で稼ぐよりも\"コロシアム\"に挑戦されてはいかがですか？"
+                                "\\N<Receptionist>\"For someone with your abilities, perhaps you might consider\nchallenging the 'Colosseum' instead of earning more from\ndungeon conquests?\""
                             ]
                         },
                         {
@@ -17887,7 +17642,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>戦いに勝利すると何十万Gも獲得できると聞きましたよ？"
+                                "\\N<Receptionist>\"I've heard you can win hundreds of thousands of G by\nemerging victorious in battle there.\""
                             ]
                         },
                         {
@@ -17904,14 +17659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>強敵ばかりで簡単には勝利できないようですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラスボスに勝利する貴方様であればいいところまでいけるのではないでしょうか♪"
+                                "\\N<Receptionist>\"It's full of formidable enemies and won't be easy to win,\nbut someone who can defeat the final boss like yourself\nshould be able to go far, don't you think? ♪\""
                             ]
                         },
                         {
@@ -17928,7 +17676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>ご検討してみてはいかがですか～～それではお疲れ様です"
+                                "\\N<Receptionist>\"Why not give it some thought? Well then, thank you for your\nhard work.\""
                             ]
                         },
                         {
@@ -17976,7 +17724,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<受付>こちらはすでに換金済みのモンスターとなります、他の選択肢をお選びください"
+                                "\\N<Receptionist>\"This monster has already been exchanged for cash, please\nchoose another option.\""
                             ]
                         },
                         {
@@ -18303,14 +18051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>ほっほっほ～～これからダンジョン攻略をしに行くのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若いうちは経験を積むのが一番じゃ、良い事良い事♪"
+                                "\\N<Former Adventurer>Ho ho ho~ Are you off to conquer the dungeon? Gaining\nexperience while you're young is the best thing, truly a\ngood thing indeed♪"
                             ]
                         },
                         {
@@ -18327,7 +18068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>そんな新米冒険者のお主に役立つ\"ちょっと良い話\"があるんじゃが♪"
+                                "\\N<Former Adventurer>I have a \"little good story\" that might be useful for a\ngreenhorn adventurer like yourself♪"
                             ]
                         },
                         {
@@ -18353,14 +18094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>ワシももう冒険を引退した身…これまで集めてきたアイテムの中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "島では売っていないレアな便利アイテムをお主に売ってやろう♪"
+                                "\\N<Former Adventurer>I've retired from adventuring... Among the items I've\ncollected, there are rare and handy items not sold on the\nisland that I'm willing to sell to you♪"
                             ]
                         },
                         {
@@ -18398,14 +18132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>ここのダンジョンは各エリアが広大じゃ…闇雲に攻略していては時間の無駄無駄..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効率よくダンジョンを進み、短期間で高層階へ行くのがベストじゃ"
+                                "\\N<Former Adventurer>The areas in this dungeon are vast... It's a waste of time\nto blindly tackle it... The best strategy is to efficiently\nnavigate the dungeon and reach the higher floors in a short\nperiod."
                             ]
                         },
                         {
@@ -18422,14 +18149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>じゃが、次の階層へ行く階段は\\C[4]毎回移動する\\C[0]仕組みになっておるじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直ワシが現役の頃はモンスター討伐だけでなく\"階段探し\"にも苦労したわい"
+                                "\\N<Former Adventurer>However, the stairs to the next floor \\C[4]move every\ntime\\C[0], don't they? Honestly, when I was active, I\nstruggled not only with monster subjugation but also with\n\"finding the stairs\"."
                             ]
                         },
                         {
@@ -18446,7 +18166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>そこで役立つのが階段の位置を指し示してくれるアイテム……\"\\C[3]コンパス\\C[0]\"じゃ！"
+                                "\\N<Former Adventurer>That's where an item that shows the location of the stairs\ncomes in handy... \"\\C[3]Compass\\C[0]\"!"
                             ]
                         },
                         {
@@ -18509,14 +18229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>これを使えば階段の場所の\"方向\"と\"距離\"までも表示してくれる優れものじゃ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきも言ったが、これはショップでは手に入らんレアアイテムじゃぞ♪"
+                                "\\N<Former Adventurer>With this, you can see the \"direction\" and even the\n\"distance\" to the stairs – it's a remarkable item. As I said\nbefore, this is a rare item you can't get in shops♪"
                             ]
                         },
                         {
@@ -18533,14 +18246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>あとはお値段じゃな……このレアアイテムを破格の\"\\C[17]10000G\\C[0]\"で譲ってやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうじゃ～～これからのダンジョン攻略をより楽に進められる代物じゃぞ～？"
+                                "\\N<Former Adventurer>Now for the price... I'll let go of this rare item for the\nbargain price of \"\\C[17]10000G\\C[0]\"! How about it~ Will it\nnot make your dungeon exploration much easier?"
                             ]
                         },
                         {
@@ -18573,7 +18279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン内の階段位置を指し示す便利アイテム「コンパス」を10000Gで購入しますか?\\$"
+                                "Would you like to buy the convenient item \"Compass\" that\nindicates the location of stairs in the dungeon for\n10000G?\\$"
                             ]
                         },
                         {
@@ -18581,8 +18287,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買う\\B[2]",
-                                    "買わない\\B[4]"
+                                    "Buy\\B[2]",
+                                    "Don't Buy\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -18651,7 +18357,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"コンパス\"の代金を元冒険者へ支払った"
+                                "You paid the former adventurer for the \"Compass\"."
                             ]
                         },
                         {
@@ -18690,7 +18396,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コンパスを手に入れた！"
+                                "You've obtained the Compass!"
                             ]
                         },
                         {
@@ -18707,14 +18413,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<元冒険者>良い選択じゃぞ新米冒険者よ♪他にまた何か便利なアイテムを見つけたら紹介してやろう～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お主の健闘を祈っておるぞぃ、がんばってな～～"
+                                "\\N<Former Adventurer>A wise choice, young adventurer♪ If I find any other handy\nitems, I'll be sure to let you know~ I'm rooting for your\nsuccess, do your best~"
                             ]
                         },
                         {
@@ -18771,14 +18470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<元冒険者>なんじゃなんじゃ～銭を持っておらんのか…レアアイテムなだけに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それくらいの銭はもらわんと割に合わんのでなぁ～また来んかい..."
+                                "\\N<Former Adventurer>What's this, what's this~ Don't have the money? It's a rare\nitem, so I need to get that much at least to make it worth\nmy while... Come back again if you change your mind..."
                             ]
                         },
                         {
@@ -18858,14 +18550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<元冒険者>こ、こんな便利なアイテムをみすみす逃すとは……お主本当に冒険者か！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近の若い者は何を考えておるのかさっぱりわからんのぅ～"
+                                "\\N<Former Adventurer>To let such a convenient item slip through your fingers...\nAre you really an adventurer!? I can't fathom what goes\nthrough the minds of youngsters these days~"
                             ]
                         },
                         {
@@ -18882,7 +18567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<元冒険者>じゃが、気が変わったらまた来んかい…売ってやるぞぃ"
+                                "\\N<Former Adventurer>But if you change your mind, come back... I'll be willing to\nsell it to you."
                             ]
                         },
                         {
@@ -18991,7 +18676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元冒険者>ほっほっほ～～ダンジョン攻略は順調か～～"
+                                "\\N<Former Adventurer>Ho ho ho~~ How's the dungeon conquest going~~"
                             ]
                         },
                         {
@@ -19218,21 +18903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(1/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 ルナとTaro\"\\C[3]二人\\C[0]\"でタワーダンジョンへ入ると曜日によっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　待ち伏せていた間男から\\C[10]ルナだけ誘われる\\C[0]イベントが発生します\\|"
+                                "～Cuckold System～(1/3) When Luna and Taro enter the Tower\nDungeon as a \"\\C[3]pair\\C[1]\", depending on the day of the\nweek, an event may occur where a lurking rival \\C[10]invites\nonly Luna\\C[1]."
                             ]
                         },
                         {
@@ -19261,28 +18932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(2/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　Taroの選択で誘いを断ることが可能ですが、もし間男へルナを譲ってしまうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 　\"間男との関係\"が進展してしまいますのでご注意ください"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　 　　(\\C[2]初期段階の間男とは発生しません\\C[0]) \\|"
+                                "～Cuckold System～(2/3) Taro can choose to decline the\ninvitation, but if he allows Luna to go with the rival, \"the\nrelationship with the rival\" will progress, so please be\ncareful (\\C[2]this does not occur with rivals in the initial\nstages\\C[1])."
                             ]
                         },
                         {
@@ -19311,28 +18961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　～横取りシステム～(3/3)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　 　　　　　　　間男が現れる曜日は以下となります"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　  　 　\\C[3]月曜日\\C[0]：アラシ　　\\C[1]水曜日\\C[0]：ドルトン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　   　\\C[17]金曜日\\C[0]：ショウタ　\\C[20]土曜日\\C[0]：ボブ\\|"
+                                "～Cuckold System～(3/3) The days when rivals appear are as\nfollows: \\C[3]Monday\\C[1]: Arashi, \\C[20]Wednesday\\C[1]:\nDalton, [Color_17]Friday\\C[1]: Syouta,\n[Color_20]Saturday\\C[1]: Bob."
                             ]
                         },
                         {

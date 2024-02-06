@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "第7階層",
+    "displayName": "7th Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -29774,7 +29774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「転移の間」へワープしますか？"
+                                "Would you like to warp to the \"Transfer Room\"?"
                             ]
                         },
                         {
@@ -29782,8 +29782,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -30395,21 +30395,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30614,21 +30600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -30822,21 +30794,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -31174,7 +31132,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "定番と言えば定番じゃな>"
+                                "If You're Talking About Classics"
                             ]
                         },
                         {
@@ -31267,7 +31225,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "…この調子だとラスボスってやばいかも>"
+                                "At this rate, the final boss might be pretty tough"
                             ]
                         },
                         {
@@ -31360,7 +31318,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "入っていったけど何かあるのかしら>"
+                                "I wonder if there's something inside?"
                             ]
                         },
                         {
@@ -31567,14 +31525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　小柄な人であればかろうじて通れそうな隙間が空いてる"
+                                "There seems to be a gap that a small person could barely\nsqueeze through."
                             ]
                         },
                         {
@@ -31861,7 +31812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>突然だがダンジョン先輩の俺様が良いこと教えてやろう～♪"
+                                "\\N<Syouta>\"Out of the blue, but let me, the dungeon senpai, teach you\nsomething good~♪\""
                             ]
                         },
                         {
@@ -31878,7 +31829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>ここの壁に、隙間があるだろ？"
+                                "\\N<Syouta>\"See that gap in the wall over there?\""
                             ]
                         },
                         {
@@ -31911,7 +31862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>本当だ！　これがどうかしたの？"
+                                "\\N<Luna>\"Really! What about it?\""
                             ]
                         },
                         {
@@ -31944,14 +31895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>へへ、聞いて驚くなよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは\"9階\"に行く抜け道なんだぜ！　俺が見つけたんだ！"
+                                "\\N<Syouta>\"Hehe, you'll be surprised to hear this~♪ That's a shortcut\nto the '9th floor'! I'm the one who found it!\""
                             ]
                         },
                         {
@@ -32000,7 +31944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>へえ、すごーい！"
+                                "\\N<Luna>\"Wow, that's amazing!\""
                             ]
                         },
                         {
@@ -32017,7 +31961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>だろ？　せっかくだから、この道を使おうぜ♪"
+                                "\\N<Syouta>\"Right? Since we're here, let's use this path♪\""
                             ]
                         },
                         {
@@ -32050,7 +31994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>でも、こんな狭い道、通れるかなあ……"
+                                "\\N<Luna>\"But, can we really get through such a narrow path...?\""
                             ]
                         },
                         {
@@ -32083,14 +32027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>つべこべ言わずに、さっさと行く！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弟子だったら、親分の命令を聞くものだぜ♪"
+                                "\\N<Syouta>\"Quit your whining and let's go! If you're my disciple, you\nshould follow your boss's orders♪\""
                             ]
                         },
                         {
@@ -32123,7 +32060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>弟子になった覚えはないんだけど……"
+                                "\\N<Luna>\"I don't remember becoming your disciple...\""
                             ]
                         },
                         {
@@ -32140,14 +32077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>さっさとボスを倒して、金を稼ぎたいんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだったらこの道を使って、周回した方がいいと思うけどな～"
+                                "\\N<Syouta>\"You want to defeat the boss quickly and earn some money,\nright? If that's the case, it's better to use this path and\nmake rounds, I think~\""
                             ]
                         },
                         {
@@ -32173,7 +32103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショウタが提案してきた\"9階層\"への近道の穴に進みますか？"
+                                "Will you proceed through the shortcut hole to the \"9th\nfloor\" that Syouta suggested?"
                             ]
                         },
                         {
@@ -32181,8 +32111,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -32228,14 +32158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そ、そうね…わかったわ、少しでも早く頂上目指したいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少しの不便もしょうがないかな……って、私が先に入るの？"
+                                "\\N<Luna>\"So, so... Alright, I understand. I want to reach the top as\nsoon as possible, so a little inconvenience can't be\nhelped... Wait, am I going in first?\""
                             ]
                         },
                         {
@@ -32268,14 +32191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>もし後ろからモンスターが追いかけてきたら困るだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後ろは俺が見てるから、前は任せたぜ♪"
+                                "\\N<Syouta>\"What if a monster chases us from behind? I'll watch our\nback, so you take care of the front♪\""
                             ]
                         },
                         {
@@ -32292,7 +32208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>う、うん......そういうことなら、後ろは任せるね"
+                                "\\N<Luna>\"O-Okay... If that's the case, I'll leave the back to you.\""
                             ]
                         },
                         {
@@ -32314,14 +32230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　こうして二人は狭い穴を四つん這いになりながら進んでいくのであった"
+                                "And so, the two of them proceeded to crawl through the\nnarrow hole on all fours."
                             ]
                         },
                         {
@@ -32352,28 +32261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -32475,7 +32363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]クンニ\\C[0]　+1"
+                                "\\C[27]Cunnilingus\\C[0]+1"
                             ]
                         },
                         {
@@ -32517,7 +32405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax\\C[0]+1"
                             ]
                         },
                         {
@@ -32559,7 +32447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+2"
+                                "\\C[27]Lewdness\\C[0]+2"
                             ]
                         },
                         {
@@ -32616,7 +32504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A reminiscence scene has been added."
                             ]
                         },
                         {
@@ -32806,14 +32694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>は～、やっぱここの抜け道は楽でいいなあ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おまけに、エロイこともできちまう最高の道になったし♪"
+                                "\\N<Syouta>\"Ha~, this shortcut is really convenient and nice. Plus, it\nturned into the best path where we can even do naughty\nthings♪\""
                             ]
                         },
                         {
@@ -32839,7 +32720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>………………"
+                                "\\N<Luna>\"...\""
                             ]
                         },
                         {
@@ -32856,14 +32737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>お、どうした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺のテクニックで腰がガクガクになっちまったか？"
+                                "\\N<Syouta>\"Oh, what's wrong? Did my technique make your knees buckle?\""
                             ]
                         },
                         {
@@ -32905,7 +32779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>…………コラ～！"
+                                "\\N<Luna>\"...Hey~!\""
                             ]
                         },
                         {
@@ -32994,7 +32868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>い！痛っーー！　なんだよ！ゲンコツすることねえだろ～…"
+                                "\\N<Syouta>\"Ow! Hey--! What was that for?! No need to hit me on the\nhead~...\""
                             ]
                         },
                         {
@@ -33027,14 +32901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ここはダンジョンなんだから、変なことしちゃダメ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつモンスターに襲われても、おかしくないんだから！"
+                                "\\N<Luna>\"This is a dungeon, so no funny business! We could be\nattacked by monsters at any moment!\""
                             ]
                         },
                         {
@@ -33051,7 +32918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>ふ～ん、ダンジョンじゃなきゃいいんだ？"
+                                "\\N<Syouta>\"Hmm, so it's okay if it's not in a dungeon?\""
                             ]
                         },
                         {
@@ -33093,7 +32960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そういうことじゃ………もう、知らない！フンっ！"
+                                "\\N<Luna>\"That's not what I mean... Ugh, forget it! Hmph!\""
                             ]
                         },
                         {
@@ -33241,7 +33108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ショウタへの印象が更新されました"
+                                "Syouta's impression has been updated."
                             ]
                         },
                         {
@@ -33308,14 +33175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>う～ん、狭いし何かあったとき身動きが取れないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "普通にダンジョン内を進んでいこうかな……ありがとうね～"
+                                "\\N<Luna>\"Hmm, it's narrow and we can't move freely if something\nhappens, so maybe we should just proceed normally through\nthe dungeon... Thanks anyway~\""
                             ]
                         },
                         {
@@ -33348,14 +33208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>はぁ～～？折角のチャンスだってのによ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こういうことにもツッコんでいく冒険者じゃないとやっていけねーぞー…"
+                                "\\N<Syouta>\"Haa~? After all that chance I gave you~ If you don't dive\ninto these kinds of things, you won't survive as an\nadventurer...\""
                             ]
                         },
                         {
@@ -33372,7 +33225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>(あぁ～あ、面白い事してやろうと思ったのによ～～～ちぇっ...)"
+                                "\\N<Syouta>\"(Ahh~ I thought I'd make things interesting but nope~~~\ntch...)\""
                             ]
                         },
                         {
@@ -33401,21 +33254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　 　　つまらなそうな顔をするショウタをよそにルナは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　 　　　その場を離れ、ダンジョンの先へ進み始めた"
+                                "Ignoring Syouta's bored expression, Luna left the spot and\nbegan to move forward into the dungeon."
                             ]
                         },
                         {
@@ -33686,7 +33525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【第7階層→第9階層】まで近道を進みますか？"
+                                "Would you like to take the shortcut from the 7th floor to\nthe 9th floor?"
                             ]
                         },
                         {
@@ -33694,8 +33533,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -34104,21 +33943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -34323,21 +34148,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -34531,21 +34342,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -34998,21 +34795,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -35217,21 +35000,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -35425,21 +35194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -35892,21 +35647,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -36111,21 +35852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -36319,21 +36046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -36786,21 +36499,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -37005,21 +36704,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -37213,21 +36898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -37680,21 +37351,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -37899,21 +37556,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -38107,21 +37750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -38574,21 +38203,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -38793,21 +38408,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -39001,21 +38602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment I was exhausted, light flooded the area and I was\nforcibly warped to the \"Reincarnation Room\""
                             ]
                         },
                         {
@@ -39468,21 +39055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -39687,21 +39260,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {
@@ -39895,21 +39454,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　力尽きた瞬間、あたりに光が溢れ出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　\"転生の間\"へ強制的にワープした"
+                                "The moment my strength was exhausted, light flooded the area\nand I was forcibly warped to the \"Reincarnation Room.\""
                             ]
                         },
                         {

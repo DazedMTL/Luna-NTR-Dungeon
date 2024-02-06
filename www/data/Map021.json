@@ -20061,7 +20061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "田舎娘の依頼を一旦中止して、村へ戻りますか？"
+                                "Would you like to temporarily suspend the country girl's\nrequest and return to the village?"
                             ]
                         },
                         {
@@ -20069,8 +20069,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -20105,14 +20105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "依頼の途中ではあったが、今回は切り上げ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次回再挑戦することにし、二人は村へ戻ったのであった"
+                                "Although they were in the middle of the request, they\ndecided to cut it short and try again next time, and so the\ntwo returned to the village."
                             ]
                         },
                         {
@@ -20129,28 +20122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -20504,14 +20476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<田舎娘>ふえぇぇぇ～大変でしたが着きました～…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここまで付き添わせてしまって申し訳ないです"
+                                "\\N<Country Girl>Phew~ It was tough, but we've finally arrived... I'm sorry\nfor making you accompany me all this way."
                             ]
                         },
                         {
@@ -20528,14 +20493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>いえいえ、一応冒険者ですのでこのくらい平気ですよ……モンスターは～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "幸い一撃で倒せるスライム程度なので、今回も不意打ちに警戒しながら探索しましょう"
+                                "\\N<Taro>No, no, I'm an adventurer after all, so this much is\nnothing... Fortunately, the monsters here are just slimes\nthat can be defeated in one hit, so let's stay alert for\nsurprise attacks as we explore."
                             ]
                         },
                         {
@@ -20568,7 +20526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<田舎娘>頼もしいです～♪今回も安心して採取できます～～"
+                                "\\N<Country Girl>You're so reliable~♪ I can gather with peace of mind again\nthis time~~"
                             ]
                         },
                         {
@@ -20585,14 +20543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<田舎娘>珍しいので簡単には見つからないと思いますが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このエリアの\"\\C[2]樹木\\C[0]\"を1本ずつ見てまわりましょう♪"
+                                "\\N<Country Girl>It's rare, so I don't think it will be easy to find, but\nlet's check each \"tree\" in this area one by one♪"
                             ]
                         },
                         {

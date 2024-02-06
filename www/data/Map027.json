@@ -3740,21 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　　　　この度は\\C[14]ルナ～NTRダンジョン借金返済暮らし～\\C[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　　　　　　ご購入いただき誠にありがとうございます"
+                                "Thank you very much for purchasing \\C[14]Luna~NTR Dungeon\nDebt Repayment Life~\\C[0]."
                             ]
                         },
                         {
@@ -3771,14 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　　　　　　　はじめに操作方法について解説します"
+                                "First, let me explain how to operate the game."
                             ]
                         },
                         {
@@ -3795,28 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　　　　　　　　　　　　 ～キーボードの操作～　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　・メッセージウィンドウの切り替え「\\C[2]Shift\\C[0]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　・メッセージの早送り「\\C[2]Ctrl\\C[0]」「\\C[2]W\\C[0]」「\\C[2]Alt\\C[0]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　・バッグログ「\\C[2]Q\\C[0]」"
+                                "～Keyboard Controls～. Switch message window with\n'\\C[2]Shift\\C[0]'. Fast-forward messages with\n'\\C[2]Ctrl\\C[0]', '\\C[2]W\\C[0]', '\\C[2]Alt\\C[0]'. Backlog\nwith '\\C[2]Q\\C[0]'."
                             ]
                         },
                         {
@@ -3833,28 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>　　　　　　 　　　　　　　　　　　　 ～マウス操作～　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　・左クリック「\\C[2]決定\\C[0]・\\C[2]キャラクター移動\\C[0]」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　・右クリック「\\C[2]メニュー画面\\C[0]・\\C[2]キャンセル\\C[0]・\\C[2]メッセージ画面切替\\C[0]」　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\>　　　　　　　　　・ホイールを回す　\\C[2]↑\\C[0]「\\C[2]バッグログ\\C[0]」\\C[2]↓\\C[0]「\\C[2]メッセージ進行\\C[0]」"
+                                "～Mouse Controls～. Left click for\n'\\C[2]Confirm\\C[0].\\C[2]Character Movement\\C[0]'. Right\nclick for '\\C[2]Menu\nScreen\\C[0].\\C[2]Cancel\\C[0].\\C[2]Message Screen\nToggle\\C[0]'. Scroll wheel up \\C[2]↑\\C[0] for\n'\\C[2]Backlog\\C[0]' and down \\C[2]↓\\C[0] for '\\C[2]Message\nProgress\\C[0]'."
                             ]
                         },
                         {
@@ -3871,21 +3808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　アニメーション中に\"メッセージの早送り\"機能を連発されますと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 　　　　　　　　　まれに誤表示することがございますのでご注意ください"
+                                "Please be aware that rapid use of the \"Fast-forward\nMessages\" function during animations may occasionally result\nin display errors."
                             ]
                         },
                         {
@@ -3902,21 +3825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　Ｈシーンなどで画面がフラッシュする演出がございます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　部屋を明るくするなどしてプレイして頂ければと思います"
+                                "There are flashing effects in H-scenes and others, so we\nrecommend playing in a well-lit room."
                             ]
                         },
                         {
@@ -4132,14 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　ルナの\\C[2]彼氏\\C[0]の名前を設定してください"
+                                "Please set the name of Luna's \\C[2]boyfriend\\C[0]."
                             ]
                         },
                         {
@@ -4171,14 +4073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　【\\C[2]Taro\\C[0]】でよろしいでしょうか？"
+                                "Is 【\\C[2]Taro\\C[0]】 correct?"
                             ]
                         },
                         {
@@ -4186,8 +4081,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -4247,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オープニングを見ますか？(約10分)"
+                                "Would you like to watch the opening? (Approximately 10\nminutes)"
                             ]
                         },
                         {
@@ -4255,8 +4150,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ(スキップ三行説明)\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No (Skip three lines of explanation)\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -4316,21 +4211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　主人公\\C[2]ルナ\\C[0]の彼氏\\C[2]Taro\\C[0]が悪徳商会から請求された利子\\C[17]1000万G\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　 借金返済のため魔物狩りを強いられ\\C[3]タワーダンジョン\\C[0]のある孤島へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　そこで出会ったルナを狙う\\C[30]間男4人\\C[0]と借金返済の孤島生活が今始まる"
+                                "The protagonist \\C[2]Luna\\C[0]'s boyfriend \\C[2]Taro\\C[0] is\nforced into monster hunting to repay a debt of \\C[17]10\nmillion G\\C[0] in interest charged by an unscrupulous\ntrading company. They head to a solitary island with a\n\\C[3]Tower Dungeon\\C[0], where four men who set their sights\non Luna await, and thus begins their isolated island life to\nrepay the debt."
                             ]
                         },
                         {
@@ -4400,7 +4281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]キス\\C[0]　+1"
+                                "\\C[27]Kiss \\C[0]+1"
                             ]
                         },
                         {
@@ -4431,7 +4312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Taro　キス】回想シーンが追加されました"
+                                "The 【Taro Kiss】 reminiscence scene has been added."
                             ]
                         },
                         {

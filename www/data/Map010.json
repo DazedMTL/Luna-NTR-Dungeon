@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "第6階層",
+    "displayName": "6th Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5592,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「転移の間」へワープしますか？"
+                                "Would you like to warp to the \"Transfer Room\"?"
                             ]
                         },
                         {
@@ -5600,8 +5600,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -5996,7 +5996,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "\"10Lv\"程度で倒せるものなの⁉>"
+                                "Can you really defeat it at just Level 10?!"
                             ]
                         },
                         {
@@ -6122,14 +6122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目の前に通常モンスターとは明らかに違うボス級モンスターが行く手を阻んでいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが恐らくギルド受付で聞いた\"特別高額買取\"対象モンスター"
+                                "A boss monster, clearly different from the regular ones, was\nblocking the way. This must be the \"special high-price\npurchase\" target monster I heard about at the guild\nreception."
                             ]
                         },
                         {
@@ -6146,14 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高額報酬なだけあって簡単に倒すのは難しそうなため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長期戦に備えてしっかり準備を整えた方が良さそうだ"
+                                "Given the high reward, it seems difficult to defeat it\neasily, so it would be wise to prepare thoroughly for a\nprolonged battle."
                             ]
                         },
                         {
@@ -6170,14 +6156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中ボス戦に挑みますか？【敗北イベントあり】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(勝利時も同じように回想部屋に敗北イベントは解放されます)"
+                                "Will you challenge the mid-boss? [Defeat event included]\n(Defeat events will also be unlocked in the recollection\nroom upon victory.)"
                             ]
                         },
                         {
@@ -6185,8 +6164,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -6892,14 +6871,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...やった♪大物モンスターを私一人で倒せちゃったんだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "自分でも信じられないけど成長したってことかな…うれしい♪"
+                                "\\N<Luna>Haa... haa... I did it♪ I managed to defeat a big monster\nall by myself... I can hardly believe it, but maybe this\nmeans I've grown... I'm so happy♪"
                             ]
                         },
                         {
@@ -6916,7 +6888,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>Taro君ビックリするかな～～たぶん一緒に闘って倒そうとしてたと思うし…ふっふっふ"
+                                "\\N<Luna>I wonder if Taro-kun will be surprised～～ He probably thought\nwe'd defeat it together... fufufu"
                             ]
                         },
                         {
@@ -6933,14 +6905,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>たしか…手に入れたこのモンスターアイテムを受付で換金すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "大金もらえるって聞いたし、ダンジョン攻略が一区切りしたら寄らなきゃ♪"
+                                "\\N<Luna>That's right... If I exchange this monster item at the\nreception, I'll get a large sum of money. After a break in\ndungeon exploration, I have to stop by♪"
                             ]
                         },
                         {
@@ -6957,7 +6922,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>よ～し、この調子で次のフィールドも攻略しに行っちゃおう～♪"
+                                "\\N<Luna>Alright, let's keep up this momentum and conquer the next\nfield～♪"
                             ]
                         },
                         {
@@ -6993,14 +6958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>はぁ...はぁ...やったぞ……ふぅ…かなりの強敵ではあったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "一人でなんとか初めてのボス級モンスターを倒すことができた...よっしゃ"
+                                "\\N<Taro>Haa... haa... I did it... phew... It was quite a formidable\nenemy, but somehow I managed to defeat my first boss-level\nmonster alone... yes!"
                             ]
                         },
                         {
@@ -7017,7 +6975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん驚くかな……少しはカッコイイところ見せられた気がする♪"
+                                "\\N<Taro>I wonder if Luna-chan will be surprised... I feel like I was\nable to show her something cool♪"
                             ]
                         },
                         {
@@ -7034,14 +6992,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>これである程度の報酬がもらえるはずだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "返済とか装備やアイテムの買い足しとか色々できるぞ…♪"
+                                "\\N<Taro>With this, I should receive a decent reward, and I can do\nvarious things like repayments and buying more equipment and\nitems...♪"
                             ]
                         },
                         {
@@ -7058,14 +7009,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>借金完済までの道のりは長いが順調な走り出しだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この調子で次のフィールド、中ボスを次々攻略してやるぞ！！"
+                                "\\N<Taro>The road to paying off my debt is long, but this is a good\nstart♪ At this rate, I'll conquer the next fields and mid-\nbosses one after another!!"
                             ]
                         },
                         {
@@ -7101,7 +7045,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>はぁ...はぁ...やった、ボス級モンスターを倒せたね、よっしゃー！"
+                                "\\N<Taro>Haa... haa... We did it, we defeated the boss-level monster,\nyesss!"
                             ]
                         },
                         {
@@ -7118,14 +7062,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ…はぁ…うん、私たち第一関門を突破できたみたい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "大物モンスターを倒せちゃうくらい成長したってことだね……うれしい♪"
+                                "\\N<Luna>Haa... haa... Yeah, it looks like we've overcome the first\nhurdle♪ It means we've grown enough to defeat a big\nmonster... I'm so happy♪"
                             ]
                         },
                         {
@@ -7142,14 +7079,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Taro>そうだね、今回の勝利でかなり自信ついたよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この調子で次のフィールド、中ボスを攻略して行こう！"
+                                "\\N<Taro>That's right, this victory has given me a lot of confidence.\nLet's keep this up and conquer the next field and mid-boss!"
                             ]
                         },
                         {
@@ -7166,7 +7096,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>うん♪引き続きダンジョン攻略がんばろう～♪"
+                                "\\N<Luna>Yeah♪ Let's keep working hard on dungeon exploration～♪"
                             ]
                         },
                         {
@@ -7202,7 +7132,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...な、なんとか大物モンスターを倒すことができました…"
+                                "\\N<Luna>Haa... haa... Somehow, we managed to defeat the big\nmonster..."
                             ]
                         },
                         {
@@ -7219,14 +7149,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ドルトン>そのようだね…我々の勝利だ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "オジサンも全力で戦ったがルナちゃんの頑張りあっての勝利だ、おめでとう"
+                                "\\N<Dalton>It seems so... It's our victory♪ I fought with all my might\ntoo, but it was thanks to Luna-chan's efforts that we won,\ncongratulations"
                             ]
                         },
                         {
@@ -7243,14 +7166,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>いえいえ、ドルトンさんがいなければ私一人では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "絶対に勝てなかったのでドルトンさんには感謝してます"
+                                "\\N<Luna>No, no, without Dalton-san, I definitely couldn't have won\non my own, so I'm grateful to you"
                             ]
                         },
                         {
@@ -7267,14 +7183,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ドルトン>この戦いで我々の絆が一層深まった感じがしてオジサン嬉しいよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "このあとのダンジョン攻略もよろしくね～"
+                                "\\N<Dalton>This battle has deepened our bond even further, and that\nmakes me happy♪ Looking forward to continuing our dungeon\nexploration together～"
                             ]
                         },
                         {
@@ -7291,7 +7200,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はい、これからもよろしくお願いしますねドルトンさん♪"
+                                "\\N<Luna>Yes, please continue to support me in the future as well,\nDalton-san♪"
                             ]
                         },
                         {
@@ -7308,14 +7217,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ドルトン>(よしよし、順調にルナちゃんとの距離が縮まっているな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この調子で心も身体も親密になってやるぞ～♪)"
+                                "\\N<Dalton>(Good good, I'm getting closer to Luna-chan. At this rate,\nwe'll become intimate both in heart and body～♪)"
                             ]
                         },
                         {
@@ -7351,7 +7253,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...な、なんとか大物モンスターを倒すことができましたね…"
+                                "\\N<Luna>Haa... haa... Somehow, we managed to defeat the big\nmonster..."
                             ]
                         },
                         {
@@ -7368,14 +7270,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボブ>Good Jobで～す、ルナ♪勝利を勝ち取りましたネ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "冒険者としてのルナはとってもクールで頼もしかったですヨ～"
+                                "\\N<Bob>Good job～ Luna♪ We've secured the victory～ As an adventurer,\nLuna was really cool and reliable～"
                             ]
                         },
                         {
@@ -7392,14 +7287,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>ふっふっふ…そう言ってもらえると嬉しいです"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "でもボブさんがいなかったら勝てたかわからない相手でしたので感謝してます♪"
+                                "\\N<Luna>Fufufu... It makes me happy to hear you say that. But\nwithout Bob-san, I don't know if we could have won against\nsuch an opponent, so thank you♪"
                             ]
                         },
                         {
@@ -7416,14 +7304,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボブ>ルナと一緒に戦うのがとっても楽しかったのでミーもイイ刺激になりました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "もっとルナとダンジョン攻略したいですネ～～これからもよろしくデ～ス♪"
+                                "\\N<Bob>Fighting alongside Luna was so much fun for me too, it was a\ngreat stimulus. I want to explore more dungeons with Luna～\nPlease continue to work with me in the future～♪"
                             ]
                         },
                         {
@@ -7440,7 +7321,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はい、そう言ってもらえると嬉しいです♪これからもよろしくお願いします"
+                                "\\N<Luna>Yes, it makes me happy to hear that♪ Please continue to\nsupport me in the future as well"
                             ]
                         },
                         {
@@ -7457,14 +7338,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボブ>(Good♪ルナとの関係は焦らずじっくり深めて昼のパートナーだけでなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\"夜のパートナー\"にも必ずなってみせマ～ス♪)"
+                                "\\N<Bob>(Good♪ I'll deepen my relationship with Luna slowly and\nsurely. Not just as a daytime partner but I'll definitely\nbecome her \"nighttime partner\" too～♪)"
                             ]
                         },
                         {
@@ -7500,7 +7374,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...な、なんとか大物モンスターを倒すことができました…"
+                                "\\N<Luna>Haa... haa... Somehow, we managed to defeat the big\nmonster..."
                             ]
                         },
                         {
@@ -7517,14 +7391,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<アラシ>マジでお疲れさ～ん♪やっぱ中ボスは手強くて苦労したぜ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それにしても、意外にルナちゃん冒険者っぽくてビックリだったわ～♪"
+                                "\\N<Arashi>Seriously good work～ Luna♪ The mid-boss was tough and gave\nus trouble... But man, Luna-chan was surprisingly\nadventurer-like and that shocked me～♪"
                             ]
                         },
                         {
@@ -7541,14 +7408,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>ふっふっふ…何言ってるんですか♪私は元々冒険者なんですよ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "一人でだってダンジョンくらい行けるんですから♪"
+                                "\\N<Luna>Fufufu... What are you talking about♪ I've always been an\nadventurer～? I can go to dungeons alone if I have to♪"
                             ]
                         },
                         {
@@ -7565,14 +7425,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>でも今回の戦いはアラシさんがいなければ勝てなかったと思うので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "助かりました、ありがとうございます"
+                                "\\N<Luna>But without Arashi-san in this fight, I think we couldn't\nhave won, so thank you for your help"
                             ]
                         },
                         {
@@ -7589,14 +7442,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<アラシ>いいって、いいって♪ルナちゃんの役に立てたんだったらマジで俺も嬉しいっていうか～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "むしろこれからも一緒にパーティー組みたい感じだからさ、今後もよろしく！"
+                                "\\N<Arashi>No problem, no problem♪ If I could be of help to Luna-chan\nthen seriously, I'm happy. Actually～ I want to keep forming\nparties with you from now on too, so let's keep working\ntogether!"
                             ]
                         },
                         {
@@ -7613,7 +7459,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はい、そう言ってもらえると助かります♪今後もよろしくお願いします"
+                                "\\N<Luna>Yes, that would be helpful. Please continue to support me in\nthe future as well"
                             ]
                         },
                         {
@@ -7630,14 +7476,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<アラシ>(イイ感じで関係が深まったみたいだし～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この調子で好感度爆上げして確実にこの女ゲットだぜ♪)"
+                                "\\N<Arashi>(Looks like our relationship has deepened nicely～ At this\nrate, I'll skyrocket her affection for me and secure this\ngirl for sure♪)"
                             ]
                         },
                         {
@@ -7673,7 +7512,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>はぁ...はぁ...な、なんとか大物モンスターを倒すことができたね…やった"
+                                "\\N<Luna>Haa... haa... Somehow, we managed to defeat the big\nmonster... yay"
                             ]
                         },
                         {
@@ -7690,14 +7529,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ショウタ>よくやった我が弟子よ！親方との二人三脚バトル上出来だ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "戦闘能力もなかなかで悪くなかったし、やはり俺の目に狂いはなかったようだな、ハッハッハ♪"
+                                "\\N<Syouta>Well done my disciple! The two-man battle with your master\nwas excellent♪ Your combat ability wasn't half bad either.\nIt seems my eye for talent was spot on, hahaha♪"
                             ]
                         },
                         {
@@ -7714,14 +7546,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>あはははぁ...なんか褒めているんだか、自慢しているんだかわからないなショウタ君は..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "でも、うまく行ったこと自体はとても嬉しいことだよね♪"
+                                "\\N<Luna>Ahahaha... It's hard to tell if you're praising or bragging\nabout yourself, Syouta-kun... But it's definitely a happy\nthing that things went well♪"
                             ]
                         },
                         {
@@ -7738,14 +7563,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ショウタ>今回のバトルで俺のスゴさがわかっただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そんなすごい俺が弟子にしてやるってんだから、弟子になれてありがたく思えよ～♪"
+                                "\\N<Syouta>You saw how amazing I am in this battle, right? To think\nsuch an amazing person like me is taking you as a disciple,\nyou should feel grateful～♪"
                             ]
                         },
                         {
@@ -7762,14 +7580,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ルナ>えっ…まあ、そういうことにして、おこうかな..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "(今まで強引に話進めてきて、今度は感謝しろって来た～よくわからない子だなぁ…)"
+                                "\\N<Luna>Eh... Well, let's just agree with that...(He's been pushing\nthings forward forcefully and now he wants gratitude～ What\nan odd guy...)"
                             ]
                         },
                         {
@@ -7786,14 +7597,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ショウタ>なんか返事の切れが悪いが……よし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この勢いで次の中ボスも余裕で蹴散らしに行くぞ！"
+                                "\\N<Syouta>Your response seems a bit lackluster but... Alright! With\nthis momentum, let's go kick the next mid-boss's butt with\nease!"
                             ]
                         },
                         {
@@ -7837,21 +7641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　 \\C[3]森林フィールド\\C[0]の中ボスを倒したことによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>　　　　　　　　　　次の\\C[23]氷雪フィールド\\C[0]へ進むことができるようになった！"
+                                "By defeating the mid-boss in the \\C[3]Forest Field\\C[0], you\ncan now proceed to the next \\C[23]Ice and Snow Field\\C[0]!"
                             ]
                         },
                         {
@@ -7926,7 +7716,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A recollection scene has been added."
                             ]
                         },
                         {
@@ -7967,21 +7757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>　　　　 手に入れたアイテム\"\\C[6]人喰いラフレシア\\C[0]\"は【\\C[3]タワーダンジョン前の受付\\C[0]】にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\>　　　　　　　　　　　　　換金することで\\C[2]G(ゴールド)\\C[0]が手に入ります\\|"
+                                "The item \"\\C[6]Man-Eating Rafflesia\\C[0]\" obtained can be\nexchanged for \\C[2]G (Gold)\\C[0] at the reception desk in\nfront of the \\C[3]Tower Dungeon\\C[0]."
                             ]
                         },
                         {
@@ -8281,21 +8057,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　体力が尽き、敵を目の前に身動きひとつ取れない状態のルナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　そんな無防備なルナを見過ごすわけもなくラフレシアは近づてくる"
+                                "Exhausted, Luna was unable to move in front of the enemy.\nThe Rafflesia, not overlooking such a defenseless Luna,\napproached her."
                             ]
                         },
                         {
@@ -8373,14 +8135,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　目の前まで来ると花弁を大きく開き、なんとルナを一気に丸呑みした"
+                                "When it got close enough, it opened its petals wide and,\nastonishingly, swallowed Luna whole in one gulp."
                             ]
                         },
                         {
@@ -8397,28 +8152,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -8635,7 +8369,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breasts\\C[0]+1"
                             ]
                         },
                         {
@@ -8677,7 +8411,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]フェラチオ\\C[0]　+1"
+                                "\\C[27]Fellatio\\C[0]+1"
                             ]
                         },
                         {
@@ -8719,7 +8453,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]マンコ\\C[0]　+1"
+                                "\\C[27]Pussy\\C[0]+1"
                             ]
                         },
                         {
@@ -8761,7 +8495,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Orgasm\\C[0]+1"
                             ]
                         },
                         {
@@ -8812,7 +8546,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[27]経験人数\\C[0]　+1"
+                                "\\C[27]Number of Sexual Partners\\C[0]+1"
                             ]
                         },
                         {
@@ -8864,7 +8598,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]口内射精\\C[0]　+1"
+                                "\\C[27]Cum in Mouth\\C[0]+1"
                             ]
                         },
                         {
@@ -8906,7 +8640,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]中出し\\C[0]　+1"
+                                "\\C[27]Cream Pie\\C[0]+1"
                             ]
                         },
                         {
@@ -8960,7 +8694,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen Extracted\\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -9011,7 +8745,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness\\C[0]+5"
                             ]
                         },
                         {
@@ -9134,7 +8868,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A recollection scene has been added."
                             ]
                         },
                         {
@@ -9209,21 +8943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　体力が尽き、これ以上の戦いは危険と判断したTaroは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　　悔しさが残るものの、一度その場から逃げることにした"
+                                "Depleted of strength and judging that further battle would\nbe dangerous, Taro decided to escape from the scene, though\nhe did so with lingering frustration."
                             ]
                         },
                         {
@@ -9252,28 +8972,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {

@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "顔が真っ青なTaroの元へ近づくルナ"
+                                "Luna approaches Taro, whose face is pale."
                             ]
                         },
                         {
@@ -1422,7 +1422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ねえ、Taro君……？"
+                                "\\N<Luna>Hey, Taro-kun...?"
                             ]
                         },
                         {
@@ -1439,7 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>…………んっ？"
+                                "\\N<Taro>...Hmm?"
                             ]
                         },
                         {
@@ -1456,7 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>目、瞑ってもらえる？"
+                                "\\N<Luna>Can you close your eyes for me?"
                             ]
                         },
                         {
@@ -1473,7 +1473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然のお願いに少し驚くも言われた通り目を瞑るTaro"
+                                "Surprised by the sudden request, Taro closes his eyes as\nasked."
                             ]
                         },
                         {
@@ -1490,7 +1490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>えっ……あっ、う、うん……"
+                                "\\N<Taro>Eh... Oh, okay..."
                             ]
                         },
                         {
@@ -1574,7 +1574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]キス\\C[0]　+1"
+                                "\\C[27]Kiss\\C[0]+1"
                             ]
                         },
                         {
@@ -1605,7 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A flashback scene has been added."
                             ]
                         },
                         {

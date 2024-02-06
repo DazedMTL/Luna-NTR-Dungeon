@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村",
+    "displayName": "Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 86,
@@ -35988,14 +35988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ここが宿屋のある\\C[3]村\\C[0]か～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わりと落ち着いた感じで雰囲気もいいかも"
+                                "\\N<Taro>So this is the village with the inn... It has a rather calm\natmosphere, and the vibe is nice too."
                             ]
                         },
                         {
@@ -36012,7 +36005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>本当だね、治安も良さそうだし一安心♪"
+                                "\\N<Luna>You're right, it seems safe here, so that's a relief♪"
                             ]
                         },
                         {
@@ -36029,14 +36022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>あとは宿屋で問題なく部屋を確保できれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとまず冒険に集中できる環境は整いそうだ"
+                                "\\N<Taro>Now, if we can secure a room at the inn without any issues,\nwe'll have the perfect environment to focus on our\nadventure."
                             ]
                         },
                         {
@@ -36053,14 +36039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうだね……でもその前に一応"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村のどこにどのお店があるか確認していこうよ？"
+                                "\\N<Luna>Yeah... But before that, let's make sure we know where\neverything is in the village, okay?"
                             ]
                         },
                         {
@@ -36077,14 +36056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>あっ、それもそうだね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっと…この案内マップの……今ここにいるから～"
+                                "\\N<Taro>Oh, right... Let's see... according to this guide map... we\nare here right now~"
                             ]
                         },
                         {
@@ -36293,14 +36265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>右側の店が\\C[2]アイテム屋\\C[0]みたいだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポーションだったりマジックハーブだったり回復系アイテムが売っているみたい"
+                                "\\N<Taro>The shop on the right looks like an \\C[2]Item Shop\\C[0].\nSeems like they sell recovery items like potions and magic\nherbs."
                             ]
                         },
                         {
@@ -36317,14 +36282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>なるほど、なるほど♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダンジョン攻略の必需品はココで買えばいいみたいね"
+                                "\\N<Luna>I see, I see♪ So we can buy all the essentials for dungeon\nexploration here."
                             ]
                         },
                         {
@@ -36341,14 +36299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>向かい側の店は\\C[2]料理屋\\C[0]だって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安い価格で体力全回復できる料理が楽しめるみたい"
+                                "\\N<Taro>The shop across the way is a \\C[2]Food Vendor\\C[0]. Looks\nlike you can enjoy meals that fully restore your health at a\ncheap price."
                             ]
                         },
                         {
@@ -36365,14 +36316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>へ～、ポーションとかよりも割安で回復できる店なんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の私たちにとっては嬉しいお店だね～♪"
+                                "\\N<Luna>Wow, it's even more affordable than potions for recovery.\nThat's a welcome store for us right now♪"
                             ]
                         },
                         {
@@ -36398,14 +36342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ん！？ ……うん、そ、そうだね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんか借金まみれの僕には耳が痛い言葉だ)"
+                                "\\N<Taro>Hm!? ...Yeah, that's right (Those words sting a bit for\nsomeone drowning in debt like me)."
                             ]
                         },
                         {
@@ -36422,7 +36359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……うん？　大丈夫？"
+                                "\\N<Luna>...Hm? Are you okay?"
                             ]
                         },
                         {
@@ -36439,7 +36376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……何のこと？　それじゃあ～続けてみていくよ"
+                                "\\N<Taro>...What do you mean? Anyway, let's keep looking."
                             ]
                         },
                         {
@@ -36472,14 +36409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ここが\\C[2]道具屋\\C[0]みたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「高価な武器ほどダンジョン攻略がはかどります」だって、確かにそうだよな～"
+                                "\\N<Taro>This place looks like a \\C[2]Tool Shop\\C[0]. \"The more\nexpensive the weapon, the easier your dungeon conquests will\nbe.\" That's certainly true~"
                             ]
                         },
                         {
@@ -36496,7 +36426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ある程度お金が集まったら徐々に強い武器にしていこう♪"
+                                "\\N<Luna>Once we've saved up some money, we should gradually upgrade\nto stronger weapons♪"
                             ]
                         },
                         {
@@ -36513,7 +36443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(は～～やっぱりルナちゃんは優しいな～♪　女神だ)"
+                                "\\N<Taro>(Sigh~ Luna-chan is so kind~♪ She's like a goddess.)"
                             ]
                         },
                         {
@@ -36530,14 +36460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>早くルナちゃんを楽させるためにしっかり討伐して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高価な装備品を買えるようにするからね！"
+                                "\\N<Taro>I'll make sure to defeat monsters and buy expensive\nequipment to make things easier for Luna-chan!"
                             ]
                         },
                         {
@@ -36554,7 +36477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ふふふっ♪　期待してるぞー　Taroくーん"
+                                "\\N<Luna>Fufufu♪ I'm looking forward to it, Taro-kun."
                             ]
                         },
                         {
@@ -36571,14 +36494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(よし！やる気が出てきたぞ！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まかせて！それじゃあ次は………"
+                                "\\N<Taro>(Alright! I'm getting motivated!) Leave it to me! Next up\nis..."
                             ]
                         },
                         {
@@ -36611,14 +36527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>その奥にあるのが…\\C[2]ギルド\\C[0]だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスター討伐以外の依頼もたくさんあるみたいだ"
+                                "\\N<Taro>Back there is the... \\C[2]Guild\\C[0]. Looks like they have\nlots of requests other than monster subjugation."
                             ]
                         },
                         {
@@ -36635,14 +36544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうなんだ～、討伐って危険が付きものだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別の方法でもお金が稼げるっていうのは嬉しいね♪"
+                                "\\N<Luna>Oh really~? Since subjugation comes with its dangers, it's\nnice to know there are other ways to earn money♪"
                             ]
                         },
                         {
@@ -36659,14 +36561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そうだね、バトルを避けたいときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドで依頼を探すのも手かもしれないな"
+                                "\\N<Taro>Yeah, when we want to avoid battle, it might be a good idea\nto look for requests at the guild."
                             ]
                         },
                         {
@@ -36683,7 +36578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そして次は………船員の人も言ってた場所か"
+                                "\\N<Taro>And next is... the place that sailor mentioned."
                             ]
                         },
                         {
@@ -36734,14 +36629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>\\C[2]露天風呂\\C[0]だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「温泉の効用は-疲労回復-怪我治癒-状態異常改善-」だってさ"
+                                "\\C[2]\\N<Taro>An open-air bath\\C[0]. \"The benefits of hot springs include\n- fatigue recovery - injury healing - status ailment\nimprovement -\" it says."
                             ]
                         },
                         {
@@ -36758,14 +36646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>温泉まであるの！？　嬉しすぎるよー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島で快適に生活できそうな気がしてきた～♪"
+                                "\\N<Luna>There's even a hot spring!? That's too good to be true - I'm\nstarting to feel like we can live comfortably on this\nisland♪"
                             ]
                         },
                         {
@@ -36782,14 +36663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(なんか変な男がいたけど、ルナちゃんにはストレスの少ない生活を送ってもらえれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは僕にとっても嬉しいことだ……露天風呂グッジョブ！)"
+                                "\\N<Taro>(There was a weird guy there, but if Luna-chan can lead a\nstress-free life, that would make me happy too... Open-air\nbath, good job!)"
                             ]
                         },
                         {
@@ -36806,14 +36680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ダンジョンの疲れを取るにはうってつけの場所だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くを通ったら寄ってみようか"
+                                "\\N<Taro>It's the perfect place to relieve dungeon fatigue. Let's\nstop by when we're in the area."
                             ]
                         },
                         {
@@ -36830,7 +36697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うん♪"
+                                "\\N<Luna>Yeah♪"
                             ]
                         },
                         {
@@ -36872,14 +36739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>民家の先にあるのが…\\C[2]仕立屋\\C[0]か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バトルで傷付く服の耐久度を強化してくれるみたい"
+                                "\\N<Taro>Past the residential area is... a \\C[2]Tailor\\C[0], huh?\nLooks like they can reinforce the durability of clothes\ndamaged in battle."
                             ]
                         },
                         {
@@ -36896,14 +36756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>しかも破れてしまった服の修理も\\C[3]無料\\C[0]で修理するってさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナちゃんには地味にありがたいサービスじゃない？"
+                                "\\N<Taro>Plus, they offer \\C[3]free\\C[0] repairs for clothes that\nhave been torn. Isn't that a subtly great service for you,\nLuna-chan?"
                             ]
                         },
                         {
@@ -36920,14 +36773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うんうん♪ボロボロだといろいろ恥ずかしいから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このお店の要チェックだね"
+                                "\\N<Luna>Yes, yes♪ It's embarrassing when clothes get all tattered,\nso this shop is definitely one to keep in mind."
                             ]
                         },
                         {
@@ -36944,7 +36790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>それじゃあ次は…おっ、最後みたいだ"
+                                "\\N<Taro>Then next is... oh, looks like it's the last one."
                             ]
                         },
                         {
@@ -36977,14 +36823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ここが\\C[2]宿屋\\C[0]か…見た感じイメージ通りの宿だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く部屋を確保して、ひとまずゆっくりしたいな…"
+                                "\\N<Taro>This must be the \\C[2]Inn\\C[0]... It looks exactly like what\nI imagined. I want to secure a room quickly and relax for a\nbit..."
                             ]
                         },
                         {
@@ -37001,7 +36840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうだね♪それじゃあ早速、宿屋に行ってみよう"
+                                "\\N<Luna>Right♪ Let's go check out the inn right away."
                             ]
                         },
                         {
@@ -37472,7 +37311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>きゃっ！"
+                                "\\N<Luna>Kyaa!"
                             ]
                         },
                         {
@@ -37543,7 +37382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん！？……大丈夫？"
+                                "\\N<Taro>Luna-chan!?... Are you okay?"
                             ]
                         },
                         {
@@ -37560,7 +37399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>だ、大丈夫……ありがとう"
+                                "\\N<Luna>I'm, I'm fine... Thank you."
                             ]
                         },
                         {
@@ -37623,7 +37462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>オウ、ソーリー！　失礼しまシタ！ケガは無いですカー？"
+                                "\\N<Bob>Oh, sorry about that! My bad! Are you hurt at all?"
                             ]
                         },
                         {
@@ -37687,7 +37526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私は平気ですよ、あなたの方は……"
+                                "\\N<Luna>I'm okay, thank you. And you?"
                             ]
                         },
                         {
@@ -37720,14 +37559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>ゼンゼン平気ですネー！見てくだサーイ、ミーのこのスーパーボディ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島No.1のマッスル男\\C[2]ボブ\\C[0]とはミーのことですヨ～♪"
+                                "\\N<???>Totally fine! Just look at this super body of mine! I'm\n\\C[2]Bob\\C[0], the No.1 muscle man on this island~♪"
                             ]
                         },
                         {
@@ -37760,14 +37592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うわぁ…すごく強そう………(確かに噂される程の筋肉...)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村は初めてだったのでよそ見しちゃっていました、ごめんなさい"
+                                "\\N<Luna>Wow... You look really strong...(He really does have the\nmuscles everyone talks about...) It's our first time in this\nvillage so I wasn't paying attention where I was going,\nsorry about that."
                             ]
                         },
                         {
@@ -37784,14 +37609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ノープロブレム！　謝ることありまセーン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミーこそかわいいガールをケガさせるところでしタ～"
+                                "\\N<Bob>No problem! There's no need to apologize! I almost hurt a\ncute girl like you~"
                             ]
                         },
                         {
@@ -37840,7 +37658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ところで……"
+                                "\\N<Bob>By the way..."
                             ]
                         },
                         {
@@ -37873,7 +37691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>YOUは何しにこの村へ？"
+                                "\\N<Bob>What brings YOU to this village?"
                             ]
                         },
                         {
@@ -37931,7 +37749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私たち事情があって、タワーダンジョンに挑戦するためにこの島に来ました"
+                                "\\N<Luna>We have our reasons, and we've come to this island to\nchallenge the Tower Dungeon."
                             ]
                         },
                         {
@@ -37964,7 +37782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>……アア！　ユーも冒険者ですネ？"
+                                "\\N<Bob>...Aah! You're adventurers, aren't you?"
                             ]
                         },
                         {
@@ -37981,7 +37799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうです♪　もしかして、あなたも……"
+                                "\\N<Luna>Yes♪ Perhaps, you too..."
                             ]
                         },
                         {
@@ -38014,7 +37832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>イエース♪このスーパーボディでタワーダンジョン攻略してマース！"
+                                "\\N<Bob>YES♪ I'm conquering the Tower Dungeon with this super body!"
                             ]
                         },
                         {
@@ -38063,7 +37881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>わあ、すごい…　私たちは明日から行く予定なんです、ねっ♪"
+                                "\\N<Luna>Wow, that's amazing... We're planning to go there from\ntomorrow, right?♪"
                             ]
                         },
                         {
@@ -38080,14 +37898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>う、うん……そうだね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(僕じゃ勝てそうにない筋肉だな……)"
+                                "\\N<Taro>Y-yeah... that's right (I don't think I can beat those\nmuscles...)"
                             ]
                         },
                         {
@@ -38120,14 +37931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ワオ！　そうなんですネ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でしたら今日のオワビとして、ユーに協力したいデース！"
+                                "\\N<Bob>Whoa! Is that so! Then as an apology for today, I want to\noffer my help to YOU!"
                             ]
                         },
                         {
@@ -38160,7 +37964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ええっ！？お互いに怪我も無かったんですし、大丈夫です"
+                                "\\N<Luna>Eh!? But we're both unharmed, it's really okay."
                             ]
                         },
                         {
@@ -38209,14 +38013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ノンノン！　ミーは役に立ちますヨー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに…またユーに会いたい気持ちもありマース♪"
+                                "\\N<Bob>No no! I can be of use! And... I also want to see YOU again♪"
                             ]
                         },
                         {
@@ -38242,7 +38039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……ルナちゃん、もう行こう"
+                                "\\N<Taro>...Luna-chan, let's go."
                             ]
                         },
                         {
@@ -38275,14 +38072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっ、う、うん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさい、ひとまず宿を探さなきゃいけないので、これで……"
+                                "\\N<Luna>Eh, y-yes, sorry, we need to find an inn for now, so..."
                             ]
                         },
                         {
@@ -38331,14 +38121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>OK♪　ミーは\\C[2]ボブ\\C[0]といいマース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユーの名前も教えてほしいデース♪"
+                                "\\N<Bob>OK♪ Call me \\C[2]Bob\\C[0], and I'd like to know your name\ntoo♪"
                             ]
                         },
                         {
@@ -38371,7 +38154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ボブさん、よろしく♪　私はルナで、彼は……"
+                                "\\N<Luna>Nice to meet you, Bob-san♪ I'm Luna, and he is..."
                             ]
                         },
                         {
@@ -38420,14 +38203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>OKOK～♪　ルナ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミーは\\C[3]スラム\\C[0]に住んでマース、ユーが来るのを待ってますネー♪"
+                                "\\N<Bob>OKOK～♪ Luna! I live in the \\C[3]Slums\\C[0], I'll be waiting\nfor YOU to come visit~♪"
                             ]
                         },
                         {
@@ -38444,14 +38220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>もちろん、いつ来てもダイジョーブですヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昼でも、夜でモ～♪"
+                                "\\N<Bob>Of course, anytime is fine, day or night～♪"
                             ]
                         },
                         {
@@ -38468,7 +38237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>それではまた、会いまショー♪"
+                                "\\N<Bob>Then see you again, let's meet up♪"
                             ]
                         },
                         {
@@ -38844,7 +38613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……はあ"
+                                "\\N<Taro>...sigh"
                             ]
                         },
                         {
@@ -38892,7 +38661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>Taro君？　どうしたの？"
+                                "\\N<Luna>Taro-kun? What's wrong?"
                             ]
                         },
                         {
@@ -38940,7 +38709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>いや……なんでもないよ、宿屋に行ってみようか"
+                                "\\N<Taro>No... it's nothing, let's try the inn."
                             ]
                         },
                         {
@@ -38985,21 +38754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　時が経つにつれ、ルナの周りに好意を持った男らが増えていくことに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　Taroは不安と胸騒ぎがしていた"
+                                "As time passed, Taro felt uneasy and anxious as the number\nof men who took a liking to Luna around him increased."
                             ]
                         },
                         {
@@ -39016,14 +38771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　そんな複雑な気持ちの中、目的地の宿屋に到着したTaroであった"
+                                "In the midst of these complex feelings, Taro arrived at the\ndestination inn."
                             ]
                         },
                         {
@@ -39107,7 +38855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>いらっしゃい～～宿泊かい？"
+                                "\\N<Inn>Welcome～～ are you looking for a room?"
                             ]
                         },
                         {
@@ -39124,7 +38872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>はい、二人なんですけど…"
+                                "\\N<Taro>Yes, for two people..."
                             ]
                         },
                         {
@@ -39141,7 +38889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>なら……1泊3000G×2人だから\\C[6]6000G\\C[0]だね♪"
+                                "\\N<Inn>Then... it's 3000G per person per night, so \\C[6]6000G\\C[0]\nin total♪"
                             ]
                         },
                         {
@@ -39204,7 +38952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>6…6000G？！"
+                                "\\N<Luna>6...6000G?!"
                             ]
                         },
                         {
@@ -39221,7 +38969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>あの、連泊したいんですけど、その場合って……"
+                                "\\N<Taro>Um, we'd like to stay for multiple nights, what about in\nthat case..."
                             ]
                         },
                         {
@@ -39238,7 +38986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>毎日6000Gね～～ちなみに、連泊割りとか絶対ないからね"
+                                "\\N<Inn>It's 6000G per day～～ and just so you know, there's\nabsolutely no discount for consecutive nights."
                             ]
                         },
                         {
@@ -39289,7 +39037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そ、そうですか…(かなり強気な値段設定だな、このおばあちゃん...)"
+                                "\\N<Taro>I see...(She's quite firm with her pricing, this old\nlady...)"
                             ]
                         },
                         {
@@ -39337,14 +39085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ま、毎日……完済までどのくらいかかるかわからないのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何十日も泊まるとなると……出費が……"
+                                "\\N<Taro>Well... not knowing how long it will take to pay off every\nday... if we stay for many days... the expenses will..."
                             ]
                         },
                         {
@@ -39377,14 +39118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>Taro君、もしかしたらここ以外にも宿があるかもしれないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他をあたってみない？"
+                                "\\N<Luna>Taro-kun, maybe there are other inns around here? Should we\ncheck them out?"
                             ]
                         },
                         {
@@ -39401,7 +39135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……そう、すべきかな..."
+                                "\\N<Taro>...Maybe we should..."
                             ]
                         },
                         {
@@ -39465,7 +39199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>すみません、ここの他にも宿屋ってありますか？"
+                                "\\N<Taro>Excuse me, are there any other inns around here?"
                             ]
                         },
                         {
@@ -39482,14 +39216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>あるにはあるが……おすすめしなよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちで過ごす方がいいと思うがね～"
+                                "\\N<Inn>There are others but... I wouldn't recommend them～ Staying\nhere would be better, I think～"
                             ]
                         },
                         {
@@ -39506,7 +39233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>それでも、一応教えてもらえませんか？"
+                                "\\N<Taro>Even so, could you tell us about them?"
                             ]
                         },
                         {
@@ -39523,14 +39250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>……うち以外の宿屋は～\\C[31]スラム街\\C[0]にある格安宿かな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島の宿屋は、うちとそこの二つだけだね"
+                                "\\N<Inn>...The other inn is a cheap place in the \\C[31]Slums\\C[0]...\nThere are only two inns on this island, ours and that one."
                             ]
                         },
                         {
@@ -39578,7 +39298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>スラム街……ダンジョンの次に治安の悪い場所だって言ってたね"
+                                "\\N<Luna>The Slums... That's said to be the second most dangerous\nplace after the dungeon."
                             ]
                         },
                         {
@@ -39595,14 +39315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>うん……困ったなあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スラム街にルナちゃんを泊まらせるわけにもいかないけど、こっちは……"
+                                "\\N<Taro>Yeah... This is troubling. I can't let Luna-chan stay in the\nSlums, but this place is..."
                             ]
                         },
                         {
@@ -39635,7 +39348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>一応スラム街に行ってみない？　それからまた考えようよ"
+                                "\\N<Luna>Should we at least go check out the Slum Street? Then we can\nthink about it more."
                             ]
                         },
                         {
@@ -39652,14 +39365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>えっ……　そ、そうだね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くだけ行ってみて、その時考えようか…"
+                                "\\N<Taro>Eh... Yeah, let's just go and see, and then we can decide..."
                             ]
                         },
                         {
@@ -39676,7 +39382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>それで泊まるのかい？　泊まらないのかい？"
+                                "\\N<Inn>So, are you going to stay? Or not?"
                             ]
                         },
                         {
@@ -39724,7 +39430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>すみません…、また考えてから来ます"
+                                "\\N<Taro>Sorry... I'll come back after giving it some more thought."
                             ]
                         },
                         {
@@ -39741,7 +39447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<宿屋>そうかい？　まだまだ若いんだから、ちゃんと考えるんだよ～"
+                                "\\N<Inn>Is that so? You're still young, so make sure to think it\nthrough～"
                             ]
                         },
                         {
@@ -39770,21 +39476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　まさか宿代で行き詰ることになるとは予想もしていなかったTaroは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　気が進まない中、スラムの方へ足を運んだ"
+                                "Never having anticipated that lodging expenses would be a\nproblem, Taro reluctantly made his way towards the Slums."
                             ]
                         },
                         {
@@ -42181,7 +41873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかって開かない"
+                                "It's locked and won't open."
                             ]
                         },
                         {
@@ -44009,7 +43701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギが掛かっている"
+                                "It's locked."
                             ]
                         },
                         {
@@ -45697,7 +45389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "草木が生い茂っていて先に進むことができない"
+                                "The vegetation is overgrown, and I can't proceed any\nfurther."
                             ]
                         },
                         {

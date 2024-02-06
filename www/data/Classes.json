@@ -127,7 +127,7 @@
                 "skillId": 312
             }
         ],
-        "name": "冒険者",
+        "name": "Adventurer",
         "note": "",
         "params": [
             [
@@ -1105,7 +1105,7 @@
                 "skillId": 387
             }
         ],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "",
         "params": [
             [
@@ -3055,7 +3055,7 @@
                 "skillId": 210
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -4008,7 +4008,7 @@
                 "skillId": 284
             }
         ],
-        "name": "格闘家",
+        "name": "Martial Artist",
         "note": "",
         "params": [
             [
@@ -5858,7 +5858,7 @@
                 "skillId": 258
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -6715,7 +6715,7 @@
             }
         ],
         "learnings": [],
-        "name": "薬師",
+        "name": "Healer",
         "note": "",
         "params": [
             [
@@ -8560,7 +8560,7 @@
                 "skillId": 350
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "",
         "params": [
             [

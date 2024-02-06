@@ -250,8 +250,8 @@ var $plugins = [
     status: true,
     description: "フルスクリーンで起動プラグイン",
     parameters: {
-      シャットダウン: "シャットダウン",
-      フルスクリーンで起動: "フルスクリーンで起動",
+      シャットダウン: "Shutdown",
+      フルスクリーンで起動: "Start in Fullscreen",
     },
   },
   {
@@ -479,7 +479,7 @@ var $plugins = [
     description: "簡易ボイスプラグイン",
     parameters: {
       フォルダ名: "voice",
-      オプション名称: "ボイス 音量",
+      オプション名称: "Voice Volume",
       オプション初期値: "100",
     },
   },

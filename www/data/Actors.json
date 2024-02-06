@@ -23,10 +23,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ルナ",
+        "name": "Luna",
         "nickname": "",
         "note": "<LevelUpVoice:Runa_LevelUp>\n<処女スキル:20,9>\n<攻撃ボイス:Runa_Attack1,100,100,0 | Runa_Attack2,100,100,0 | Runa_Attack3,100,100,0 | Runa_Attack4,100,100,0 | Runa_Attack5,100,100,0 | Runa_Attack6,100,100,0 | Runa_Attack7,100,100,0 | Runa_Attack8,100,100,0>\n<ダメージボイス:Runa_Damage1,100,100,0 | Runa_Damage2,100,100,0 | Runa_Damage3,100,100,0 | Runa_Damage4,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage6,100,100,0 | Runa_Damage7,100,100,0 | Runa_Damage8,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage10,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス1:Runa_Damage2,100,100,0 | Runa_Damage5,100,100,0 | Runa_Damage9,100,100,0 | Runa_Damage11,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Runa_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Runa_Special,100,100,0>\n<死亡ボイス:Runa_Death1,100,100 | Runa_Death2,100,100>\n<アーマー:SD_Kanojo,0>\n<マイクロビキニ:SD_Kanojo,1>\n<nude:SD_Kanojo,2>",
-        "profile": "Taroの彼女ではあるが純潔でプラトニックラブな関係\n魔法を得意としており全般的に使いこなせる魔術師"
+        "profile": "Taro's girlfriend, she is a virgin and they share a platonic love. She\nexcels at magic and is a magician who can handle it in all aspects."
     },
     {
         "id": 2,
@@ -51,10 +51,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ヨースケ",
+        "name": "Josuke",
         "nickname": "",
         "note": "<LevelUpVoice:Non_LevelUp>\n<処女スキル:21,10>\n<攻撃ボイス:Non_Attack1,100,100,0>\n<ダメージボイス:Non_Damage1,100,100,0>\n<拘束ボイス1:Non_Damage1,100,100,0>\n<拘束ボイス2:,100,100,0>\n<拘束ボイス2ex:Non_EX,100,100,0>\n<拘束ボイス3:,100,100,0>\n<スキルボイス:Non_Special1,100,100,0>\n<死亡ボイス:Non_Death1,100,100>\n<noBind>",
-        "profile": "ルナの彼氏で婚前交渉しないと決めているためプラトニックな関係の童貞男\n狩人としてはごく平均的な能力の冒険者で武器は弓矢"
+        "profile": "Luna's boyfriend, he has decided not to engage in premarital\nrelations, so they have a platonic relationship. As a hunter, he is an\nadventurer with average abilities and his weapon of choice is the bow\nand arrow."
     },
     {
         "id": 3,
@@ -79,10 +79,10 @@
         ],
         "initialLevel": 10,
         "maxLevel": 99,
-        "name": "ドルトン",
+        "name": "Dalton",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "小太りでムッツリスケベな中年冒険者【拠点：スラム】\n森林ダンジョンではその大型斧は効果的で頼れる傭兵"
+        "profile": "A chubby and lecherous middle-aged adventurer based in the slums. In\nthe forest dungeon, his large axe is effective, making him a reliable\nmercenary."
     },
     {
         "id": 4,
@@ -107,10 +107,10 @@
         ],
         "initialLevel": 9,
         "maxLevel": 99,
-        "name": "アラシ",
+        "name": "Arashi",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "女と金目当てでこの島に来たチャラい冒険者【拠点：村の宿屋】\n剣士としてダンジョン攻略経験もある心強い傭兵"
+        "profile": "An adventurer who came to this island for women and money, based at\nthe village inn. As a swordsman, he has experience in dungeon\nexploration and is a dependable mercenary."
     },
     {
         "id": 5,
@@ -135,10 +135,10 @@
         ],
         "initialLevel": 11,
         "maxLevel": 99,
-        "name": "ボブ",
+        "name": "Bob",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "余計な武器は持たず腕っぷしだけで事足りる重量系冒険者【拠点：スラム】\n進行を妨害する岩も驚異的な腕力で破壊できる猛獣系の傭兵"
+        "profile": "An adventurer of the heavyweight class who doesn't carry unnecessary\nweapons, relying solely on his strength. He can destroy even rocks\nthat obstruct progress with his incredible physical power, making him\na beast-like mercenary."
     },
     {
         "id": 6,
@@ -163,10 +163,10 @@
         ],
         "initialLevel": 8,
         "maxLevel": 99,
-        "name": "ショウタ",
+        "name": "Syouta",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "夢は世界一の冒険者で子分を引き連れる親分にも憧れる少年【拠点：村】\n小柄な体型を活かし狭い近道も通れる役立つ傭兵"
+        "profile": "A boy who dreams of becoming the world's greatest adventurer and\nadmires the boss who leads his underlings, based in the village. His\nsmall stature allows him to pass through narrow shortcuts, making him\na useful mercenary."
     },
     {
         "id": 7,
@@ -191,10 +191,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "田舎娘",
+        "name": "????: \"Country Girl\"",
         "nickname": "",
         "note": "<noBind>",
-        "profile": "薬草採取と調剤を生業としている引っ込み思案な性格の女の子\n森への警護依頼がきっかけでTaroと出会う"
+        "profile": "A shy girl who makes her living gathering medicinal herbs and\ncompounding them. She met Taro when she requested an escort to the\nforest."
     },
     {
         "id": 8,

@@ -10455,14 +10455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ふぁ～～やっとついた～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこうな長旅だった～～～"
+                                "\\N<Luna>Ahh~ Finally arrived~ It was quite a long journey~~~"
                             ]
                         },
                         {
@@ -10541,14 +10534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>お疲れさん！　まずは\"タワーダンジョン\"へ向かうといいぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受付があるから、詳しい話はそこで聞くといい"
+                                "\\N<Sailor>Good work! First, you should head to the \"Tower Dungeon.\"\nThere's a reception desk there, so you can get more details."
                             ]
                         },
                         {
@@ -10565,14 +10551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>わかりました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何から何まで、ありがとうございます♪"
+                                "\\N<Luna>Understood, thank you for everything♪"
                             ]
                         },
                         {
@@ -10589,7 +10568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<船員>いいってことよ～！　それじゃ、頑張ってな～～！"
+                                "\\N<Sailor>No problem at all! Well then, good luck~~!"
                             ]
                         },
                         {
@@ -10815,7 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>よーし！今日からこの島で、力を合わせて頑張ろうね♪"
+                                "\\N<Luna>Alright! From today on, let's work together and do our best\non this island♪"
                             ]
                         },
                         {
@@ -10832,7 +10811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>…………………"
+                                "\\N<Taro>..."
                             ]
                         },
                         {
@@ -10865,7 +10844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……どうしたの？"
+                                "\\N<Luna>...What's wrong?"
                             ]
                         },
                         {
@@ -10882,14 +10861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>いや……本当に借金を返せるのかなって、不安で…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、ダンジョンの話も聞いた限りだと、かなり危ないみたいだし……"
+                                "\\N<Taro>No... I'm just worried if we can really pay off the debt...\nAnd from what I've heard about the dungeon, it seems pretty\ndangerous..."
                             ]
                         },
                         {
@@ -10906,14 +10878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>よくよく考えてみれば、知らない土地で知り合いもいない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざという時に頼れる場所もない……"
+                                "\\N<Taro>When I think about it, we're in an unfamiliar land with no\nacquaintances, and no place to rely on in case of\nemergency..."
                             ]
                         },
                         {
@@ -10930,7 +10895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>やっぱりルナちゃんを連れてくるべきじゃなかったんじゃないかって……"
+                                "\\N<Taro>Maybe I shouldn't have brought Luna-chan along..."
                             ]
                         },
                         {
@@ -10963,14 +10928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>もう～大丈夫だよ♪私だって冒険者だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も一緒にクエストに行ったことがあるでしょ？"
+                                "\\N<Luna>Oh come on~ It's fine♪ I'm an adventurer too, remember?\nWe've been on quests together many times, right?"
                             ]
                         },
                         {
@@ -10987,7 +10945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>\"\\C[3]タワーダンジョン\\C[0]\"だって、二人一緒ならなんとかなるよ"
+                                "\\N<Luna>Even if it's the \"\\C[3]Tower Dungeon\\C[0],\" we can manage if\nwe're together."
                             ]
                         },
                         {
@@ -11072,7 +11030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>んんん……"
+                                "\\N<Taro>Hmmmm..."
                             ]
                         },
                         {
@@ -11089,14 +11047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>おい、お前ら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、\"タワーダンジョン\"って言ったか？"
+                                "\\N<???>Hey, did you guys just say \"Tower Dungeon\"?"
                             ]
                         },
                         {
@@ -11398,7 +11349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>え？　うん、そうだけど……君は？"
+                                "\\N<Luna>Eh? Yeah, we did... Who are you?"
                             ]
                         },
                         {
@@ -11431,7 +11382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>俺の名は\\C[2]ショウタ\\C[0]だ！　世界一の冒険者だぜ！……未来のな！"
+                                "\\N<Syouta>My name is \\C[2]Syouta\\C[0]! The greatest adventurer in the\nworld! ...Well, in the future!"
                             ]
                         },
                         {
@@ -11448,14 +11399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>君みたいな少年が冒険者の真似事なんかしちゃダメだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談もほどほどにしないと……"
+                                "\\N<Luna>A boy like you shouldn't be playing at being an adventurer.\nYou should know when to stop joking around..."
                             ]
                         },
                         {
@@ -11548,7 +11492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>ガキ扱いすんなー！　俺は立派な男だー！"
+                                "\\N<Syouta>Don't treat me like a kid-! I'm a splendid man-!"
                             ]
                         },
                         {
@@ -11586,7 +11530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年ショウタは急に激高してルナの胸に手を伸ばした"
+                                "The boy Syouta suddenly became enraged and reached for\nLuna's chest"
                             ]
                         },
                         {
@@ -11594,8 +11538,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "手を払う\\B[2]",
-                                    "何もしない\\B[4]"
+                                    "Slap his hand away\\B[2]",
+                                    "Do nothing\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -11632,7 +11576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……あっ！？　こら、ルナちゃんに触るな！！"
+                                "\\N<Taro>...Ah!? Hey, don't touch Luna-chan!!"
                             ]
                         },
                         {
@@ -11707,14 +11651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>イテッ……ったく邪魔するなよ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょっとからかってやろうと思っただけじゃねーか～"
+                                "\\N<Syouta>Ouch... Damn it, stop interfering... I was just trying to\ntease her a bit~"
                             ]
                         },
                         {
@@ -11756,7 +11693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>Taro君…守ってくれてありがと～❤"
+                                "\\N<Luna>Taro-kun... Thank you for protecting me~❤"
                             ]
                         },
                         {
@@ -11773,7 +11710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>大切な彼女だからね♪しっかり僕が守ってあげないと、へっへっへ…"
+                                "\\N<Taro>She's my precious girlfriend after all♪ I have to protect\nher properly, heh heh heh..."
                             ]
                         },
                         {
@@ -11815,7 +11752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>話し戻すけど……あなたが冒険者って、本当なの？"
+                                "\\N<Luna>Getting back to the point... Are you really an adventurer?"
                             ]
                         },
                         {
@@ -12012,14 +11949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　ショウタはいきなりルナの乳房を鷲掴みしてきた"
+                                "Syouta suddenly grabbed Luna's breast firmly"
                             ]
                         },
                         {
@@ -12052,7 +11982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>きゃああああああ！"
+                                "\\N<Luna>Kyaaaaaaa!"
                             ]
                         },
                         {
@@ -12069,14 +11999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>お、お前っ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なに勝手にルナちゃんのオ、オ、オッパイを揉んでいるんだ！"
+                                "\\N<Taro>You...! Why are you freely fondling Luna-chan's b-b-breasts!"
                             ]
                         },
                         {
@@ -12134,14 +12057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>やわらけ～♪　超でかいおっぱいだな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "プルンプルン別の生き物みたいだぜ、うっひょ～～♪"
+                                "\\N<Syouta>So soft~♪ Such huge tits♪ They're bouncing around like\nthey're alive, whoa~~♪"
                             ]
                         },
                         {
@@ -12158,7 +12074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>女ってのはこんなもんで男誘惑してるのかよ～エロ～～♪"
+                                "\\N<Syouta>Is this how women seduce men~ So lewd~~♪"
                             ]
                         },
                         {
@@ -12184,7 +12100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そ、そんなことに使う訳…な、ないでしょ……！と、とにかく"
+                                "\\N<Luna>Th-they're not for that kind of use...! Anyway,"
                             ]
                         },
                         {
@@ -12201,7 +12117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>り、立派な男なのは、わ、わかったから……やめ、やめなさい！"
+                                "\\N<Luna>I-I get it, you're a fine man... Now stop it!"
                             ]
                         },
                         {
@@ -12218,14 +12134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　ルナはショウタの両手を掴み、払い除けた"
+                                "Luna grabbed both of Syouta's hands and pushed them away"
                             ]
                         },
                         {
@@ -12317,7 +12226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breasts\\C[0]+1"
                             ]
                         },
                         {
@@ -12411,14 +12320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>ちぇっ、\"それくらいで\"キレんなよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "乳はデカいくせに、心が小さい奴だな～～♪"
+                                "\\N<Syouta>Tch, don't get mad over \"just that\"~ Big tits but a small\nheart, huh~~♪"
                             ]
                         },
                         {
@@ -12451,14 +12353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>(むっ...)そ、そんなことどうでもいいでしょ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それより……あなたが冒険者って、本当なの？"
+                                "\\N<Luna>(Hmph...) That doesn't matter right now... More\nimportantly... Are you really an adventurer?"
                             ]
                         },
                         {
@@ -12510,7 +12405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>ああ、もちろん本当に決まってんだろ！"
+                                "\\N<Syouta>Yeah, of course I am! What else would I be?!"
                             ]
                         },
                         {
@@ -12527,14 +12422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>お前らがこれから行くっていうタワーダンジョンにだって俺は挑戦してる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからここでは、俺の方が\"センパイ\"ってことだな♪"
+                                "\\N<Syouta>I've even taken on the Tower Dungeon that you guys are about\nto head to! So that makes me your \"Senpai\" here♪"
                             ]
                         },
                         {
@@ -12576,7 +12464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>君みたいな少年が行けるところとは、到底思えないけど……"
+                                "\\N<Luna>I find it hard to believe that a boy like you could go to\nsuch a place..."
                             ]
                         },
                         {
@@ -12609,14 +12497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>ははははは！そっちこそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなデカチチぶら下げて冒険なんて、できるもんかよ！"
+                                "\\N<Syouta>Hahahahaha! As if you could go on an adventure with those\nbig boobs hanging down!"
                             ]
                         },
                         {
@@ -12633,14 +12514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>周りの大人も俺をバカにするけどなあ、俺には俺の攻略がある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり甘く見ない方がいいぜ"
+                                "\\N<Syouta>The adults around here might make fun of me, but I have my\nown way of doing things. You shouldn't underestimate me."
                             ]
                         },
                         {
@@ -12673,14 +12547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>はいはい、わかりました"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ私たちはこれからダンジョンに向かうから、これで……"
+                                "\\N<Luna>Yes, yes, I got it. Well then, we're heading to the dungeon\nnow, so..."
                             ]
                         },
                         {
@@ -12713,7 +12580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>今来たばっかりなんだろ？　場所わかるのか？"
+                                "\\N<Syouta>You just got here, right? Do you even know the way?"
                             ]
                         },
                         {
@@ -12746,7 +12613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……えーっと"
+                                "\\N<Luna>...Um-"
                             ]
                         },
                         {
@@ -12868,14 +12735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>…ったく、しょうがねえなあ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タワーダンジョンは、ここからだと真北の方に進めば着くぜ"
+                                "\\N<Syouta>...Geez, can't be helped~ The Tower Dungeon is due north\nfrom here if you go straight."
                             ]
                         },
                         {
@@ -12892,7 +12752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうなのね　あ、ありがとう……"
+                                "\\N<Luna>I see, thank you..."
                             ]
                         },
                         {
@@ -12925,14 +12785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ショウタ>まったく、お前らそんな調子だと心配だから、弟子にしてやってもいいぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は\\C[3]村\\C[0]に住んでいるから、いつでも声かけてきな！歓迎するぜ～♪"
+                                "\\N<Syouta>Seriously, you guys worry me. If you want, I could take you\non as my disciples? I live in the \\C[3]village\\C[0], so come\nand find me anytime! I'll welcome you~♪"
                             ]
                         },
                         {
@@ -12954,21 +12807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　島に着くや否や出会った少年ショウタから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　教えてもらった方向へ進む二人であった…"
+                                "The two of them proceeded in the direction taught by the boy\nthey had just met upon arriving at the island..."
                             ]
                         },
                         {

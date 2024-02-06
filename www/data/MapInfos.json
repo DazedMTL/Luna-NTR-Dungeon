@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "住処",
+        "name": "Abode",
         "order": 1,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": false,
-        "name": "世界樹",
+        "name": "World Tree",
         "order": 2,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "タワーダンジョン",
+        "name": "Tower Dungeon",
         "order": 10,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -32,7 +32,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "村",
+        "name": "Village",
         "order": 3,
         "parentId": 0,
         "scrollX": 1430.6666666666667,
@@ -41,7 +41,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "塔1F　転移の間",
+        "name": "Tower 1F: Teleportation Room",
         "order": 11,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -50,7 +50,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "塔2F　平原1",
+        "name": "Tower 2F: Plains 1",
         "order": 12,
         "parentId": 3,
         "scrollX": 2162.6666666666665,
@@ -59,7 +59,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "塔4F　森1",
+        "name": "Tower 4F: Forest 1",
         "order": 14,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -68,7 +68,7 @@
     {
         "id": 10,
         "expanded": false,
-        "name": "塔6F　中ボス1",
+        "name": "Tower 6F: Mid-Boss 1",
         "order": 17,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -77,7 +77,7 @@
     {
         "id": 11,
         "expanded": false,
-        "name": "塔19F 乳液3",
+        "name": "Tower 19F: Lotion 3",
         "order": 32,
         "parentId": 3,
         "scrollX": 2758.6666666666665,
@@ -87,7 +87,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "塔20F 乳液4",
+        "name": "Tower 20F: Lotion 4",
         "order": 33,
         "parentId": 3,
         "scrollX": 3076,
@@ -97,7 +97,7 @@
     {
         "id": 15,
         "expanded": false,
-        "name": "塔8F　氷2",
+        "name": "Tower 8F: Ice 2",
         "order": 19,
         "parentId": 3,
         "scrollX": 1216,
@@ -106,7 +106,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "塔7F　氷1",
+        "name": "Tower 7F: Ice 1",
         "order": 18,
         "parentId": 3,
         "scrollX": 1216,
@@ -115,7 +115,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "塔11F 中ボス2",
+        "name": "Tower 11F: Mid-Boss 2",
         "order": 23,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -124,7 +124,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "塔17F 胎動1",
+        "name": "Tower 17F: Throes 1",
         "order": 30,
         "parentId": 3,
         "scrollX": 2998.6666666666665,
@@ -133,7 +133,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "塔18F 胎動2",
+        "name": "Tower 18F: Throes 2",
         "order": 31,
         "parentId": 3,
         "scrollX": 3168,
@@ -142,7 +142,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "塔 ラスボス",
+        "name": "Tower Final Boss",
         "order": 37,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -151,7 +151,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "隠れの森2",
+        "name": "Hidden Forest 2",
         "order": 5,
         "parentId": 6,
         "scrollX": 1393.3333333333333,
@@ -160,7 +160,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "オープニング1",
+        "name": "Opening 1",
         "order": 40,
         "parentId": 0,
         "scrollX": 1092,
@@ -169,7 +169,7 @@
     {
         "id": 23,
         "expanded": true,
-        "name": "塔21F 中ボス4",
+        "name": "Tower 21F: Mid-Boss 4",
         "order": 35,
         "parentId": 3,
         "scrollX": 1216,
@@ -179,7 +179,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "隠れの森1",
+        "name": "Hidden Forest 1",
         "order": 4,
         "parentId": 6,
         "scrollX": 1430.6666666666667,
@@ -189,7 +189,7 @@
     {
         "id": 27,
         "expanded": false,
-        "name": "はじまり画面",
+        "name": "Starting Screen",
         "order": 39,
         "parentId": 0,
         "scrollX": 1092,
@@ -199,7 +199,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "雪小屋",
+        "name": "Snow Hut",
         "order": 22,
         "parentId": 35,
         "scrollX": 1092,
@@ -208,7 +208,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "スラム",
+        "name": "Slum",
         "order": 6,
         "parentId": 0,
         "scrollX": 1430.6666666666667,
@@ -217,7 +217,7 @@
     {
         "id": 31,
         "expanded": true,
-        "name": "塔5F　森2",
+        "name": "Tower 5F: Forest 2",
         "order": 15,
         "parentId": 3,
         "scrollX": 2432,
@@ -226,7 +226,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "コロシアム",
+        "name": "Colosseum",
         "order": 7,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -235,7 +235,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "塔3F　平原2",
+        "name": "Tower 3F: Plains 2",
         "order": 13,
         "parentId": 3,
         "scrollX": 1216,
@@ -244,7 +244,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "塔9F　雪1",
+        "name": "Tower 9F: Snow 1",
         "order": 20,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -253,7 +253,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "塔10F 雪2",
+        "name": "Tower 10F: Snow 2",
         "order": 21,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -262,7 +262,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "塔12F 火山1",
+        "name": "Tower 12F: Volcano 1",
         "order": 24,
         "parentId": 3,
         "scrollX": 1216,
@@ -271,7 +271,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "塔13F 火山2",
+        "name": "Tower 13F: Volcano 2",
         "order": 25,
         "parentId": 3,
         "scrollX": 1216,
@@ -280,7 +280,7 @@
     {
         "id": 38,
         "expanded": true,
-        "name": "塔14F 溶岩1",
+        "name": "Tower 14F: Lava 1",
         "order": 26,
         "parentId": 3,
         "scrollX": 1216,
@@ -289,7 +289,7 @@
     {
         "id": 39,
         "expanded": true,
-        "name": "塔15F 溶岩2",
+        "name": "Tower 15F: Lava 2",
         "order": 27,
         "parentId": 3,
         "scrollX": 1081.3333333333333,
@@ -298,7 +298,7 @@
     {
         "id": 40,
         "expanded": false,
-        "name": "塔16F 中ボス3",
+        "name": "Tower 16F: Mid-Boss 3",
         "order": 29,
         "parentId": 3,
         "scrollX": 1216.5,
@@ -307,7 +307,7 @@
     {
         "id": 41,
         "expanded": false,
-        "name": "ツリーハウス",
+        "name": "Treehouse",
         "order": 16,
         "parentId": 31,
         "scrollX": 1092,
@@ -316,7 +316,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "ビーチ",
+        "name": "Beach",
         "order": 8,
         "parentId": 0,
         "scrollX": 2358.6666666666665,
@@ -325,7 +325,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "ワールドマップ",
+        "name": "World Map",
         "order": 38,
         "parentId": 0,
         "scrollX": 1092,
@@ -334,7 +334,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "洞窟",
+        "name": "Cave",
         "order": 28,
         "parentId": 39,
         "scrollX": 1092,
@@ -343,7 +343,7 @@
     {
         "id": 45,
         "expanded": false,
-        "name": "小部屋",
+        "name": "Small Room",
         "order": 34,
         "parentId": 13,
         "scrollX": 1092,
@@ -352,7 +352,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "オープニング4",
+        "name": "Opening 4",
         "order": 44,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -361,7 +361,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "オープニング3",
+        "name": "Opening 3",
         "order": 43,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -370,7 +370,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "オープニング2",
+        "name": "Opening 2",
         "order": 42,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -379,7 +379,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "オープニング5",
+        "name": "Opening 5",
         "order": 45,
         "parentId": 0,
         "scrollX": 1390.6666666666667,
@@ -388,7 +388,7 @@
     {
         "id": 50,
         "expanded": false,
-        "name": "オープニング6",
+        "name": "Opening 6",
         "order": 46,
         "parentId": 0,
         "scrollX": 1390.6666666666667,
@@ -398,7 +398,7 @@
     {
         "id": 52,
         "expanded": false,
-        "name": "回想部屋",
+        "name": "Reminiscence Room",
         "order": 49,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -407,7 +407,7 @@
     {
         "id": 53,
         "expanded": false,
-        "name": "ビーチ　海水浴",
+        "name": "Beach - Swimming",
         "order": 9,
         "parentId": 42,
         "scrollX": 2432,
@@ -416,7 +416,7 @@
     {
         "id": 54,
         "expanded": true,
-        "name": "オープニング7-2",
+        "name": "Opening 7-2",
         "order": 48,
         "parentId": 55,
         "scrollX": 1081.3333333333333,
@@ -425,7 +425,7 @@
     {
         "id": 55,
         "expanded": true,
-        "name": "オープニング7-1",
+        "name": "Opening 7-1",
         "order": 47,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -434,7 +434,7 @@
     {
         "id": 56,
         "expanded": false,
-        "name": "オープニング1-2",
+        "name": "Opening 1-2",
         "order": 41,
         "parentId": 22,
         "scrollX": 1092,
@@ -443,7 +443,7 @@
     {
         "id": 57,
         "expanded": false,
-        "name": "スプラッシュ",
+        "name": "Splash",
         "order": 50,
         "parentId": 0,
         "scrollX": 1092,
@@ -452,7 +452,7 @@
     {
         "id": 58,
         "expanded": false,
-        "name": "最上階への廊下",
+        "name": "Hallway to the Top Floor",
         "order": 36,
         "parentId": 23,
         "scrollX": 1081.3333333333333,
@@ -461,7 +461,7 @@
     {
         "id": 59,
         "expanded": true,
-        "name": "エンディング",
+        "name": "Ending",
         "order": 51,
         "parentId": 0,
         "scrollX": 1081.3333333333333,
@@ -470,7 +470,7 @@
     {
         "id": 60,
         "expanded": true,
-        "name": "ハッピーエンド",
+        "name": "Happy End",
         "order": 52,
         "parentId": 59,
         "scrollX": 1092,
@@ -479,7 +479,7 @@
     {
         "id": 61,
         "expanded": true,
-        "name": "バッドエンド",
+        "name": "Bad End",
         "order": 53,
         "parentId": 59,
         "scrollX": 1092,

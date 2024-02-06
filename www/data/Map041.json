@@ -2461,7 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>あ～マジ疲れた～～ルナちゃん、ちょっと休憩していこうぜ♪"
+                                "\\N<Arashi>Ahh, I'm seriously beat... Luna-chan, let's take a little\nbreak, yeah?♪"
                             ]
                         },
                         {
@@ -2478,14 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうですね、私もけっこう疲れちゃいました..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、飲み物でも持ってきたらよかったなあ"
+                                "\\N<Luna>Yes, I'm quite tired too... Ah, I wish I had brought\nsomething to drink."
                             ]
                         },
                         {
@@ -2518,14 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>おっ、ちょうどよかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ良いモノ持ってんだよね～♪"
+                                "\\N<Arashi>Oh, perfect timing! I've got something good with me～♪"
                             ]
                         },
                         {
@@ -2644,14 +2630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>じゃ～ん！　飲むと疲れが吹っ飛ぶポーション～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ、ルナちゃんにあげるよ♪"
+                                "\\N<Arashi>Ta-da! A potion that blows away fatigue when you drink it～\nThis one's for you, Luna-chan♪"
                             ]
                         },
                         {
@@ -2724,7 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっ！？…いいんですか？　アラシさんの分しかないんじゃ…"
+                                "\\N<Luna>Eh!?... Is that okay? Don't you only have enough for\nyourself, Arashi-san..."
                             ]
                         },
                         {
@@ -2741,14 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>いいのいいの～遠慮しないで♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレはルナちゃんと一緒にいるだけで癒やされてっからさ♪"
+                                "\\N<Arashi>It's fine, it's fine～ Don't hold back♪ Just being with Luna-\nchan is healing enough for me♪"
                             ]
                         },
                         {
@@ -2774,7 +2746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うーん、でも……"
+                                "\\N<Luna>Hmm, but..."
                             ]
                         },
                         {
@@ -2791,7 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラシから勧められたポーションを飲みますか？"
+                                "Will you drink the potion offered by Arashi?"
                             ]
                         },
                         {
@@ -2799,8 +2771,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[4]",
-                                    "いいえ\\B[2]"
+                                    "Yes\\B[4]",
+                                    "No\\B[2]"
                                 ],
                                 1,
                                 0,
@@ -2862,7 +2834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>アラシさんがいいって言うなら、せっかくなので頂きますね♪"
+                                "\\N<Luna>If Arashi-san says it's okay, then I'll gratefully accept\nit♪"
                             ]
                         },
                         {
@@ -2904,7 +2876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>オッケー♪　ぐいっといっちゃって～～ぐいっと♪"
+                                "\\N<Arashi>Okay♪ Go on, chug it down～ chug♪"
                             ]
                         },
                         {
@@ -2984,7 +2956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>いただきます♪ゴクッ、ゴクッ……ぷはぁっ！　わあ、これ美味しいですね"
+                                "\\N<Luna>Here goes♪ Glug, glug... Phew! Wow, this is delicious!"
                             ]
                         },
                         {
@@ -3019,7 +2991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>うんうん、それ飲んだ子、みんなそういうんだよね～♪"
+                                "\\N<Arashi>Yeah yeah, everyone who drinks it says that～♪"
                             ]
                         },
                         {
@@ -3045,7 +3017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そうなんですか～美味しくて……なんだか、身体がふわふわして……"
+                                "\\N<Luna>Is that so? It's delicious and... somehow, my body feels\nlight and floaty..."
                             ]
                         },
                         {
@@ -3078,7 +3050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あれ...私……どうしてこんな、急に眠く～…"
+                                "\\N<Luna>Huh... Why am I... suddenly so sleepy～..."
                             ]
                         },
                         {
@@ -3111,14 +3083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>よっぽど疲れてたんじゃね～♪　いいよ、ゆっくり寝ちゃいなって～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレが見張っといてやっからさ♪"
+                                "\\N<Arashi>You must be really tired～♪ It's okay, go ahead and sleep～\nI'll keep watch over you♪"
                             ]
                         },
                         {
@@ -3151,7 +3116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>でも……それは、さすがに…………すぅー……すぅー……"
+                                "\\N<Luna>But... that's a bit... zzz... zzz..."
                             ]
                         },
                         {
@@ -3218,7 +3183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>ルナちゃ～ん？　マジ寝しちゃった～～♪　もしも～～～し？"
+                                "\\N<Arashi>Luna-chan? She seriously fell asleep～♪ Helloooo～～～?"
                             ]
                         },
                         {
@@ -3235,14 +3200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>……っし、完璧っしょ、小屋に二人っきり……♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さて、\"オレの疲れ\"はルナちゃんの身体で癒やすとすっか～"
+                                "\\N<Arashi>...Alright, perfect, just the two of us in the cabin...♪ Now\nthen, time to \"heal my fatigue\" with Luna-chan's body～"
                             ]
                         },
                         {
@@ -3489,7 +3447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breast \\C[0]+1"
                             ]
                         },
                         {
@@ -3531,7 +3489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -3588,7 +3546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A reminiscence scene has been added"
                             ]
                         },
                         {
@@ -3708,7 +3666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated"
                             ]
                         },
                         {
@@ -3739,7 +3697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -3957,7 +3915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -4019,7 +3977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>いえ……やっぱり申し訳ないですので、アラシさんが飲んでください"
+                                "\\N<Luna>No... I feel bad about it, so please, Arashi-san, you drink\nit"
                             ]
                         },
                         {
@@ -4092,7 +4050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>あっ、そう？…オレは飲まなくても平気だし、今はいいや"
+                                "\\N<Arashi>Ah, really?... I'm fine without it, so I'll pass for now"
                             ]
                         },
                         {
@@ -4156,7 +4114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>すみません、気を遣わせちゃって……"
+                                "\\N<Luna>I'm sorry for making you worry..."
                             ]
                         },
                         {
@@ -4173,14 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>別にいいぜ～♪　でも、欲しくなったら声かけてくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつでも飲ませてあげっから♪"
+                                "\\N<Arashi>It's totally fine～♪ But if you ever want some, just let me\nknow? I'll let you drink anytime♪"
                             ]
                         },
                         {
@@ -4238,7 +4189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>………………"
+                                "\\N<Arashi>..."
                             ]
                         },
                         {
@@ -4260,14 +4211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　アラシはなぜか残念そうな表情を浮かべながらポーションを片した"
+                                "Arashi put away the potion with a somewhat disappointed look\non his face"
                             ]
                         },
                         {
@@ -4284,28 +4228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -5087,7 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>Oh！　ナイス休憩プレイスですネ～♪"
+                                "\\N<Bob>Oh! What a nice resting spot we've found♪"
                             ]
                         },
                         {
@@ -5120,14 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ここまでお疲れさまでした、ボブさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこう深いところまで来たので、一度しっかり休んでいきましょうか"
+                                "\\N<Luna>You've done well to come this far, Bob-san. We've reached\nquite a deep place, so let's take a proper break."
                             ]
                         },
                         {
@@ -5191,14 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>オウケーイ！　ミーも賛成デース！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……ところで、ルナはかなり疲れまシタですネ～？"
+                                "\\N<Bob>Okay! I agree!... By the way, Luna, you seem pretty tired,\nhuh?"
                             ]
                         },
                         {
@@ -5240,7 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>まあ、そうですね……でも、少し休めば平気ですよ"
+                                "\\N<Luna>Well, yes... But I'll be fine after a little rest."
                             ]
                         },
                         {
@@ -5266,7 +5175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>そんなルナの疲れを、ミーが解消してあげまショー！"
+                                "\\N<Bob>Then let me take care of that fatigue for you!"
                             ]
                         },
                         {
@@ -5339,7 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっ、ボブさんって回復魔法が使えるんですか？"
+                                "\\N<Luna>Eh, Bob-san, can you use healing magic?"
                             ]
                         },
                         {
@@ -5372,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ノンノン！魔法ではなく、ミーのこの手で癒やして差し上げマ～ス♪"
+                                "\\N<Bob>No no! Not magic, I'll soothe you with these hands of mine♪"
                             ]
                         },
                         {
@@ -5389,14 +5298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>実は、マイフレンドからマッサージを教えてもらいまシタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミーのこの手で、ユーの疲れをグッバイしてあげマース"
+                                "\\N<Bob>Actually, I learned how to massage from a friend of mine!\nWith these hands, I'll say goodbye to your fatigue."
                             ]
                         },
                         {
@@ -5438,14 +5340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>へぇ～、マッサージができるってすごいですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしようかな～…(男の人に触られるってことだよね...)"
+                                "\\N<Luna>Wow, that's amazing you can do massages! What should I do...\n(It means being touched by a man...)"
                             ]
                         },
                         {
@@ -5471,7 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボブのマッサージを受けることにしますか？"
+                                "Will you accept Bob's massage?"
                             ]
                         },
                         {
@@ -5479,8 +5374,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -5535,7 +5430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>それじゃあ、せっかくなのでお願いしますね♪"
+                                "\\N<Luna>Then, since you're offering, please go ahead♪"
                             ]
                         },
                         {
@@ -5593,7 +5488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>オウケーイ❤　ミーの手で、リラーックスさせてあげマ～ス♪"
+                                "\\N<Bob>Okay❤ I'll relax you with my hands♪"
                             ]
                         },
                         {
@@ -5626,7 +5521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>それにしても……ミーの手でも収まりきらないサイズなので、ちゃんとできるか心配ですネ～♪"
+                                "\\N<Bob>But still... I'm worried if I can do it properly since even\nmy hands can't fully grasp the size♪"
                             ]
                         },
                         {
@@ -5668,7 +5563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……………？"
+                                "\\N<Luna>...?"
                             ]
                         },
                         {
@@ -5685,7 +5580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>なんでもないデスヨー！では、早速やっていきまショー♪"
+                                "\\N<Bob>It's nothing! Now, let's get started♪"
                             ]
                         },
                         {
@@ -5911,7 +5806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breast size \\C[0]+1"
                             ]
                         },
                         {
@@ -5953,7 +5848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness \\C[0]+5"
                             ]
                         },
                         {
@@ -6010,7 +5905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A reminiscence scene has been added."
                             ]
                         },
                         {
@@ -6130,7 +6025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Impression of Bob has been updated."
                             ]
                         },
                         {
@@ -6161,7 +6056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated."
                             ]
                         },
                         {
@@ -6370,7 +6265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS."
                             ]
                         },
                         {
@@ -6416,14 +6311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>いいえ、やっぱり大丈夫です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボブさんも休んだ方がいいですよ"
+                                "\\N<Luna>No, actually, I'm fine. You should rest as well, Bob-san."
                             ]
                         },
                         {
@@ -6440,7 +6328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>ミーは元気！　このスーパーボディは疲れまセーン！"
+                                "\\N<Bob>I'm full of energy! This super body doesn't get tired!"
                             ]
                         },
                         {
@@ -6473,14 +6361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>お気持ちだけで大丈夫ですよ、ありがとうございます♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆっくり休みましょう？"
+                                "\\N<Luna>Your concern is enough, thank you♪ Let's rest well?"
                             ]
                         },
                         {
@@ -6538,14 +6419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>ンンー、そうですカ～～......"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあマッサージが必要になったら、いつでも言ってくだサ～イ..."
+                                "\\N<Bob>Mmm- okay then... If you ever need a massage, just let me\nknow..."
                             ]
                         },
                         {
@@ -6562,7 +6436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>はい、その時はお願いしますね♪"
+                                "\\N<Luna>Yes, I will ask you when the time comes♪"
                             ]
                         },
                         {
@@ -6584,14 +6458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　ボブはルナとの距離を縮めようとしたが、うまくいかなかったようだ..."
+                                "Bob tried to close the distance with Luna but it seems it\ndidn't go as planned..."
                             ]
                         },
                         {
@@ -6615,28 +6482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -7077,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはモンスターの侵入もなさそうだ、少し休憩していきますか？"
+                                "It doesn't seem like monsters will invade here, shall we\ntake a short break?"
                             ]
                         },
                         {
@@ -7085,8 +6931,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スラム",
+    "displayName": "Slums",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14608,7 +14608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>うわ……やはりスラムってこんな感じだよな……"
+                                "\\N<Taro>Ugh... as expected, the slums really do look like this..."
                             ]
                         },
                         {
@@ -14625,7 +14625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>なんだか、すごいところだね……"
+                                "\\N<Luna>It's quite an amazing place..."
                             ]
                         },
                         {
@@ -14676,14 +14676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>いくら節約しないととはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり不安がぬぐいきれないな……"
+                                "\\N<Taro>No matter how much we need to save money, I still can't\nshake off this unease..."
                             ]
                         },
                         {
@@ -14700,14 +14693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>こんなところに宿泊して、もしルナちゃんの身に何かあったら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思うとスラムに泊まるのは、気が進まない"
+                                "\\N<Taro>If we stayed in a place like this and something happened to\nLuna-chan... I just can't bring myself to stay in the slums."
                             ]
                         },
                         {
@@ -14820,14 +14806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>心配してくれて、ありがとう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もちょっと危ない気がするから、やめた方がいいかな"
+                                "\\N<Luna>Thank you for worrying about me♪ I also feel it might be a\nbit dangerous, so maybe we should avoid it."
                             ]
                         },
                         {
@@ -14844,7 +14823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そうだね、でもこの島にいる間…どこで過ごそうか……"
+                                "\\N<Taro>Yeah, but where should we spend our time while we're on this\nisland..."
                             ]
                         },
                         {
@@ -14861,7 +14840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルナたちが同然と立ち尽くしていると、後ろから一人の男がスラムへ戻ってきたようだ"
+                                "As Luna and Taro stood there dumbfounded, a man seemed to\nreturn to the slums from behind them."
                             ]
                         },
                         {
@@ -14945,14 +14924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>あぁ～、今日も狩り続きで疲れたぜ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ったら昼酒でも飲んで、寝るとするか"
+                                "\\N<???>Ahh~, I'm so tired from hunting all day... I'll have a drink\nin the afternoon when I get back and then go to sleep."
                             ]
                         },
                         {
@@ -15023,14 +14995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>あー……すまないが、そこに突っ立ってないで退いてくれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちはダンジョン帰りで疲れているんだ"
+                                "\\N<???>Ah-... sorry, but could you not stand there? Move aside, I'm\ntired from returning from the dungeon."
                             ]
                         },
                         {
@@ -15155,7 +15120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あっ！？　ごめんなさい……"
+                                "\\N<Luna>Ah!? Sorry..."
                             ]
                         },
                         {
@@ -15376,7 +15341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>……ふぅ～ん？"
+                                "\\N<???>...Hmm?"
                             ]
                         },
                         {
@@ -15393,7 +15358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>あんたら、見かけない顔だが……最近来た冒険者か？"
+                                "\\N<???>You two, I haven't seen your faces before... Are you\nadventurers who recently arrived?"
                             ]
                         },
                         {
@@ -15410,14 +15375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>最近というか、今日来たばっかりで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくはこの島で頑張ることにしました、よろしくお願いします"
+                                "\\N<Taro>Not just recently, we arrived today... We've decided to do\nour best on this island for a while, please take care of us."
                             ]
                         },
                         {
@@ -15450,14 +15408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>よろしくお願いします"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダンジョン帰りって言われていましたけど……おじ様も、冒険者ですか？"
+                                "\\N<Luna>Please take care of us. You mentioned returning from the\ndungeon... Are you an adventurer too, sir?"
                             ]
                         },
                         {
@@ -15571,7 +15522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>(礼儀正しくて可愛くて…)"
+                                "\\N<???>(Polite and cute...)"
                             ]
                         },
                         {
@@ -15604,14 +15555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>(それに爆乳じゃないかぁ～♪　う～ん、100点満点の女だ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もこんなかわい子ちゃんとヤリてぇよ……)"
+                                "\\N<???>(And she's got huge boobs too~♪ Mmm, she's a perfect 100\npoints. I'd love to get it on with such a cutie...)"
                             ]
                         },
                         {
@@ -15644,14 +15588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>そうかそうか、若いのにご苦労なこった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その通り、俺も冒険者をやっているぜ"
+                                "\\N<???>That's right, that's right, you're doing well for being so\nyoung. Indeed, I'm also an adventurer."
                             ]
                         },
                         {
@@ -15684,7 +15621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>おっと申し遅れた、俺の名は\\C[2]ドルトン\\C[0]だ…君たちは？"
+                                "\\N<Dalton>Oops, I forgot to introduce myself. My name is\n\\C[2]Dalton\\C[0]... And you are?"
                             ]
                         },
                         {
@@ -15733,7 +15670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私はルナと言いまして、こちらはTaroです"
+                                "\\N<Luna>My name is Luna, and this is Taro."
                             ]
                         },
                         {
@@ -15782,7 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>ルナちゃんね……名前も可愛いからすぐ覚えられちゃうよ"
+                                "\\N<Dalton>Luna-chan, huh... Such a cute name, I'll remember it easily."
                             ]
                         },
                         {
@@ -15799,14 +15736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>もう長いことタワーダンジョンには行っているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かわからないことがあれば相談に乗るぞ～是非頼ってくれ"
+                                "\\N<Dalton>I've been going to the Tower Dungeon for a long time now, so\nif there's anything you don't understand, feel free to ask\nme for advice~ Please rely on me."
                             ]
                         },
                         {
@@ -15854,14 +15784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>あ、ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言ってくれると心強いです！"
+                                "\\N<Taro>Ah, thank you very much! It's reassuring to hear you say\nthat!"
                             ]
                         },
                         {
@@ -15909,7 +15832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ありがとうございます！良かったね、Taro君♪"
+                                "\\N<Luna>Thank you! That's great, Taro-kun♪"
                             ]
                         },
                         {
@@ -15926,14 +15849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>それにしても珍しいなぁ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新入りがスラムに来ることなんて滅多にないのに"
+                                "\\N<Dalton>But it's rare indeed. It's not often that newcomers come to\nthe slums."
                             ]
                         },
                         {
@@ -15981,7 +15897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>えっと、実はですね……かくかくしかじかで……"
+                                "\\N<Taro>Well, actually... this and that happened and..."
                             ]
                         },
                         {
@@ -16014,14 +15930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>ははぁ～ん、なるほどねえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんもスラムに泊まるのは、やめておいた方がいいと思うぜ"
+                                "\\N<Dalton>Haha~ I see. I think it's better if you don't stay in the\nslums too."
                             ]
                         },
                         {
@@ -16085,7 +15994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>やっぱり、危ないんですか？"
+                                "\\N<Luna>Is it really dangerous?"
                             ]
                         },
                         {
@@ -16102,14 +16011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>治安が悪いというのも、もちろんあるんだけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スラムの宿屋は仕切りが無いから、宿泊客は全員で雑魚寝をするんだよ"
+                                "\\N<Dalton>It's not just about the bad security... The inns in the\nslums don't have partitions, so all the guests sleep\ntogether in one room."
                             ]
                         },
                         {
@@ -16157,14 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>そんなところに行ってみた日には、ルナちゃんがどうなるか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ男なら、容易に想像ができるだろ？"
+                                "\\N<Dalton>If you went there, who knows what might happen to Luna-\nchan... Any guy could easily imagine that, right?"
                             ]
                         },
                         {
@@ -16181,7 +16076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>仕切りがない雑魚寝、ですか……やっぱり危険だ..."
+                                "\\N<Taro>No partitions and everyone sleeping together... That does\nsound dangerous..."
                             ]
                         },
                         {
@@ -16230,14 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>うんうん、悪いことは言わんから、他をあたることだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふああ～……さて、俺は疲れたからここで失礼するよ"
+                                "\\N<Dalton>Yeah yeah, I'm not saying it to be mean, but you should look\nelsewhere. Yawn~... Well, I'm tired so I'll be taking my\nleave now."
                             ]
                         },
                         {
@@ -16254,7 +16142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドルトンがその場から離れようとしたとき、顔をルナの耳元へ近づけ囁いた"
+                                "As Dalton was about to leave, he leaned close to Luna's ear\nand whispered."
                             ]
                         },
                         {
@@ -16343,14 +16231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>\\}今度二人だけでダンジョン攻略に行かないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナちゃんのために、特別に協力してあげるよ♪"
+                                "\\N<Dalton>How about it? Just the two of us going to conquer the\ndungeon next time? I'll help you out specially, Luna-chan♪"
                             ]
                         },
                         {
@@ -16383,7 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>\\}えっ！？　でも……申し訳ないですし……"
+                                "\\N<Luna>Eh!? But... I feel bad..."
                             ]
                         },
                         {
@@ -16400,7 +16281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>\\}気にしなくていいって～同じ冒険者として、おじさんルナちゃんを手助けしたいんだ"
+                                "\\N<Dalton>Don't worry about it~ As a fellow adventurer, I just want to\nhelp out Luna-chan."
                             ]
                         },
                         {
@@ -16433,14 +16314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>おじさんは\\C[3]その酒場の裏\\C[0]に住んでいるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダンジョンへ行くときは声かけてくれ、待ってるよ♪"
+                                "\\N<Dalton>I live behind \\C[3]that tavern\\C[0]. When you want to go to\nthe dungeon, just call out to me, I'll be waiting♪"
                             ]
                         },
                         {
@@ -17010,14 +16884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……どうしようか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他をあたれってドルトンさんは言っていたけど、他なんて……"
+                                "\\N<Taro>...What should we do? Dalton-san said we should look\nelsewhere but..."
                             ]
                         },
                         {
@@ -17050,14 +16917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うーん……一度砂浜に戻ってみる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "海を見ていたら、何か思いつくかもしれないよ"
+                                "\\N<Luna>Hmm... How about we go back to the beach once? Maybe looking\nat the sea will give us some ideas."
                             ]
                         },
                         {
@@ -17074,7 +16934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>だから、そんなに落ち込まないで、ね？"
+                                "\\N<Luna>So don't be too downhearted, okay?"
                             ]
                         },
                         {
@@ -17107,7 +16967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん…　そうだな、一旦戻ってみるか……"
+                                "\\N<Taro>Luna-chan... Yeah, let's go back for now..."
                             ]
                         },
                         {
@@ -17143,14 +17003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　結局当てのないままルナたちは初めて上陸した砂浜へ戻って行った"
+                                "In the end, without any leads, Luna and the others returned\nto the sandy beach where they first landed."
                             ]
                         },
                         {
@@ -17660,7 +17513,7 @@
         {
             "id": 21,
             "name": "EV021",
-            "note": "<namePop:ボブ 43>",
+            "note": "<namePop:I'm_sorry,_but_you've_provided_the_name_of_a_character,_Bob,_rather_than_a_location_name_to_translate._If_you_have_any_lines_of_text_or_location_names_from_the_game_that_you_need_translated,_please_provide_them,_and_I'll_be_happy_to_assist_you. 43>",
             "pages": [
                 {
                     "conditions": {
@@ -18152,7 +18005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カギが掛かっている"
+                                "It's locked."
                             ]
                         },
                         {

@@ -3088,21 +3088,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "　　　　　　　　　　　　　　　～バトルシステム　その２～"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　　　　　　　　　　　　\"ボス級\"のバトルは通常バトルとは異なり"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　　　　　　　　　　　　\\C[2]与えたダメージ量は次回対戦以降も残ります\\C[0]\\|"
+                            "～Battle System Part 2～ Battles against \"Boss-class\" enemies\ndiffer from normal battles; the \\C[2]damage dealt carries\nover to subsequent encounters\\C[0]"
                         ]
                     },
                     {
@@ -3119,21 +3105,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            ""
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　　　　　　　　　　　　　　 戦略として一発勝負にこだわらず"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　　　　　　　　　複数回にわたる長期戦に持ち込み攻略するのも一つの手です\\|"
+                            "As a strategy, don't focus on winning in one go; consider\ntaking it to a long-term battle over multiple encounters as\none way to conquer."
                         ]
                     },
                     {

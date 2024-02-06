@@ -3388,21 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ルナとの別れから全く立ち直ることができないTaroは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　そろそろ1年が経過するにも関わらず抜け殻のままであった"
+                                "Taro, still unable to recover from his breakup with Luna,\nremained an empty shell even as nearly a year had passed."
                             ]
                         },
                         {
@@ -3428,14 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>はぁ～～帰ってきてもう\"10ヶ月\"か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何もやる気が起きないな...頑張る理由もないし、当然と言えば当然か..."
+                                "\\N<Taro>Sigh... It's been \"10 months\" since I came back... I just\ncan't find the motivation to do anything... No reason to\ntry, which I guess is to be expected..."
                             ]
                         },
                         {
@@ -3452,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>もうルナちゃんはいない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかってはいるんだけど引きずっているんだよな...僕"
+                                "\\N<Taro>Luna-chan is gone... I know that, but I can't stop dwelling\non it... Me."
                             ]
                         },
                         {
@@ -3485,7 +3457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>はぁ...お腹減ったし何か買いに……"
+                                "\\N<Taro>Sigh... I'm hungry, maybe I should go buy something..."
                             ]
                         },
                         {
@@ -3514,14 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　\\{\\{お届け物で～～す\\}\\}"
+                                "Delivery here~~"
                             ]
                         },
                         {
@@ -3621,7 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……荷物？　通販とか利用してないのに..."
+                                "\\N<Taro>...A package? But I haven't ordered anything online..."
                             ]
                         },
                         {
@@ -3695,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>端末……？こんなの頼んだ覚えないんだけど..."
+                                "\\N<Taro>A device...? I don't remember ordering this..."
                             ]
                         },
                         {
@@ -3721,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>なんか動画が入ってる...広告か？今は見る気分じゃないんだけどな…"
+                                "\\N<Taro>There's some video on it... Is it an ad? I'm really not in\nthe mood to watch it now..."
                             ]
                         },
                         {
@@ -3747,7 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>なんだろこのゾワゾワした気分は......い、一応チェックしてみるか……"
+                                "\\N<Taro>What's this uneasy feeling... Well, I might as well check it\nout..."
                             ]
                         },
                         {

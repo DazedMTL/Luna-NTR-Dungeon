@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----身体--------",
+        "name": "-----Body--------",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "青が基調のチェック柄ワンピースでTaroからのプレゼントでお気に入りのようだ\n仕立屋で強化することで損傷を防ぐこともできる特殊な繊維",
+        "description": "Luna's favorite dress is a blue checkered one-piece, a gift from Taro.\nIt's made of special fibers that can be reinforced at the tailor to\nprevent damage.",
         "etypeId": 3,
         "traits": [
             {
@@ -45,7 +45,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "ワンピース",
+        "name": "Dress",
         "note": "",
         "params": [
             0,
@@ -62,7 +62,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "緑色の戦闘着にサバイバルベストを装備",
+        "description": "Equipped with a green combat outfit and a survival vest.",
         "etypeId": 3,
         "traits": [
             {
@@ -77,7 +77,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "サバイバルベスト",
+        "name": "Survival Vest",
         "note": "",
         "params": [
             0,
@@ -94,7 +94,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "清潔感のない汚れが目立つシャツとジーンズ",
+        "description": "A shirt and jeans that are noticeably dirty and lack cleanliness.",
         "etypeId": 3,
         "traits": [
             {
@@ -109,7 +109,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "Tシャツとジーンズ",
+        "name": "T-shirt and Jeans",
         "note": "",
         "params": [
             0,
@@ -126,7 +126,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "シャツは前を開け、いかにもチャラい雰囲気を出す格好",
+        "description": "The shirt is left open in front, giving off a decidedly flashy vibe.",
         "etypeId": 3,
         "traits": [
             {
@@ -141,7 +141,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "シャツと7分丈ズボン",
+        "name": "Shirt and Capri Pants",
         "note": "",
         "params": [
             0,
@@ -158,7 +158,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "小さめのベストに短パンと強気なファッション",
+        "description": "A bold fashion statement with a small vest and shorts.",
         "etypeId": 3,
         "traits": [
             {
@@ -173,7 +173,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "デニムベストと短パン",
+        "name": "Denim Vest and Shorts",
         "note": "",
         "params": [
             0,
@@ -190,7 +190,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "己の肉体美を誇示するかのようなタンクトップに黒色レギンス",
+        "description": "A tank top that seems to flaunt one's muscular beauty, paired with\nblack leggings.",
         "etypeId": 3,
         "traits": [
             {
@@ -205,7 +205,7 @@
             }
         ],
         "iconIndex": 152,
-        "name": "タンクトップとレギンス",
+        "name": "Tank Top and Leggings",
         "note": "",
         "params": [
             0,
@@ -249,7 +249,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "気弱な性格からか地味で暗めのワンピース",
+        "description": "A plain and dark one-piece dress, perhaps due to a timid personality.",
         "etypeId": 3,
         "traits": [
             {
@@ -264,7 +264,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "地味なワンピース",
+        "name": "Plain Dress",
         "note": "",
         "params": [
             0,
@@ -281,7 +281,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "ボブからプレゼントされた紐のような水着\n恥部をかろうじて隠せる面積しかなくお尻は丸見え",
+        "description": "A swimsuit gifted by Bob that's like a string, barely covering the\ngenitals and leaving the butt completely exposed.",
         "etypeId": 3,
         "traits": [
             {
@@ -296,7 +296,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "マイクロビキニ",
+        "name": "Micro Bikini",
         "note": "<装備種類:マイクロビキニ>",
         "params": [
             0,
@@ -313,7 +313,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "露天風呂で入浴時に見せる格好\n男だけでなく女にも注目される体型",
+        "description": "An appearance shown during bathing in an open-air bath, attracting\nattention not only from men but also from women due to the body type.",
         "etypeId": 3,
         "traits": [
             {
@@ -328,7 +328,7 @@
             }
         ],
         "iconIndex": 7,
-        "name": "裸",
+        "name": "Naked",
         "note": "<装備種類:nude>",
         "params": [
             0,
@@ -355,7 +355,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "-----首----------",
+        "name": "-----Neck----------",
         "note": "",
         "params": [
             0,
@@ -372,7 +372,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "装備すると致命傷となりえる\"会心\"攻撃から身を守る\n【防+1・魔防+1】",
+        "description": "Equipping this protects against critical \"critical\" attacks that could\nbe fatal. [Defense +1・M. Defense +1]",
         "etypeId": 2,
         "traits": [
             {
@@ -382,7 +382,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "守りのペンダント",
+        "name": "Protective Pendant",
         "note": "",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "装備すると＜毒＞から身を守ってくれる\n【防+2・魔防+1】",
+        "description": "Equipping this protects against <Poison>. [Defense +2・M. Defense +1]",
         "etypeId": 2,
         "traits": [
             {
@@ -409,7 +409,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ポイズンガード",
+        "name": "Poison Guard",
         "note": "",
         "params": [
             0,
@@ -426,7 +426,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "装備すると＜麻痺＞から身を守ってくれる\n【防+2・魔防+2】",
+        "description": "Equipping this protects against <Paralysis>. [Defense +2・M. Defense\n+2]",
         "etypeId": 2,
         "traits": [
             {
@@ -436,7 +436,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "パラライズガード",
+        "name": "Paralyze Guard",
         "note": "",
         "params": [
             0,
@@ -453,7 +453,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "装備すると＜睡眠＞から身を守ってくれる\n【防+1・魔防+2】",
+        "description": "Equipping this protects against <Sleep>. [Defense +1・M. Defense +2]",
         "etypeId": 2,
         "traits": [
             {
@@ -463,7 +463,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "スリープガード",
+        "name": "Sleep Guard",
         "note": "",
         "params": [
             0,
@@ -480,7 +480,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "あらゆる状態異常を防いでくれる\n【防+3・魔防+2】",
+        "description": "Protects against all status abnormalities. [Defense +3・M. Defense +2]",
         "etypeId": 2,
         "traits": [
             {
@@ -565,7 +565,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "セーフティガード",
+        "name": "Safety Guard",
         "note": "",
         "params": [
             0,
@@ -609,7 +609,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "銀素材で作られた能力向上を補助するアイテム\n【攻+2・防+1・魔+2・魔防+1】",
+        "description": "An item made of silver material that aids in enhancing abilities.\n[Attack +2・Defense +1・M. Power +2・M. Defense +1]",
         "etypeId": 2,
         "traits": [
             {
@@ -619,7 +619,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "銀の首飾り",
+        "name": "Silver Necklace",
         "note": "",
         "params": [
             0,
@@ -636,7 +636,7 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "魔法の金属ミスリルで作られた魔力補助ネックレス\n【攻+1・防+1・魔+4・魔防+3】",
+        "description": "A magic power support necklace made of the magical metal Mithril.\n[Attack +1・Defense +1・M. Power +4・M. Defense +3]",
         "etypeId": 2,
         "traits": [
             {
@@ -646,7 +646,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ミスリルネックレス",
+        "name": "Mithril Necklace",
         "note": "",
         "params": [
             0,
@@ -663,7 +663,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "特技や魔法の消費MPを半分にすることができるレアなペンダント",
+        "description": "A rare pendant that can halve the MP consumption of special skills and\nmagic.",
         "etypeId": 2,
         "traits": [
             {
@@ -673,7 +673,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "スキルペンダント",
+        "name": "Skill Pendant",
         "note": "",
         "params": [
             0,
@@ -690,7 +690,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "MPが毎ターン回復する不思議なレアペンダント",
+        "description": "A mysterious rare pendant that recovers MP every turn.",
         "etypeId": 2,
         "traits": [
             {
@@ -700,7 +700,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "マジックペンダント",
+        "name": "Magic Pendant",
         "note": "",
         "params": [
             0,
@@ -717,7 +717,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "HPが毎ターン回復する不思議なレアペンダント",
+        "description": "A mysterious rare pendant that recovers HP every turn.",
         "etypeId": 2,
         "traits": [
             {
@@ -727,7 +727,7 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ヒットポイントペンダント",
+        "name": "Hit Point Pendant",
         "note": "",
         "params": [
             0,
@@ -997,7 +997,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----装飾品--------",
+        "name": "-----Accessories--------",
         "note": "",
         "params": [
             0,
@@ -1014,11 +1014,11 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "冒険者のために作られた指輪\n【攻+2・防+1】",
+        "description": "A ring made for adventurers. [Attack +2・Defense +1]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "戦士の腕輪",
+        "name": "Warrior's Bracelet",
         "note": "",
         "params": [
             0,
@@ -1035,11 +1035,11 @@
     {
         "id": 35,
         "atypeId": 1,
-        "description": "魔法冒険者のために作られた指輪\n【魔+2・魔防+2】",
+        "description": "A ring made for magic adventurers. [M. Power +2・M. Defense +2]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "術士の腕輪",
+        "name": "Sorcerer's Bracelet",
         "note": "",
         "params": [
             0,
@@ -1083,7 +1083,7 @@
     {
         "id": 37,
         "atypeId": 1,
-        "description": "炎属性のダメージを半減する効果を持つ指輪\n【魔+2・魔防+2】",
+        "description": "A ring with the effect of halving fire attribute damage. [M. Power\n+2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1093,7 +1093,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐火の指輪",
+        "name": "Fire Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1110,7 +1110,7 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "氷属性のダメージを半減する効果を持つ指輪\n【魔+2・魔防+2】",
+        "description": "A ring with the effect of halving ice attribute damage. [M. Power\n+2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1120,7 +1120,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐氷の指輪",
+        "name": "Ice Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1137,7 +1137,7 @@
     {
         "id": 39,
         "atypeId": 1,
-        "description": "植物属性のダメージを半減する効果を持つ指輪\n【魔+2・魔防+2】",
+        "description": "A ring with the effect of halving plant attribute damage. [M. Power\n+2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1147,7 +1147,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐植物の指輪",
+        "name": "Plant Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1164,7 +1164,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "触手属性のダメージを半減する効果を持つ指輪\n【魔+2・魔防+2】",
+        "description": "A ring with the effect of halving tentacle attribute damage. [M. Power\n+2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1174,7 +1174,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐触手の指輪",
+        "name": "Tentacle Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1218,7 +1218,7 @@
     {
         "id": 42,
         "atypeId": 1,
-        "description": "光属性のダメージを30％減する効果を持つ指輪\n【防+2・魔防+2】",
+        "description": "A ring with the effect of reducing light attribute damage by 30%.\n[Defense +2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1228,7 +1228,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐光の指輪",
+        "name": "Light Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1245,7 +1245,7 @@
     {
         "id": 43,
         "atypeId": 1,
-        "description": "闇属性のダメージを半減する効果を持つ指輪\n【防+2・魔防+2】",
+        "description": "A ring with the effect of halving dark attribute damage. [Defense\n+2・M. Defense +2]",
         "etypeId": 4,
         "traits": [
             {
@@ -1255,7 +1255,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐闇の指輪",
+        "name": "Darkness Resistant Ring",
         "note": "",
         "params": [
             0,
@@ -1353,7 +1353,7 @@
     {
         "id": 47,
         "atypeId": 1,
-        "description": "敵に狙われやすくなる不吉な指輪\n",
+        "description": "An ominous ring that makes one more likely to be targeted by enemies.",
         "etypeId": 4,
         "traits": [
             {
@@ -1368,7 +1368,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "不運の指輪",
+        "name": "Ring of Misfortune",
         "note": "",
         "params": [
             0,
@@ -1385,7 +1385,7 @@
     {
         "id": 48,
         "atypeId": 1,
-        "description": "TPが1.5倍溜まりやすくなる指輪\n【攻+1・魔+1】",
+        "description": "A ring that makes TP accumulate 1.5 times faster. [Attack +1・M. Power\n+1]",
         "etypeId": 4,
         "traits": [
             {
@@ -1395,7 +1395,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "覚醒の指輪",
+        "name": "Awakening Ring",
         "note": "",
         "params": [
             0,
@@ -1412,7 +1412,7 @@
     {
         "id": 49,
         "atypeId": 1,
-        "description": "全てダメージを30％軽減してくれるレアな指輪",
+        "description": "A rare ring that reduces all damage by 30%.",
         "etypeId": 4,
         "traits": [
             {
@@ -1467,7 +1467,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "精霊の指輪",
+        "name": "Spirit Ring",
         "note": "",
         "params": [
             0,
@@ -1575,7 +1575,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-------彼氏---------",
+        "name": "-------Boyfriend---------",
         "note": "",
         "params": [
             0,
@@ -1592,7 +1592,7 @@
     {
         "id": 54,
         "atypeId": 1,
-        "description": "露天風呂で入浴時に見せる格好\n中肉中背で決して大きいとは言えない陰茎体型",
+        "description": "An appearance shown during bathing in an open-air bath, with an\naverage build and a penis size that cannot be considered large.",
         "etypeId": 3,
         "traits": [
             {
@@ -1607,7 +1607,7 @@
             }
         ],
         "iconIndex": 82,
-        "name": "裸",
+        "name": "Naked",
         "note": "",
         "params": [
             0,
@@ -1732,7 +1732,7 @@
     {
         "id": 59,
         "atypeId": 3,
-        "description": "【軽装防具（身体）・防＋19】\n青銅で作られた粗末な胸当て",
+        "description": "[Light Armor (Body) ・Defense +19] A crude breastplate made of bronze.",
         "etypeId": 4,
         "traits": [
             {
@@ -1742,7 +1742,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "青銅の胸当て",
+        "name": "Bronze Breastplate",
         "note": "",
         "params": [
             0,
@@ -1759,7 +1759,7 @@
     {
         "id": 60,
         "atypeId": 3,
-        "description": "【軽装防具（身体）・防＋27・敏－2】\n鉄板から打ち出して作られた胸当て",
+        "description": "[Light Armor (Body) ・Defense +27・Agility -2] A breastplate hammered\nout from iron plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -1769,7 +1769,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "鉄の胸当て",
+        "name": "Iron Breastplate",
         "note": "",
         "params": [
             0,
@@ -1786,7 +1786,7 @@
     {
         "id": 61,
         "atypeId": 3,
-        "description": "【軽装防具（身体）・防＋36】\n銀で作られた胸当て",
+        "description": "[Light Armor (Body) ・Defense +36] A breastplate made of silver.",
         "etypeId": 4,
         "traits": [
             {
@@ -1796,7 +1796,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "銀の胸当て",
+        "name": "Silver Breastplate",
         "note": "",
         "params": [
             0,
@@ -1813,7 +1813,7 @@
     {
         "id": 62,
         "atypeId": 3,
-        "description": "【軽装防具（身体）・防＋46】\n魔法の金属ミスリルで作られた胸当て",
+        "description": "[Light Armor (Body) ・Defense +46] A breastplate made of the magical\nmetal Mithril.",
         "etypeId": 4,
         "traits": [
             {
@@ -1823,7 +1823,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ミスリルの胸当て",
+        "name": "Mithril Breastplate",
         "note": "",
         "params": [
             0,
@@ -1894,7 +1894,7 @@
     {
         "id": 65,
         "atypeId": 3,
-        "description": "なめし革で作られた帽子",
+        "description": "A hat made of tanned leather.",
         "etypeId": 2,
         "traits": [
             {
@@ -1904,7 +1904,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "レザーキャップ",
+        "name": "Leather Cap",
         "note": "",
         "params": [
             0,
@@ -1921,7 +1921,7 @@
     {
         "id": 66,
         "atypeId": 3,
-        "description": "青銅で補強された帽子",
+        "description": "Bronze-reinforced hat",
         "etypeId": 2,
         "traits": [
             {
@@ -1931,7 +1931,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "ブロンズキャップ",
+        "name": "Bronze Cap",
         "note": "",
         "params": [
             0,
@@ -1948,7 +1948,7 @@
     {
         "id": 67,
         "atypeId": 3,
-        "description": "鋼板を加工して作った帽子",
+        "description": "Hat made from processed steel plates",
         "etypeId": 2,
         "traits": [
             {
@@ -1958,7 +1958,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "サレット",
+        "name": "Sallet",
         "note": "",
         "params": [
             0,
@@ -1975,7 +1975,7 @@
     {
         "id": 68,
         "atypeId": 3,
-        "description": "かぶると力が湧いてくる赤い帽子",
+        "description": "Red hat that seems to give you strength when you put it on",
         "etypeId": 2,
         "traits": [
             {
@@ -1985,7 +1985,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "レッドキャップ",
+        "name": "Red Cap",
         "note": "",
         "params": [
             0,
@@ -2002,7 +2002,7 @@
     {
         "id": 69,
         "atypeId": 3,
-        "description": "ミスリル銀糸で編まれた帽子",
+        "description": "Hat knitted with mithril silver threads",
         "etypeId": 2,
         "traits": [
             {
@@ -2012,7 +2012,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "ミスリルキャップ",
+        "name": "Mithril Cap",
         "note": "",
         "params": [
             0,
@@ -2110,7 +2110,7 @@
     {
         "id": 73,
         "atypeId": 4,
-        "description": "革製の生地で作られた鎧",
+        "description": "Armor made from leather fabric",
         "etypeId": 3,
         "traits": [
             {
@@ -2120,7 +2120,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "レザーメイル",
+        "name": "Leather Mail",
         "note": "",
         "params": [
             0,
@@ -2137,7 +2137,7 @@
     {
         "id": 74,
         "atypeId": 4,
-        "description": "鉄の鎖を組み上げて作った鎧",
+        "description": "Armor assembled from iron chains",
         "etypeId": 3,
         "traits": [
             {
@@ -2147,7 +2147,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "チェインメイル",
+        "name": "Chain Mail",
         "note": "",
         "params": [
             0,
@@ -2164,7 +2164,7 @@
     {
         "id": 75,
         "atypeId": 4,
-        "description": "厚い青銅の板で作られた鎧",
+        "description": "Armor made from thick bronze plates",
         "etypeId": 3,
         "traits": [
             {
@@ -2174,7 +2174,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ブロンズアーマー",
+        "name": "Bronze Armor",
         "note": "",
         "params": [
             0,
@@ -2191,7 +2191,7 @@
     {
         "id": 76,
         "atypeId": 4,
-        "description": "頑丈な鉄板を加工して作られた鎧",
+        "description": "Armor crafted from sturdy processed iron plates",
         "etypeId": 3,
         "traits": [
             {
@@ -2201,7 +2201,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "アイアンアーマー",
+        "name": "Iron Armor",
         "note": "",
         "params": [
             0,
@@ -2218,7 +2218,7 @@
     {
         "id": 77,
         "atypeId": 4,
-        "description": "魔法の金属ミスリルで作られた鎧",
+        "description": "Armor made from the magical metal mithril",
         "etypeId": 3,
         "traits": [
             {
@@ -2228,7 +2228,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ミスリルアーマー",
+        "name": "Mithril Armor",
         "note": "",
         "params": [
             0,
@@ -2245,7 +2245,7 @@
     {
         "id": 78,
         "atypeId": 4,
-        "description": "ドラゴンの鱗を加工して作られた鎧\n魔法系ダメージを20％軽減することができる",
+        "description": "Armor crafted from processed dragon scales, capable of reducing\nmagical damage by 20%",
         "etypeId": 3,
         "traits": [
             {
@@ -2300,7 +2300,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ドラゴンメイル",
+        "name": "Dragon Mail",
         "note": "",
         "params": [
             0,

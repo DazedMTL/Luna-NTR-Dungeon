@@ -10273,21 +10273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　日も暮れ始め、夕焼けのいいムードの中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　ついにTaroはルナへ\"あの\"続きを切り出そうとしていた"
+                                "As the sun began to set and the sky was painted with the\nhues of sunset, Taro finally mustered the courage to\ncontinue \"that\" conversation with Luna."
                             ]
                         },
                         {
@@ -10338,7 +10324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ふう～～なんだか、ここに来てからあっという間だったね"
+                                "\\N<Luna>Phew... It feels like time has flown by since we arrived\nhere."
                             ]
                         },
                         {
@@ -10355,7 +10341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>うん、本当だね……ありがとう、ルナちゃん"
+                                "\\N<Taro>Yeah, it really does... Thank you, Luna-chan."
                             ]
                         },
                         {
@@ -10388,7 +10374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ううん、私は何も……"
+                                "\\N<Luna>No, I haven't done anything..."
                             ]
                         },
                         {
@@ -10405,14 +10391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃんがいてくれたからこそ、僕は今日まで頑張ってこれたんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君がいなかったら、きっと借金返済なんてできなくて、今頃……"
+                                "\\N<Taro>It's because you were with me that I've been able to keep\ngoing until today. Without you, I probably wouldn't have\nbeen able to pay off the debt and by now..."
                             ]
                         },
                         {
@@ -10429,7 +10408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……いいや、悪い話はやめよう...それより、ルナちゃん"
+                                "\\N<Taro>...No, let's not talk about bad things... Instead, Luna-\nchan."
                             ]
                         },
                         {
@@ -10462,7 +10441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>なぁに？"
+                                "\\N<Luna>What is it?"
                             ]
                         },
                         {
@@ -10479,7 +10458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>僕は……君に伝えたいことが、あって、その……聞いてもらっても、いいかな？"
+                                "\\N<Taro>I have something I want to tell you... Can I... can I talk\nto you about it?"
                             ]
                         },
                         {
@@ -10496,7 +10475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>えっ？　……う、うん"
+                                "\\N<Luna>Eh?... Oh, yes."
                             ]
                         },
                         {
@@ -10513,14 +10492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>僕は……これからもルナちゃんと一緒に居て、一生をかけて君を守りたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、こんな苦労はさせないように頑張るから……"
+                                "\\N<Taro>I want to be with you, Luna-chan, from now on and protect\nyou for the rest of my life. I'll work hard so you won't\nhave to go through any more hardships..."
                             ]
                         },
                         {
@@ -10567,7 +10539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>だから、僕と……け、\\{け……\\{結婚してください！\\}\\}"
+                                "\\N<Taro>So, will you... ma, ma... marry me!"
                             ]
                         },
                         {
@@ -10600,7 +10572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>………………っ！！！"
+                                "\\N<Luna>...!!!"
                             ]
                         },
                         {
@@ -10617,7 +10589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>(……ついに、ついに言えた、言えたぞ！)"
+                                "\\N<Taro>(I finally did it, I finally said it!)"
                             ]
                         },
                         {
@@ -10643,7 +10615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>Taro君……"
+                                "\\N<Luna>Taro-kun..."
                             ]
                         },
                         {
@@ -10660,7 +10632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……へ、返事を、聞かせてもらってもいいかな？"
+                                "\\N<Taro>...Can I... hear your answer?"
                             ]
                         },
                         {
@@ -10677,7 +10649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そんなの、決まってるよ……"
+                                "\\N<Luna>Of course, it's decided..."
                             ]
                         },
                         {
@@ -10706,7 +10678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>(……ゴクリッ)"
+                                "\\N<Taro>(Gulp)"
                             ]
                         },
                         {
@@ -10771,7 +10743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>不束者ですが……よろしくお願いします❤"
+                                "\\N<Luna>I'm not worthy, but... please take care of me❤"
                             ]
                         },
                         {
@@ -10788,7 +10760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>………………………！！"
+                                "\\N<Taro>...!!"
                             ]
                         },
                         {
@@ -10880,7 +10852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>\\{や……\\{やったー！！！\\}\\}　夢！？　夢じゃないよね！？"
+                                "\\N<Taro>Ye... Yes!!! Is this a dream!? It's not a dream, right!?"
                             ]
                         },
                         {
@@ -10913,7 +10885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>夢じゃないよ♪　私、今とっても幸せなんだから♪"
+                                "\\N<Luna>It's not a dream♪ I'm really happy right now♪"
                             ]
                         },
                         {
@@ -10981,7 +10953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ぼ、僕も……うぅぅ、うぅ......"
+                                "\\N<Taro>Me too... ugh, ugh..."
                             ]
                         },
                         {
@@ -11045,7 +11017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>もう～、泣かないで？　そろそろ船が出発しちゃう時間だよ♪"
+                                "\\N<Luna>Come on, don't cry? It's almost time for the ship to depart♪"
                             ]
                         },
                         {
@@ -11062,7 +11034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>うん……ごめん、早速情けないところを見せちゃって"
+                                "\\N<Taro>Yeah... sorry for showing such a pathetic side so soon."
                             ]
                         },
                         {
@@ -11095,7 +11067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ううん、気にしてないよ～そんなTaro君のことも大好き❤"
+                                "\\N<Luna>No, I don't mind at all~ I love that side of you too, Taro-\nkun❤"
                             ]
                         },
                         {
@@ -11112,7 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん……僕も、君のことが大好きだ"
+                                "\\N<Taro>Luna-chan... I love you too."
                             ]
                         },
                         {
@@ -11129,7 +11101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>うふふ、嬉しい❤　それじゃあ、帰ろう　\"私たち\"の家に♪"
+                                "\\N<Luna>Ufufu, I'm so happy❤ Then let's go home, to \"our\" home♪"
                             ]
                         },
                         {
@@ -11201,21 +11173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　法外な借金を請求されたあの日から始まったこの物語も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　なんとか乗り越えることができたルナとTaro"
+                                "The story that began with an exorbitant debt demanded on\nthat day somehow managed to be overcome by Luna and Taro."
                             ]
                         },
                         {
@@ -11232,21 +11190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　そしてお預けとなっていたプロポーズも見事成功し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　晴れて二人は結ばれたのであった"
+                                "And the proposal that had been put on hold was finally\nsuccessful, and the two were happily united."
                             ]
                         },
                         {
@@ -11263,28 +11207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -11301,21 +11224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -11332,14 +11241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -11356,7 +11258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -11429,7 +11331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕と……け、けっ……けっこ"
+                                "\\N<Taro>With me... ma, ma... marri-"
                             ]
                         },
                         {
@@ -11446,7 +11348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<？？？>おっ、ルナみ～っけ♪"
+                                "\\N<???>Oh, found Luna~♪"
                             ]
                         },
                         {
@@ -11719,7 +11621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あっ、アラシさん……♪"
+                                "\\N<Luna>Ah, Arashi-san...♪"
                             ]
                         },
                         {
@@ -11736,7 +11638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>げっ……こんな大事な時に、何の用だよ...間が悪いなぁ…"
+                                "\\N<Taro>Gah... What do you want at such an important time... Talk\nabout bad timing..."
                             ]
                         },
                         {
@@ -11769,7 +11671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>あぁ？　うっせ～な、テメーは引っ込んでろ♪　\"オレのルナ\"を探しに来たんだよ"
+                                "\\N<Arashi>Ah? Shut up, just back off♪ I came looking for \"my Luna.\""
                             ]
                         },
                         {
@@ -11795,7 +11697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>………えっ？　オ、オレの？"
+                                "\\N<Taro>...Eh? My, my?"
                             ]
                         },
                         {
@@ -11828,14 +11730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>こんなところにいてさあ、どんだけ探したと思ってんの～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "面倒かけやがって……そろそろ\"パコり\"に行くぞ♪"
+                                "\\N<Arashi>You've been here all this time? Do you have any idea how\nlong I've been looking for you? Causing me trouble... It's\nabout time we go \"do it\"♪"
                             ]
                         },
                         {
@@ -11868,7 +11763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……あぁ～本当にごめんなさい、すぐ行きますね♪"
+                                "\\N<Luna>...Ahh, I'm really sorry, I'll be right there♪"
                             ]
                         },
                         {
@@ -11901,14 +11796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>よし、今日もマジでムラムラしてっから寝かせねえからな～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "朝までたっぷり可愛がってやんよ♪"
+                                "\\N<Arashi>Good, I'm seriously horny today, so don't expect any sleep~\nI'll be loving you all night long♪"
                             ]
                         },
                         {
@@ -11950,7 +11838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>は、はい❤❤❤　アラシさんのオチンポで、たくさんおマンコイかせてください❤"
+                                "\\N<Luna>Ye-yes❤❤❤ Please make my pussy cum lots with your cock,\nArashi-san❤"
                             ]
                         },
                         {
@@ -11992,7 +11880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>ったりめーだろ♪　…んじゃ、待ってっから、さっさと終わらせろよ～♪"
+                                "\\N<Arashi>Of course♪... Now, wait for me, hurry up and finish up\nhere~♪"
                             ]
                         },
                         {
@@ -12265,7 +12153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……ルナちゃん　う、嘘、だよね…あんなチャラチャラした奴と..."
+                                "\\N<Taro>...Luna-chan, no, it's a lie... right? With that frivolous\nguy..."
                             ]
                         },
                         {
@@ -12291,7 +12179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……ううん、嘘じゃないよ、本気だよ"
+                                "\\N<Luna>...No, it's not a lie, I'm serious."
                             ]
                         },
                         {
@@ -12317,7 +12205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>…………っ！？"
+                                "\\N<Taro>...!?"
                             ]
                         },
                         {
@@ -12334,14 +12222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>私もう、アラシさんのところに行かなくちゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ごめんね、Taro君……ここで\"さようなら\"なの..."
+                                "\\N<Luna>I have to go to Arashi-san now, I'm sorry Taro-kun... this\nis \"goodbye\"..."
                             ]
                         },
                         {
@@ -12358,7 +12239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>まっ……そんな、待って！　僕は君と結婚したくて、ここまで頑張って..."
+                                "\\N<Taro>Wa-wait! I've worked so hard because I wanted to marry\nyou..."
                             ]
                         },
                         {
@@ -12400,7 +12281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……私も、この島に来る時はTaro君と同じ気持ちだったよ..."
+                                "\\N<Luna>...When I came to this island, I felt the same way as you,\nTaro-kun..."
                             ]
                         },
                         {
@@ -12417,7 +12298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>じゃあ、なんで……"
+                                "\\N<Taro>Then why..."
                             ]
                         },
                         {
@@ -12434,7 +12315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>この島に来て、アラシさんと出会って……私は変わったの…"
+                                "\\N<Luna>After coming to this island and meeting Arashi-san... I\nchanged..."
                             ]
                         },
                         {
@@ -12476,14 +12357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ううん違う、変わったというより……染められちゃった、の方が正しいのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふふっ、ちょっと強引だったけど❤"
+                                "\\N<Luna>No, that's not right... It's more like I was dyed by him.\nHehe, even though it was a bit forceful❤"
                             ]
                         },
                         {
@@ -12500,7 +12374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>………そ、んな..."
+                                "\\N<Taro>...How could..."
                             ]
                         },
                         {
@@ -12533,7 +12407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>Taro君も私にこだわらないで、もっと良い人見つかるとイイね♪"
+                                "\\N<Luna>Taro-kun, you shouldn't get hung up on me, I hope you find\nsomeone better♪"
                             ]
                         },
                         {
@@ -12550,7 +12424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>これ以上アラシさんを待たせられないから、そろそろ行くね……バイバイ"
+                                "\\N<Luna>I can't keep Arashi-san waiting any longer, so I'm going\nnow... Bye-bye"
                             ]
                         },
                         {
@@ -12768,7 +12642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>…………だ"
+                                "\\N<Taro>...It's"
                             ]
                         },
                         {
@@ -12785,14 +12659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>嘘だ……嘘だ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嘘だ嘘だ……うそ、だ……嘘だあああぁぁぁぁぁぁああぁぁぁぁ！！！"
+                                "\\N<Taro>A lie... It's a lie, a lie, a lie... a lie... It's a\nlieeeeeee!!"
                             ]
                         },
                         {
@@ -12852,14 +12719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうしてこんな展開になってしまったのか..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これまでの記憶を遡るTaroであったが後の祭り"
+                                "Wondering how things ended up this way... Taro looked back\non his memories, but it was too late."
                             ]
                         },
                         {
@@ -12876,14 +12736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当然ルナは戻ってくることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出航の時間を迎えたTaroは一人寂しく船へ乗り込むのであった"
+                                "Of course, Luna never returned, and when the time for\ndeparture came, Taro boarded the ship alone and forlorn."
                             ]
                         },
                         {
@@ -12900,28 +12753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -12938,21 +12770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -12969,14 +12787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -12993,7 +12804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -13066,7 +12877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕と……け、け……"
+                                "\\N<Taro>With me... ma, ma... marri-"
                             ]
                         },
                         {
@@ -13083,7 +12894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<？？？>おーい、ルナちゃ～ん"
+                                "\\N<???>Oh, found Luna~♪"
                             ]
                         },
                         {
@@ -13356,7 +13167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ド、ドルトンさん？　一体何の用で……"
+                                "\\N<Taro>Do-Dalton-san? What do you want at such an important time..."
                             ]
                         },
                         {
@@ -13389,14 +13200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あっ、ドルトンさん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしたんですか？　待っててくださいって言ったのに～…"
+                                "\\N<Luna>Ah, Dalton-san♪ What's up? I told you to wait..."
                             ]
                         },
                         {
@@ -13429,14 +13233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>いやあ、ま～たスケベなコスプレを見つけちゃってね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早くルナちゃんに着せたくてついつい…はっはっは♪"
+                                "\\N<Dalton>Nah, just found another sexy cosplay outfit♪ I couldn't wait\nto see Luna-chan in it... hahaha♪"
                             ]
                         },
                         {
@@ -13462,14 +13259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>えぇっ、本当ですか～～もう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どれだけ着させるつもりなんですか♪　楽しいからいいですけど❤"
+                                "\\N<Luna>Ehh, really?～ You're always making me wear so many outfits♪\nBut it's fun so it's okay❤"
                             ]
                         },
                         {
@@ -13502,14 +13292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>ぐふふっ♪　ルナちゃんみたいなナイスバディには、いっぱい着てほしくなるんだよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナちゃんの身体には男のロマンが詰まってるからね～"
+                                "\\N<Dalton>Gufufu♪ With a nice body like Luna-chan's, I want her to\nwear lots of them♪ Luna-chan's body is packed with a man's\ndreams～"
                             ]
                         },
                         {
@@ -13542,14 +13325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>そういうわけだから、とっとと\"別れて\"自宅に来なさい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も朝までコスプレH三昧だぞぉ～♪"
+                                "\\N<Dalton>That's why you should \"break up\" here quickly and come to my\nplace♪ It's going to be a cosplay H marathon until morning♪"
                             ]
                         },
                         {
@@ -13813,7 +13589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……そういう訳だからそろそろドルトンさんの家に、行かなくちゃ♪"
+                                "\\N<Luna>...So that's why I have to go to Dalton-san's house soon♪"
                             ]
                         },
                         {
@@ -13830,7 +13606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……ま、待ってよ！　僕の話を、最後まで聞いてほし……"
+                                "\\N<Taro>...Wait! Please listen to the end of what I have to say..."
                             ]
                         },
                         {
@@ -13847,7 +13623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ごめんなさい"
+                                "\\N<Luna>I'm sorry"
                             ]
                         },
                         {
@@ -13873,7 +13649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん…"
+                                "\\N<Taro>Luna-chan..."
                             ]
                         },
                         {
@@ -13890,7 +13666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>私……もう、Taro君と一緒に居る理由がないの..."
+                                "\\N<Luna>I... don't have a reason to be with Taro-kun anymore..."
                             ]
                         },
                         {
@@ -13907,7 +13683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ど、どうして……君の恋人は、僕だったでしょ！？"
+                                "\\N<Taro>Wh-why... Weren't you my girlfriend?"
                             ]
                         },
                         {
@@ -13924,14 +13700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そう\"だった\"よ……でも、この島に来てドルトンさんと出会ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Taro君より頼りがいあって…年上の包容力っていうのかな？　一緒にいてすごく落ち着くの♪"
+                                "\\N<Luna>That was \"in the past\"... But after coming to this island\nand meeting Dalton-san, he seemed more reliable than Taro-\nkun... Maybe it's the maturity of an older man? Being with\nhim feels so comforting♪"
                             ]
                         },
                         {
@@ -13948,7 +13717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>コスプレHとか…そんな、趣味があるのに？　おかしいよ！あんな変態！！"
+                                "\\N<Taro>Cosplay H and all that... You're into such hobbies? That's\nweird! Such a pervert!!"
                             ]
                         },
                         {
@@ -13981,7 +13750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……そうやって、他人の趣味を受け入れられないのは、人として\"幼い\"と思わないの？"
+                                "\\N<Luna>...Isn't it \"childish\" as a person to not be able to accept\nother people's hobbies?"
                             ]
                         },
                         {
@@ -14007,7 +13776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>そ、それは……で、でも..."
+                                "\\N<Taro>Th-that's... but..."
                             ]
                         },
                         {
@@ -14024,7 +13793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>本当にそろそろいいかな？　私、ドルトンさんのところに行くね♪"
+                                "\\N<Luna>Is it really okay now? I'm going to Dalton-san's place♪"
                             ]
                         },
                         {
@@ -14041,7 +13810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>さようなら"
+                                "\\N<Luna>Goodbye"
                             ]
                         },
                         {
@@ -14259,14 +14028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……な、んでだよ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでこんなことに……そんな素振り、なかったはず..."
+                                "\\N<Taro>...Wh-why... Why is this happening... There was no sign of\nthis..."
                             ]
                         },
                         {
@@ -14283,14 +14045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕と……結婚、するはずが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんな、おっさんにルナちゃんを奪われるなんてっ…チクショォォォ..."
+                                "\\N<Taro>We were supposed to... get married... To have Luna-chan\ntaken away by such an old man... Damn it..."
                             ]
                         },
                         {
@@ -14350,14 +14105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当然プロポーズがうまくいくとしか思っていなかっただけに、目の前の現実が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夢であってほしいと願い続けるTaro"
+                                "Taro, having never imagined the proposal would fail,\ncontinues to wish that the reality before him is just a\ndream."
                             ]
                         },
                         {
@@ -14374,14 +14122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、この悪夢が覚めないまま出航の時間を迎えたTaroは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一人寂しく船へ乗り込むのであった"
+                                "However, as the departure time arrives and the nightmare\ndoes not end, Taro boards the ship alone and in solitude."
                             ]
                         },
                         {
@@ -14398,28 +14139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -14436,21 +14156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -14467,14 +14173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -14491,7 +14190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -14564,7 +14263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕と……け、け……結こ..."
+                                "\\N<Taro>With me... ma-mar... marry..."
                             ]
                         },
                         {
@@ -14581,7 +14280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<？？？>Hey～ルナ！　ここでしたカ～！"
+                                "\\N<???>Hey～Luna! This is where you were～!"
                             ]
                         },
                         {
@@ -14854,7 +14553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あ、ボブさん♪"
+                                "\\N<Luna>Ah, Bob-san♪"
                             ]
                         },
                         {
@@ -14871,7 +14570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>迎えに来ましたヨ～♪　\"お別れ\"はできましたカ～？"
+                                "\\N<Bob>I've come to pick you up～♪ Have you said your \"goodbyes\"?"
                             ]
                         },
                         {
@@ -14913,7 +14612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>お、お別れ……？"
+                                "\\N<Taro>Goodbyes...?"
                             ]
                         },
                         {
@@ -14946,7 +14645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>おや、その様子だとコレカラのようですネ～　ソーリー、お邪魔しちゃいましタ"
+                                "\\N<Bob>Oh, it looks like you're about to do that now～ Sorry, didn't\nmean to interrupt."
                             ]
                         },
                         {
@@ -14979,7 +14678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ごめんなさいボブさん…先に家に帰って、待っててもらえますか？"
+                                "\\N<Luna>I'm sorry, Bob-san... Could you go home first and wait for\nme?"
                             ]
                         },
                         {
@@ -15012,7 +14711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>オウケーイ♪　ボーイフレンドとお別れしたら、すぐマイホームに来てくださいネ♪"
+                                "\\N<Bob>Okay♪ Once you've said goodbye to your boyfriend, come\nstraight to my home, okay♪"
                             ]
                         },
                         {
@@ -15045,14 +14744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>はい、もちろんです❤　急いで帰りますね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "帰ったら……すぐに、シますか？"
+                                "\\N<Luna>Yes, of course❤ I'll hurry back♪ When I get there... shall\nwe do it right away?"
                             ]
                         },
                         {
@@ -15085,14 +14777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>オフコース♪　今日も一晩中ラブラブセックスでルナをメロメロにさせちゃいますヨ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでは、待ってマース♪"
+                                "\\N<Bob>Of course♪ I'll make Luna melt with love all night long\nagain today～ See you later, I'll be waiting♪"
                             ]
                         },
                         {
@@ -15356,7 +15041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……あ、あの、ルナちゃん……お別れ、って……"
+                                "\\N<Taro>...Um, Luna-chan... about saying goodbye..."
                             ]
                         },
                         {
@@ -15389,14 +15074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ごめんね、Taro君"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "話、遮っちゃったけど……私、行かなきゃ"
+                                "\\N<Luna>Sorry, Taro-kun, I interrupted you... but I have to go."
                             ]
                         },
                         {
@@ -15413,7 +15091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕が……結婚してほしいって言っても……？"
+                                "\\N<Taro>Even if I say... I want to marry you...?"
                             ]
                         },
                         {
@@ -15430,7 +15108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>うん……これ以上、ボブさんを待たせられないから"
+                                "\\N<Luna>Yes... I can't keep Bob-san waiting any longer."
                             ]
                         },
                         {
@@ -15447,14 +15125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ま、待って……なんであの人なんかと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナちゃんの彼氏は僕でしょ？　僕の方が長く一緒だったよね？"
+                                "\\N<Taro>Wait... why him? Aren't I your boyfriend? Haven't we been\ntogether longer?"
                             ]
                         },
                         {
@@ -15487,7 +15158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……Taro君、それはすごく……女々しいよ"
+                                "\\N<Luna>...Taro-kun, that's very... effeminate of you."
                             ]
                         },
                         {
@@ -15504,14 +15175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>女々しいって……ど、どこが！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モンスター討伐もできるし、お金だって稼いでこれるし、僕は十分に…"
+                                "\\N<Taro>Effeminate... where?! I can defeat monsters, and I can earn\nmoney too, I'm perfectly capable of..."
                             ]
                         },
                         {
@@ -15544,14 +15208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>違うの、ボブさんが男らしすぎるだけなの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼、すごいんだよ？とってもパワフルでかっこいいんだから"
+                                "\\N<Luna>It's different. Bob-san is just too manly... He's amazing,\nyou know? Very powerful and cool."
                             ]
                         },
                         {
@@ -15568,14 +15225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>昼間も冒険者として頼りになるし、守ってくれるし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに\"夜\"だって何度も何度も愛してくれて……ふふっ♪"
+                                "\\N<Luna>He's reliable as an adventurer during the day, he protects\nme... and at \"night\" he loves me over and over again...\nfufu♪"
                             ]
                         },
                         {
@@ -15592,7 +15242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……………"
+                                "\\N<Taro>..."
                             ]
                         },
                         {
@@ -15609,14 +15259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そういうわけだから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Taro君とはバイバイなの...向こうに帰っても、元気でね♪"
+                                "\\N<Luna>That's why... it's goodbye with Taro-kun... Take care when\nyou go back home♪"
                             ]
                         },
                         {
@@ -15825,14 +15468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ル、ルナちゃんと…お別れ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなところで？セックスするって……僕以外の男と？　"
+                                "\\N<Taro>To break up with Luna-chan... here? To have sex with another\nman besides me?"
                             ]
                         },
                         {
@@ -15849,14 +15485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ああ、これは……そうだ、夢……きっと、夢なんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早く起きなきゃ……こんな悪夢から、早く……はやくぅぅ..."
+                                "\\N<Taro>Ah, this is... right, a dream... It must be a dream. I need\nto wake up quickly... from this nightmare, quickly..."
                             ]
                         },
                         {
@@ -15916,14 +15545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いつかいつかとこの悪夢が覚めるのを待っていたTaroであったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ついに出航の時間を迎え、一人寂しく船へ乗り込むのであった"
+                                "Taro had been waiting for this nightmare to end someday, but\nfinally, the time for departure arrives and he boards the\nship alone and in solitude."
                             ]
                         },
                         {
@@ -15940,28 +15562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -15978,21 +15579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -16009,14 +15596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -16033,7 +15613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -16106,7 +15686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>僕と……け、け……"
+                                "\\N<Taro>With me... um, um..."
                             ]
                         },
                         {
@@ -16123,7 +15703,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<？？？>\\{おっ！　いたいた～！\\}"
+                                "\\N<???>Oh! There you are~!"
                             ]
                         },
                         {
@@ -16396,7 +15976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あ、親分……♪"
+                                "\\N<Luna>Ah, Boss...♪"
                             ]
                         },
                         {
@@ -16413,7 +15993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ショウタ君……だっけ？　なんで君が、ここに..."
+                                "\\N<Taro>Syouta-kun... right? Why are you here..."
                             ]
                         },
                         {
@@ -16446,14 +16026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>ったく、こんなところにいるとは思わなかったぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナ！　俺の正式な弟子になったんだから、親分の俺を困らせるなよ～"
+                                "\\N<Syouta>Seriously, Luna! I didn't expect to find you in a place like\nthis! Since you've become my official apprentice, don't\ncause trouble for your boss, me~"
                             ]
                         },
                         {
@@ -16486,7 +16059,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>はぁ～い、ごめんなさい♪"
+                                "\\N<Luna>Yes~ I'm sorry♪"
                             ]
                         },
                         {
@@ -16503,7 +16076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ル、ルナちゃん……！？"
+                                "\\N<Taro>Lu, Luna-chan...!?"
                             ]
                         },
                         {
@@ -16536,7 +16109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ショウタ>罰として今夜はお仕置きだからな～～覚悟しておけよ♪"
+                                "\\N<Syouta>As punishment, you're in for a spanking tonight~ Be\nprepared♪"
                             ]
                         },
                         {
@@ -16553,7 +16126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>はい、親分……❤"
+                                "\\N<Luna>Yes, Boss...❤"
                             ]
                         },
                         {
@@ -16817,7 +16390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ごめんね、Taro君……それで、何を言いかけたの？"
+                                "\\N<Luna>Sorry, Taro-kun... So, what were you about to say?"
                             ]
                         },
                         {
@@ -16834,7 +16407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>あ……いや、その...け、結婚してほしい、って…伝えたかったんだけど..."
+                                "\\N<Taro>Ah... no, it's just... um, I wanted to say... that I want\nyou to marry me..."
                             ]
                         },
                         {
@@ -16867,14 +16440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そ、っか……ごめんね、私、あなたとは\"結婚できない\"の…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今の私には、ショウタ君がいるから❤"
+                                "\\N<Luna>Is, that so... I'm sorry, I can't \"marry\" you... I have\nSyouta-kun now❤"
                             ]
                         },
                         {
@@ -16891,7 +16457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>………えっ！？　ぼ、僕は……えっ、えっと……"
+                                "\\N<Taro>...Eh!? I, I am... uh, um..."
                             ]
                         },
                         {
@@ -16924,14 +16490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……ごめんね、もう行かないと♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんまり待たせたら、夜のお仕置きが大変なことになっちゃうから…"
+                                "\\N<Luna>...Sorry, I have to go now♪ If I make him wait too long, the\npunishment tonight will be terrible..."
                             ]
                         },
                         {
@@ -16948,7 +16507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ま、待ってよ！　なんで僕より、あんな子と……"
+                                "\\N<Taro>Wa, wait! Why him over me, that kid..."
                             ]
                         },
                         {
@@ -16990,7 +16549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>親分のこと、見た目だけでバカにしないで…"
+                                "\\N<Luna>Don't underestimate the Boss just by his looks..."
                             ]
                         },
                         {
@@ -17016,7 +16575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>えっ……"
+                                "\\N<Taro>Eh..."
                             ]
                         },
                         {
@@ -17033,14 +16592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>私ね、親分と一緒にダンジョンに行っているうちに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "親分ってすごいなって思ったの♪"
+                                "\\N<Luna>You know, as I went to the dungeon with the Boss, I realized\nhow amazing he is♪"
                             ]
                         },
                         {
@@ -17057,14 +16609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>身体は小さいし年齢も下だけど……周りの冒険者たちにからかわれても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死で努力してる姿に心も、身体も……ショウタ君の弟子になろうって思えたの"
+                                "\\N<Luna>He may be small and younger... but seeing him work so hard\ndespite being teased by the other adventurers made me give\nmy heart and body... and decide to become Syouta-kun's\napprentice"
                             ]
                         },
                         {
@@ -17081,7 +16626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>ル、ルナちゃ……嘘、でしょ……冗談だよね？"
+                                "\\N<Taro>Lu, Luna-chan... It's a lie, right... You're joking, aren't\nyou?"
                             ]
                         },
                         {
@@ -17114,14 +16659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>今の私は、Taro君より親分と……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ショウタ君と、一緒にいたいの...だから……\"さようなら\"だね..."
+                                "\\N<Luna>Right now, I want to be with the Boss... with Syouta-kun,\nmore than with you, Taro-kun... So it's \"goodbye\"..."
                             ]
                         },
                         {
@@ -17138,7 +16676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……ちょ、ちょっとまっ"
+                                "\\N<Taro>...Ju, just a sec"
                             ]
                         },
                         {
@@ -17347,7 +16885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>…………そんなぁ"
+                                "\\N<Taro>...No way"
                             ]
                         },
                         {
@@ -17380,14 +16918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>……ルナ、ちゃん……僕の……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "う、うぅぅ……ルナちゃんが、どうしてこんな展開に…うぐぅぅ..."
+                                "\\N<Taro>...Luna, chan... My... ugh, ughh... Why did it turn out like\nthis with Luna-chan... ughh..."
                             ]
                         },
                         {
@@ -17447,14 +16978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それからしばらくの間、ルナが戻ってくるのではないかと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "微かな希望を抱いていたTaroであったが……"
+                                "And for a while after that, Taro held onto the faint hope\nthat Luna might return..."
                             ]
                         },
                         {
@@ -17471,7 +16995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その希望も虚しく、出航の時間を迎え、Taroは一人寂しく船へ乗り込むのであった"
+                                "But that hope was in vain, and as the time of departure\narrived, Taro boarded the ship alone and in solitude"
                             ]
                         },
                         {
@@ -17488,28 +17012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -17526,21 +17029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -17557,14 +17046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -17581,7 +17063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {

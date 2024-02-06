@@ -18600,14 +18600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<田舎娘>ふぅぅ～やっと着きました♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここが目的の薬草が生息しているエリアです"
+                                "\\N<Country Girl>Phew~ we've finally arrived♪ This is the area where the\nmedicinal herbs we're looking for grow."
                             ]
                         },
                         {
@@ -18624,14 +18617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>森の奥まで来ましたね……ちらほらモンスターは徘徊していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見る限り弱い敵なので、普通に警戒しながら探索すれば問題なさそうですね"
+                                "\\N<Taro>We've made it deep into the forest... There are monsters\nwandering around here and there, but they seem weak, so as\nlong as we stay alert while exploring, we should be fine."
                             ]
                         },
                         {
@@ -18664,14 +18650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<田舎娘>そうなんですか、安心しました♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでは薬草は\"\\C[2]朽ち木\\C[0]\"によく生えてるので、とりあえず樹木を探しましょう♪"
+                                "\\N<Country Girl>Is that so? I'm relieved♪ In that case, the herbs often grow\naround \"\\C[2]rotten trees\\C[0]\", so let's start by looking\nfor trees♪"
                             ]
                         },
                         {
@@ -18688,7 +18667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Taro>わかりました、田舎娘さんはモンスターを気にせず、薬草探しに専念してください！"
+                                "\\N<Taro>Understood, Country Girl, don't worry about the monsters and\njust focus on searching for the herbs!"
                             ]
                         },
                         {
@@ -18824,7 +18803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "田舎娘の依頼を一旦中止して、村へ戻りますか？"
+                                "Would you like to temporarily halt the country girl's\nrequest and return to the village?"
                             ]
                         },
                         {
@@ -18832,8 +18811,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -18868,14 +18847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "依頼の途中ではあったが、今回は切り上げ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次回再挑戦することにし、二人は村へ戻ったのであった"
+                                "Although they were in the middle of the request, they\ndecided to cut it short and try again next time, and so the\ntwo returned to the village."
                             ]
                         },
                         {
@@ -18892,28 +18864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {

@@ -2792,7 +2792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>うぅ～……このエリアは本当に寒いですね……"
+                                "\\N<Luna>Ugh... This area is really cold..."
                             ]
                         },
                         {
@@ -2809,14 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>全くだね、休憩小屋だってのにこんなに寒かったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の戦闘に支障が出ないか心配だな～…"
+                                "\\N<Dalton>Totally, even though this is a rest cabin, if it's this\ncold, I'm worried it might affect our next battle..."
                             ]
                         },
                         {
@@ -2833,7 +2826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>もう少し厚着してきたらよかったです......は、はっくしゅ！"
+                                "\\N<Luna>I should have worn more layers... Ah, achoo!"
                             ]
                         },
                         {
@@ -2875,14 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>おっと、大丈夫かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり身体を冷やしちゃいけないから、これを飲まないかい？"
+                                "\\N<Dalton>Oops, you okay? You shouldn't let your body get too cold,\nhow about you drink this?"
                             ]
                         },
                         {
@@ -2940,7 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>………飲む？"
+                                "\\N<Luna>...Drink?"
                             ]
                         },
                         {
@@ -2966,14 +2952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>じゃじゃーん！お酒さ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲めば身体が温まるから、寒さをしのぐには丁度いいよ！"
+                                "\\N<Dalton>Ta-da! Alcohol! Drinking it will warm you up, so it's\nperfect for fighting off the cold!"
                             ]
                         },
                         {
@@ -3006,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>お、お酒ですか！？確かにそうかもしれませんけど……でも..."
+                                "\\N<Luna>A-Alcohol!? It might indeed be so... but..."
                             ]
                         },
                         {
@@ -3039,14 +3018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ドルトン>身体が冷えきって戦えなくなるよりは、マシだと思わないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんは、飲んだ方がいいと思うよ？"
+                                "\\N<Dalton>Better to drink and stay warm than to get too cold to fight,\ndon't you think? I say it's better to drink up."
                             ]
                         },
                         {
@@ -3072,7 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドルトンが勧めてきている\"お酒\"を飲みますか？(ルナはお酒に弱いです)"
+                                "Will you drink the \"alcohol\" Dalton is offering? (Luna is\nweak to alcohol)"
                             ]
                         },
                         {
@@ -3080,8 +3052,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -3127,7 +3099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>じゃあ、少しだけ……"
+                                "\\N<Luna>Then, just a little bit..."
                             ]
                         },
                         {
@@ -3160,14 +3132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>うんうん、それがいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、身体を温めるためなんだから、遠慮せず飲みなさい"
+                                "\\N<Dalton>Yeah, that's the spirit! Don't hold back, it's to keep warm\nafter all."
                             ]
                         },
                         {
@@ -3193,14 +3158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ありがとうございます、頂きますね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……ぷはぁ、これけっこう……強いお酒、ですね？"
+                                "\\N<Luna>Thank you, I'll take you up on that... Phew, this is\nquite... strong alcohol, isn't it?"
                             ]
                         },
                         {
@@ -3233,14 +3191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>お、よくわかったね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強いから、もう身体も温まってきただろう？"
+                                "\\N<Dalton>Oh, you can tell? Since it's strong, your body should be\nwarming up now, right?"
                             ]
                         },
                         {
@@ -3266,14 +3217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そう、ですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか、ポカポカして……ふわふわ……します……"
+                                "\\N<Luna>Yes, it is... I feel all warm and... fluffy..."
                             ]
                         },
                         {
@@ -3290,14 +3234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>いいねえ、そのまま酔いに身を任せて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ついでにおじさんのお願いも、聞いてくれるかな？"
+                                "\\N<Dalton>That's good, just let yourself get carried away by the\nbuzz... And while you're at it, could you listen to a little\nrequest of mine?"
                             ]
                         },
                         {
@@ -3323,7 +3260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>おねがい、って……なんれすかあ……？"
+                                "\\N<Luna>A request... what is it...?"
                             ]
                         },
                         {
@@ -3349,14 +3286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>なあに、簡単なお願いさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほんの少しだけ……ルナちゃんの\\C[27]おっぱい\\C[0]を触らせてくれないかい？"
+                                "\\N<Dalton>Oh, just a simple favor... Just for a little bit... could\nyou let me touch your \\C[27]breasts\\C[0], Luna-chan?"
                             ]
                         },
                         {
@@ -3373,7 +3303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>えぇ～～おっぱい、ですか～～？ドルトンさんおっぱい好きなんですか～……？"
+                                "\\N<Luna>Eeh~~ Breasts~~? Do you like breasts that much, Dalton-\nsan~~...?"
                             ]
                         },
                         {
@@ -3390,14 +3320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>あぁ大好きさ～～♪でも誰のでもって訳じゃないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルナちゃんの\\C[27]おっぱい\\C[0]が好きなんだ、ルナちゃんのね♪だから頼むよ～！"
+                                "\\N<Dalton>Ahh, I love them~~♪ But not just anyone's! I love Luna-\nchan's \\C[27]breasts\\C[0], specifically yours♪ So please~~!"
                             ]
                         },
                         {
@@ -3414,14 +3337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そんなに頼まれたら断れないじゃないですか～～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特別ですよ～～～優しくお願いしますね～～～……"
+                                "\\N<Luna>If you ask me like that, I can't say no~~ It's special,\nokay~~~ Please be gentle~~~..."
                             ]
                         },
                         {
@@ -3452,7 +3368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "正常な判断ができないルナはドルトンの勢いにのせられ要求を受け入れてしまった"
+                                "Unable to make sound judgments, Luna gets swept up by\nDalton's momentum and accepts his request"
                             ]
                         },
                         {
@@ -3469,28 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3588,7 +3483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]おっぱい\\C[0]　+1"
+                                "\\C[27]Breast\\C[0]+1"
                             ]
                         },
                         {
@@ -3630,7 +3525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]パイズリ\\C[0]　+1"
+                                "\\C[27]Titjob\\C[0]+1"
                             ]
                         },
                         {
@@ -3672,7 +3567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]ぶっかけ\\C[0]　+1"
+                                "\\C[27]Cumshot\\C[0]+1"
                             ]
                         },
                         {
@@ -3726,7 +3621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]搾精量\\C[0]　+\\V[91]ml"
+                                "\\C[27]Semen volume\\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -3768,7 +3663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness\\C[0]+5"
                             ]
                         },
                         {
@@ -3825,7 +3720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想シーンが追加されました"
+                                "A reminiscence scene has been added"
                             ]
                         },
                         {
@@ -3959,7 +3854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドルトンへの印象が更新されました"
+                                "Dalton's impression has been updated"
                             ]
                         },
                         {
@@ -3990,7 +3885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -4237,7 +4132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -4292,14 +4187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ごめんなさい、私は大丈夫です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酔っぱらって戦えなくなっても、困りますから…"
+                                "\\N<Luna>I'm sorry, I'm fine. If I get drunk and can't fight, that\nwould be a problem..."
                             ]
                         },
                         {
@@ -4332,14 +4220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>そうかい？　まあ、それなら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし酔っぱらったルナちゃんも可愛いんだろうなあ、見てみたかったな"
+                                "\\N<Dalton>Is that so? Well then... But I bet drunk Luna-chan would be\ncute too, wish I could've seen that"
                             ]
                         },
                         {
@@ -4356,14 +4237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ふふ、ドルトンさんったら、またそんなこと言って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し休憩したら、出発しましょうか"
+                                "\\N<Luna>Hehe, Dalton-san, always saying such things... Let's take a\nshort break and then we can set off"
                             ]
                         },
                         {
@@ -4396,14 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ドルトン>ああ、そうしよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冷え対策にお酒が必要になったら、いつでも言ってくれよ？"
+                                "\\N<Dalton>Alright, let's do that. If you ever need alcohol for the\ncold, just let me know anytime."
                             ]
                         },
                         {
@@ -4425,28 +4292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -4470,14 +4316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　 　　何か予定が狂ったかのような顔をするドルトンであった"
+                                "Dalton had the look of someone whose plans had gone awry"
                             ]
                         },
                         {
@@ -5294,14 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>っべー！　マジ寒！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小屋ん中も寒いとかシャレになんねーって！"
+                                "\\N<Arashi>Damn, it's seriously cold! Even inside the cabin, this is no\njoke!"
                             ]
                         },
                         {
@@ -5334,14 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>はあっ……本当に、冷えますね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃあ、休憩するどころじゃないかも…"
+                                "\\N<Luna>*sigh*... It really is freezing. At this rate, we can't even\ntake a break..."
                             ]
                         },
                         {
@@ -5374,14 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>……あっ、やっべ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジでオレ天才かもしんねーこと思いついたわ♪"
+                                "\\N<Arashi>...Ah, whoa~♪ I might actually be a genius, just thought of\nsomething awesome♪"
                             ]
                         },
                         {
@@ -5414,7 +5232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>…………？んっ？なんですか？"
+                                "\\N<Luna>...? Hm? What is it?"
                             ]
                         },
                         {
@@ -5447,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>オレとルナちゃんの～……「肌をくっつけて温め合う」ってどう？"
+                                "\\N<Arashi>How about you and me, Luna-chan~... \"warming each other up\nwith our skin\"?"
                             ]
                         },
                         {
@@ -5480,7 +5298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>………………へっ！？"
+                                "\\N<Luna>...Huh!?"
                             ]
                         },
                         {
@@ -5497,14 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>このままだと身体が冷え切って、バトルなんて無理っしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだったら、今ここでしっかりお互いを温め合う方がよくね～？"
+                                "\\N<Arashi>If we stay like this, we'll be too frozen to battle, right?\nSo isn't it better to warm up properly right here and now?"
                             ]
                         },
                         {
@@ -5521,7 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そ、それは、確かにそうですけど…(肌と肌をくっつけてって、どうしよう...)"
+                                "\\N<Luna>Th-that's true, but...(Skin to skin contact, what should I\ndo...)"
                             ]
                         },
                         {
@@ -5554,7 +5365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<アラシ>無理にとは言わないぜ、ルナちゃんが決めて～"
+                                "\\N<Arashi>I won't force you, it's up to you to decide, Luna-chan~"
                             ]
                         },
                         {
@@ -5571,7 +5382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラシからの\"肌と肌を付けて温まる\"提案にのりますか？"
+                                "Will you accept Arashi's proposal to \"warm up with skin\ncontact\"?"
                             ]
                         },
                         {
@@ -5579,8 +5390,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[4]",
-                                    "いいえ\\B[2]"
+                                    "Yes\\B[4]",
+                                    "No\\B[2]"
                                 ],
                                 1,
                                 0,
@@ -5626,7 +5437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>うぅ～……仕方ないですよね...それじゃあ、少し身体を寄せて……"
+                                "\\N<Luna>Ugh... Can't be helped, right... Then let's get a little\ncloser..."
                             ]
                         },
                         {
@@ -5659,7 +5470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>…っし♪　じゃあ脱ぐわ"
+                                "\\N<Arashi>...Alright♪ Then I'll strip."
                             ]
                         },
                         {
@@ -5692,7 +5503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>え！？や、やだっ……なんで、脱いで……！？"
+                                "\\N<Luna>What!? No, no way... Why are you stripping...!?"
                             ]
                         },
                         {
@@ -5709,7 +5520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>は？　何言ってんの？肌で温め合うんだから、脱ぐに決まってんじゃん♪"
+                                "\\N<Arashi>Huh? What are you talking about? We're gonna warm up with\nour skin, so of course we gotta strip♪"
                             ]
                         },
                         {
@@ -5726,7 +5537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>えっ...いや、裸はさすがに恥ずかしいですよ！それに私、彼氏が……"
+                                "\\N<Luna>Eh... No, being naked is just too embarrassing! And besides,\nI have a boyfriend..."
                             ]
                         },
                         {
@@ -5743,7 +5554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>あー、平気平気～オレもう知ってっから、問題ないっしょ♪"
+                                "\\N<Arashi>Ah-, chill chill~ I already know about that, no problem♪"
                             ]
                         },
                         {
@@ -5760,7 +5571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>えっ……？"
+                                "\\N<Luna>Eh...?"
                             ]
                         },
                         {
@@ -5777,7 +5588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>ほら見てみ、これ♪"
+                                "\\N<Arashi>Look at this♪"
                             ]
                         },
                         {
@@ -5840,14 +5651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　森林エリアの小屋でイタズラされているルナの画像を本人に見せつけるアラシ"
+                                "Arashi shows Luna a picture of herself being teased in the\ncabin in the forest area"
                             ]
                         },
                         {
@@ -5880,7 +5684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>こ、れっ......いつの間に……！！"
+                                "\\N<Luna>Th-this... When did you...!!"
                             ]
                         },
                         {
@@ -5897,7 +5701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>なっ♪　言ったっしょ～オレはもう知ってるって～"
+                                "\\N<Arashi>See♪ Told you~ I already know about it~"
                             ]
                         },
                         {
@@ -5930,7 +5734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……ア、アラシさん…やっぱり私......"
+                                "\\N<Luna>...Arashi-san... I really shouldn't..."
                             ]
                         },
                         {
@@ -5963,14 +5767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>今はそんなことより、身体を温めてダンジョン攻略する方が先だって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、脱がないならオレが脱がしてやっから♪"
+                                "\\N<Arashi>Right now, warming up and getting ready for the dungeon is\nwhat's important. Look, if you won't strip, I'll help you\nwith that♪"
                             ]
                         },
                         {
@@ -6010,7 +5807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>あっ、だめっ……だめぇ～"
+                                "\\N<Luna>Ah, no... please don't~"
                             ]
                         },
                         {
@@ -6172,28 +5969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -6449,7 +6225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]キス\\C[0]　+1"
+                                "\\C[27]Kiss\\C[0]+1"
                             ]
                         },
                         {
@@ -6491,7 +6267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]手マン\\C[0]　+1"
+                                "\\C[27]Fingering\\C[0]+1"
                             ]
                         },
                         {
@@ -6533,7 +6309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Orgasm\\C[0]+1"
                             ]
                         },
                         {
@@ -6575,7 +6351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness\\C[0]+5"
                             ]
                         },
                         {
@@ -6688,7 +6464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラシへの印象が更新されました"
+                                "Impression of Arashi has been updated"
                             ]
                         },
                         {
@@ -6719,7 +6495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -6968,7 +6744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "1 new notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -7014,7 +6790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>いいえ、大丈夫です♪歩き回って、少しでも身体を冷やさないようにして…"
+                                "\\N<Luna>No, it's okay♪ I'll walk around to keep from cooling down\ntoo much..."
                             ]
                         },
                         {
@@ -7047,7 +6823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>(……チッ)"
+                                "\\N<Arashi>(...Tch)"
                             ]
                         },
                         {
@@ -7080,7 +6856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>……アラシさん？　どうかしました？"
+                                "\\N<Luna>...Arashi-san? Is something wrong?"
                             ]
                         },
                         {
@@ -7097,14 +6873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>んーん、な～んでもない♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだったら逆に休憩しないで、さっさとこの階層を抜けた方がいいかもな～"
+                                "\\N<Arashi>Nah-nah, nothing at all♪ In that case, maybe we should skip\nthe break and just hurry through this level instead~"
                             ]
                         },
                         {
@@ -7121,14 +6890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>それも一つの手ですね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ、もう少ししたら出発しちゃいましょうか"
+                                "\\N<Luna>That might be a good idea. Shall we get going soon then?"
                             ]
                         },
                         {
@@ -7161,7 +6923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<アラシ>……へいへい"
+                                "\\N<Arashi>...Yeah yeah"
                             ]
                         },
                         {
@@ -7183,28 +6945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -7228,14 +6969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　期待外れなルナの返事にアラシはつまらなそうな態度でその場を後にした"
+                                "Disappointed by Luna's unenthusiastic response, Arashi left\nthe place with a bored look"
                             ]
                         },
                         {
@@ -7709,7 +7443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはモンスターの侵入もなさそうだ、少し休憩していきますか？"
+                                "It doesn't seem like monsters will invade here, shall we\ntake a short break?"
                             ]
                         },
                         {
@@ -7717,8 +7451,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -8243,7 +7977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ハックシュン！　ハーーーックシュン！ウ～……寒いですネー"
+                                "\\N<Bob>Achoo! Ha---choo! Ugh... it's cold, isn't it?"
                             ]
                         },
                         {
@@ -8276,7 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>はあっ、はあ～～本当に寒くて……くしゅんっ！ボブさん、大丈夫ですか？"
+                                "\\N<Luna>*sigh* *sigh* It's really cold... Achoo! Bob-san, are you\nokay?"
                             ]
                         },
                         {
@@ -8309,14 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>ミーはこの筋肉がベリーホットなので大丈夫ですヨー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それよりユーの方が心配ですネー"
+                                "\\N<Bob>I'm fine because my muscles are very hot! But I'm more\nworried about you."
                             ]
                         },
                         {
@@ -8349,14 +8076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボブ>……どうでショウ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体を温めるために、ミーが\"全身マッサージ\"してあげまショウ～！"
+                                "\\N<Bob>...How about it, Shou? To warm up your body, maybe I should\ngive you a \"full-body massage\"~!"
                             ]
                         },
                         {
@@ -8389,14 +8109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>マ、マッサージ、ですか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(前はおっぱい揉まれちゃったしなぁ、どうしよう...)"
+                                "\\N<Luna>A massage, you say... (Last time he ended up massaging my\nbreasts, what should I do...)"
                             ]
                         },
                         {
@@ -8413,7 +8126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボブのマッサージを受けることにしますか？"
+                                "Will you accept Bob's massage?"
                             ]
                         },
                         {
@@ -8421,8 +8134,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい\\B[2]",
-                                    "いいえ\\B[4]"
+                                    "Yes\\B[2]",
+                                    "No\\B[4]"
                                 ],
                                 1,
                                 0,
@@ -8468,14 +8181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>そう、ですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボブさんの手も温かいなら、すぐに温まりそうですし、お願いします"
+                                "\\N<Luna>Well, if Bob-san's hands are warm, I might warm up quickly,\nso please do."
                             ]
                         },
                         {
@@ -8508,7 +8214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>オウケーイ♪ぜーんぶミーに任せておけば大丈夫ヨー♪"
+                                "\\N<Bob>Okay♪ Just leave everything to me and you'll be fine♪"
                             ]
                         },
                         {
@@ -8525,14 +8231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>それじゃあ、チョードイイ感じに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ベッドもありますノデ、そこで横になってくださいネー♪"
+                                "\\N<Bob>Then, there's a bed over there that feels just right, so\nplease lie down there♪"
                             ]
                         },
                         {
@@ -8549,7 +8248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>(前にマッサージで手つきがいやらしかったなんて……考えすぎ、だよね？)"
+                                "\\N<Luna>(Was I overthinking it when I thought his massage techniques\nwere lewd last time?)"
                             ]
                         },
                         {
@@ -8796,7 +8495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]クンニ\\C[0]　+1"
+                                "\\C[27]Cunnilingus\\C[0]+1"
                             ]
                         },
                         {
@@ -8838,7 +8537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]潮吹き絶頂\\C[0]　+1"
+                                "\\C[27]Squirting Climax\\C[0]+1"
                             ]
                         },
                         {
@@ -8880,7 +8579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]淫乱度\\C[0]　+5"
+                                "\\C[27]Lewdness\\C[0]+5"
                             ]
                         },
                         {
@@ -9000,7 +8699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボブへの印象が更新されました"
+                                "Your impression of Bob has been updated"
                             ]
                         },
                         {
@@ -9031,7 +8730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルナの心情が更新されました"
+                                "Luna's feelings have been updated"
                             ]
                         },
                         {
@@ -9240,7 +8939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1件の通知：SNSへ新規投稿がありました"
+                                "Notification: There is a new post on SNS"
                             ]
                         },
                         {
@@ -9295,7 +8994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>ううん、大丈夫です♪少しだけ休憩したら、先に進んじゃいましょうか"
+                                "\\N<Luna>No, I'm fine♪ After a little rest, shall we move on?"
                             ]
                         },
                         {
@@ -9328,7 +9027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>ホワ～イ？　それじゃあ風邪引いちゃいますヨー…"
+                                "\\N<Bob>Why? You might catch a cold..."
                             ]
                         },
                         {
@@ -9361,14 +9060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ルナ>大丈夫なのです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦っているうちに身体も温まるかもしれませんし、ね？心配しないでください"
+                                "\\N<Luna>It's okay! Maybe my body will warm up while we're fighting,\nright? Don't worry about me"
                             ]
                         },
                         {
@@ -9401,14 +9093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボブ>ンンーーー……そうですカ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わかりました、ユーがそういうならそうしまショー"
+                                "\\N<Bob>Hmm---... If you say so... Alright, if that's what you want,\nwe'll do that."
                             ]
                         },
                         {
@@ -9430,28 +9115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -9475,14 +9139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　ボブは前回の続きに前のめりだったが拒否されショックを受けたようだ..."
+                                "Bob seemed eager to continue from where they left off last\ntime but appears to be shocked by the rejection..."
                             ]
                         },
                         {

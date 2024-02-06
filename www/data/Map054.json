@@ -10191,7 +10191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>こ、ここは……すごい、生活道具が一式揃ってるじゃないか！？"
+                                "\\N<Taro>W-What is this place... Amazing, it's got a full set of\nliving supplies!"
                             ]
                         },
                         {
@@ -10208,14 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>どれもホコリ被ってるけど家具は揃ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも、ここの水は……飲めるくらい綺麗だよ♪"
+                                "\\N<Luna>Everything's covered in dust, but the furniture is all here,\nand the water... it's clean enough to drink♪"
                             ]
                         },
                         {
@@ -10232,7 +10225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>どうして海辺にひっそりと隠れ家的な住処が……"
+                                "\\N<Taro>Why is there such a secluded hideaway by the seaside..."
                             ]
                         },
                         {
@@ -10249,14 +10242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>きっと昔、私たちみたいな冒険者が拠点として作ったのかもね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は住んでる形跡もないみたいだし、折角だから使わせてもらおうよ♪"
+                                "\\N<Luna>It must have been made by adventurers like us in the past as\na base... It seems no one lives here now, so let's take\nadvantage of it♪"
                             ]
                         },
                         {
@@ -10344,14 +10330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>…そうだね、ここなら十分に休めそうだし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雨風もしのげるし、なんとか暮らしていけそうだ"
+                                "\\N<Taro>...Yeah, this place looks good enough to rest in... It'll\nprotect us from the rain and wind, and we might just be able\nto live here."
                             ]
                         },
                         {
@@ -10368,7 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>今は寝泊りできる場所が見つかっただけでも喜ぶべきか"
+                                "\\N<Taro>For now, we should be grateful just to have found a place to\nsleep."
                             ]
                         },
                         {
@@ -10410,14 +10389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そうそう、決まりだね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえずこれで生活面の心配はクリアね"
+                                "\\N<Luna>Exactly, it's settled then♪ At least for now, our worries\nabout living arrangements are cleared up."
                             ]
                         },
                         {
@@ -10434,14 +10406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>段取り悪いし、弱音吐くしで悪かったね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を取り直して、これから借金返済がんばろう！"
+                                "\\N<Taro>Sorry for being so disorganized and negative... Let's cheer\nup and work hard on paying off our debt from now on!"
                             ]
                         },
                         {
@@ -10474,7 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>お～～～♪"
+                                "\\N<Luna>Oh～～～♪"
                             ]
                         },
                         {
@@ -10515,21 +10480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　 こうしてルナたちは拠点も見つかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　これから本格的な借金返済生活が始まるのであった"
+                                " And so, Luna and the others found a base, marking the\nbeginning of their earnest efforts to repay their debts."
                             ]
                         },
                         {

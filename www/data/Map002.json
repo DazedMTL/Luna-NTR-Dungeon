@@ -5612,7 +5612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このエリアは他とは違う雰囲気を醸し出していた"
+                                "This area exuded an atmosphere different from the others."
                             ]
                         },
                         {
@@ -5638,14 +5638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "空は澄み渡り、風はやわらかく、花の香りが漂っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大きな樹木からは力強さと神秘的な力を感じた"
+                                "The sky was clear, the wind gentle, and the scent of flowers\nwafted from the large trees, which emanated strength and a\nmystical power."
                             ]
                         },
                         {
@@ -5662,7 +5655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルナはこの空間に圧倒されていると……どこからか\"声\"が聞こえてきた"
+                                "Luna was overwhelmed by this space when... a \"voice\" could\nbe heard from somewhere."
                             ]
                         },
                         {
@@ -5691,14 +5684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　聞こえますか……今あなたの心に直接語り掛けております"
+                                "Can you hear me... I am speaking directly to your heart\nright now."
                             ]
                         },
                         {
@@ -5736,21 +5722,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　私は目の前の大木..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　世界樹の精霊…とでも名乗った方がわかりやすいかもしれませんね"
+                                "I am the great tree before you... the spirit of the World\nTree... that might be an easier way for you to understand."
                             ]
                         },
                         {
@@ -5767,14 +5739,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　初めて訪れるあなたにこの場所について説明しましょう"
+                                "Let me explain this place to you, as it's your first visit."
                             ]
                         },
                         {
@@ -5791,14 +5756,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルナはこれまで経験したことのない現象に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "茫然としている中、世界樹の精霊とやらの話は続いた"
+                                "While Luna was stunned by a phenomenon she had never\nexperienced before, the so-called spirit of the World Tree\ncontinued its tale."
                             ]
                         },
                         {
@@ -5815,21 +5773,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　ここでは\"あなた\"とその周りの\"男性\"たちの関係に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　 変化をもたらす働きをすることができる場所です"
+                                "This is a place where you can bring about changes in your\nrelationships with the \"men\" around you."
                             ]
                         },
                         {
@@ -5855,14 +5799,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "耳を疑うようなことを言われ、信じ難かったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すでに不思議な現象を目の当りにしているルナは信じざるを得なかった"
+                                "Hearing such unbelievable words, Luna found it hard to\nbelieve, but having already witnessed strange phenomena, she\nhad no choice but to believe."
                             ]
                         },
                         {
@@ -5879,21 +5816,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　 あなたがこれまで築いてきた男女の関係"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　たとえそれが、自分が望むと望まざるとに関わらず…"
+                                "The relationships you have built up until now, whether you\ndesire them or not..."
                             ]
                         },
                         {
@@ -5910,21 +5833,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　行き過ぎた関係や失いかけた純粋な愛を幾ばくか\"調整\"し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　あなたの理想の未来を歩む手助けをして差し上げましょう"
+                                "I shall \"adjust\" any relationships that have gone too far or\npure love that has begun to fade, to help you walk towards\nyour ideal future."
                             ]
                         },
                         {
@@ -5941,14 +5850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　思い当たる縁のある関係があれば選んでください"
+                                "If there are any relationships that come to mind, please\nchoose them."
                             ]
                         },
                         {
@@ -5965,7 +5867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルナと関わる男たちとの親密度を増減させることができるようだ"
+                                "It seems that Luna can increase or decrease her intimacy\nwith the men she is involved with."
                             ]
                         },
                         {
@@ -5982,21 +5884,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　数値を調整しますとエンディングのルートに影響がでます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　ご注意の上設定してください"
+                                "Please be aware that adjusting these values will affect the\nending route you take."
                             ]
                         },
                         {
@@ -6059,21 +5947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　　また会いましたね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　あなたの男女関係を調整する手助けをして差し上げましょう"
+                                "We meet again. Let me help you adjust your romantic\nrelationships."
                             ]
                         },
                         {
@@ -6100,7 +5974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "関係を調整したいキャラクターを選択してください"
+                                "Please select the character whose relationship you wish to\nadjust."
                             ]
                         },
                         {
@@ -6109,11 +5983,11 @@
                             "parameters": [
                                 [
                                     "Taro\\B[2]",
-                                    "ドルトン",
-                                    "ボブ",
-                                    "アラシ",
-                                    "ショウタ",
-                                    "やめる\\B[4]"
+                                    "Dalton",
+                                    "Bob",
+                                    "Arashi",
+                                    "Syouta",
+                                    "Cancel\\B[4]"
                                 ],
                                 5,
                                 -1,
@@ -6143,7 +6017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "親密度(好きな人＆Ｈしたい人)を選択してください"
+                                "Please select the intimacy level (someone you like & want to\nhave sex with)."
                             ]
                         },
                         {
@@ -6151,9 +6025,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "上げる(up)\\B[2]",
-                                    "下げる(down)",
-                                    "やめる\\B[4]"
+                                    "Increase (up)\\B[2]",
+                                    "Decrease (down)",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 -1,
@@ -6237,7 +6111,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Taroへの親密度が少し上がったようだ"
+                                "It seems that Taro's intimacy level has increased slightly."
                             ]
                         },
                         {
@@ -6321,7 +6195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Taroへの親密度が少し下がったようだ"
+                                "It seems that Taro's intimacy level has decreased slightly."
                             ]
                         },
                         {
@@ -6374,7 +6248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "親密度(好きな人＆Ｈしたい人)を選択してください"
+                                "Please select the intimacy level (someone you like & want to\nhave sex with)."
                             ]
                         },
                         {
@@ -6382,9 +6256,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "上げる(up)\\B[2]",
-                                    "下げる(down)",
-                                    "やめる\\B[4]"
+                                    "Increase (up)\\B[2]",
+                                    "Decrease (down)",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 -1,
@@ -6457,7 +6331,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ドルトンへの親密度が少し上がったようだ"
+                                "It seems that Dalton's intimacy level has increased\nslightly."
                             ]
                         },
                         {
@@ -6530,7 +6404,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ドルトンへの親密度が少し下がったようだ"
+                                "It seems that Dalton's intimacy level has decreased\nslightly."
                             ]
                         },
                         {
@@ -6583,7 +6457,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "親密度(好きな人＆Ｈしたい人)を選択してください"
+                                "Please select the intimacy level (someone you like & want to\nhave sex with)."
                             ]
                         },
                         {
@@ -6591,9 +6465,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "上げる(up)\\B[2]",
-                                    "下げる(down)",
-                                    "やめる\\B[4]"
+                                    "Increase (up)\\B[2]",
+                                    "Decrease (down)",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 -1,
@@ -6666,7 +6540,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ボブへの親密度が少し上がったようだ"
+                                "It seems that Bob's intimacy level has increased slightly."
                             ]
                         },
                         {
@@ -6739,7 +6613,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ボブへの親密度が少し下がったようだ"
+                                "It seems that Bob's intimacy level has decreased slightly."
                             ]
                         },
                         {
@@ -6792,7 +6666,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "親密度(好きな人＆Ｈしたい人)を選択してください"
+                                "Please select the intimacy level (someone you like & want to\nhave sex with)."
                             ]
                         },
                         {
@@ -6800,9 +6674,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "上げる(up)\\B[2]",
-                                    "下げる(down)",
-                                    "やめる\\B[4]"
+                                    "Raise (up)\\B[2]",
+                                    "Lower (down)",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 -1,
@@ -6875,7 +6749,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アラシへの親密度が少し上がったようだ"
+                                "It seems that Arashi's intimacy level has increased\nslightly."
                             ]
                         },
                         {
@@ -6948,7 +6822,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アラシへの親密度が少し下がったようだ"
+                                "It seems that Arashi's intimacy level has decreased\nslightly."
                             ]
                         },
                         {
@@ -7001,7 +6875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "親密度(好きな人＆Ｈしたい人)を選択してください"
+                                "Please select the intimacy level (someone you like & want to\nhave sex with)."
                             ]
                         },
                         {
@@ -7009,9 +6883,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "上げる(up)\\B[2]",
-                                    "下げる(down)",
-                                    "やめる\\B[4]"
+                                    "Increase (up)\\B[2]",
+                                    "Decrease (down)",
+                                    "Cancel\\B[4]"
                                 ],
                                 2,
                                 -1,
@@ -7084,7 +6958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ショウタへの親密度が少し上がったようだ"
+                                "It seems that Syouta's intimacy level has increased\nslightly."
                             ]
                         },
                         {
@@ -7157,7 +7031,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ショウタへの親密度が少し下がったようだ"
+                                "It seems that Syouta's intimacy level has decreased\nslightly."
                             ]
                         },
                         {
@@ -7220,14 +7094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　私はあなたが理想の人生を歩むことを願っております..."
+                                "I hope for you to walk the ideal path in life..."
                             ]
                         },
                         {
@@ -7253,7 +7120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言い残すと精霊の声を聞こえなくなった"
+                                "With those parting words, the spirit's voice was no longer\nheard."
                             ]
                         },
                         {
@@ -7306,7 +7173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に何も起きることはなかった…"
+                                "Nothing in particular happened..."
                             ]
                         },
                         {

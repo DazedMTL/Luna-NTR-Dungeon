@@ -3324,14 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　ここは\"Taroの自宅\""
+                                "This is \"Taro's Home.\""
                             ]
                         },
                         {
@@ -3348,21 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　今日は恋人である\"\\C[27]ルナ\\C[0]\"を家に呼び"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　男としての正念場\"プロポーズ\"を計画していた"
+                                "Today, he had planned to propose to his girlfriend,\n\"\\C[27]Luna\\C[0],\" a true test of his manhood, at his house."
                             ]
                         },
                         {
@@ -3379,21 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　しかし、もし失敗したら別れ話になるのではという恐怖が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　脳裏でループするTaroであった"
+                                "However, Taro was haunted by the fear that if he failed, it\nmight lead to a breakup."
                             ]
                         },
                         {
@@ -3419,14 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>はあっ……緊張する……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうすぐ約束の時間だ……"
+                                "\\N<Taro>Sigh... I'm so nervous... The time we agreed on is almost\nhere..."
                             ]
                         },
                         {
@@ -3443,14 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>今日のためにしっかり用意してきたし、きっと大丈夫……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはルナちゃんに……"
+                                "\\N<Taro>I've prepared everything for today, it should be fine... now\nit's all up to Luna-chan..."
                             ]
                         },
                         {
@@ -3526,7 +3477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>き、来た……！"
+                                "\\N<Taro>Sh-she's here...!"
                             ]
                         },
                         {
@@ -3728,7 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>おまたせ♪ごめんね、待たせちゃって……"
+                                "\\N<Luna>Sorry to keep you waiting♪ Sorry, did I make you wait\nlong...?"
                             ]
                         },
                         {
@@ -3745,14 +3696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>う、ううん、大丈夫"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちこそわざわざ来てもらってごめん"
+                                "\\N<Taro>N-no, it's okay, I'm sorry for making you come all this way."
                             ]
                         },
                         {
@@ -3778,7 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ここじゃなんだし、とりあえず中へどうぞ…"
+                                "\\N<Taro>It's not right to talk here, please come inside..."
                             ]
                         },
                         {
@@ -3811,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>う、うん……？？(あれ、いつもと違って妙に緊張してる？)"
+                                "\\N<Luna>O-okay...?? (Huh, he seems unusually nervous?)"
                             ]
                         },
                         {
@@ -3909,7 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>それで……大事な話って、なに？"
+                                "\\N<Luna>So... what's this important thing you wanted to talk about?"
                             ]
                         },
                         {
@@ -3935,7 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>僕たち……付き合って、もうけっこう長いよね"
+                                "\\N<Taro>We've been together for quite a while now, haven't we?"
                             ]
                         },
                         {
@@ -3968,14 +3912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>え？あぁ～～うん、そうだね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて出会ってから……どのくらい経ったんだろう？"
+                                "\\N<Luna>Eh? Ahh~ Yeah, that's true. How long has it been since we\nfirst met?"
                             ]
                         },
                         {
@@ -4017,14 +3954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ふふっ、あの時はびっくりしたなあ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか一目惚れされるだなんて思ってなかったもの"
+                                "\\N<Luna>Hehe, I was so surprised back then. I never thought I'd be\nlove-struck at first sight."
                             ]
                         },
                         {
@@ -4041,14 +3971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>それだけルナちゃんが魅力的だったから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は告白してすぐにＯＫもらえたことのほうが、驚きだった"
+                                "\\N<Taro>That's because Luna-chan was so charming... I was more\nsurprised that you said yes right after I confessed."
                             ]
                         },
                         {
@@ -4081,14 +4004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>だって、私もTaro君のこと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一生懸命で、素敵な人だなって思ったから……"
+                                "\\N<Luna>Because I thought Taro-kun was such a hardworking and\nwonderful person..."
                             ]
                         },
                         {
@@ -4105,7 +4021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん……"
+                                "\\N<Taro>Luna-chan..."
                             ]
                         },
                         {
@@ -4122,14 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>やっぱり、今までも、これからも僕は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナちゃんが好きって気持ちは変わらないと思うんだ"
+                                "\\N<Taro>I guess, even now and in the future... my feelings of loving\nLuna-chan won't change."
                             ]
                         },
                         {
@@ -4162,7 +4071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>急にどうしたの？　…は、恥ずかしいよ"
+                                "\\N<Luna>Why so sudden?... Ah, it's embarrassing."
                             ]
                         },
                         {
@@ -4179,7 +4088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>実は、今日家に呼んだのは、伝えたいことがあって……"
+                                "\\N<Taro>Actually, the reason I invited you over today is because\nthere's something I want to tell you..."
                             ]
                         },
                         {
@@ -4196,14 +4105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>僕はこれからもルナちゃんと一緒に居て、一生をかけて君を守りたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、その……えっと……ぼ、僕と……"
+                                "\\N<Taro>I want to be with Luna-chan forever and protect you for the\nrest of my life, so, um... er... wi-will you..."
                             ]
                         },
                         {
@@ -4257,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>……は、はい"
+                                "\\N<Luna>...Yes?"
                             ]
                         },
                         {
@@ -4274,7 +4176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>僕と……け、けけっ……けっこ"
+                                "\\N<Taro>Will you... ma-ma-ma... marry"
                             ]
                         },
                         {
@@ -4298,14 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　決死の想いでプロポーズしようとしたその時"
+                                "Just as he mustered all his courage to propose"
                             ]
                         },
                         {
@@ -4490,7 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>おーいTaro！いるんだろー？　邪魔するぜ～♪"
+                                "\\N<???>Hey Taro! You're there, right? I'm coming in~♪"
                             ]
                         },
                         {
@@ -4507,7 +4402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>な、なんだ！？"
+                                "\\N<Taro>Wh-what the!?"
                             ]
                         },
                         {
@@ -5618,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>えっ？！　だ、誰だ？！"
+                                "\\N<Taro>Huh?! Wh-who's there?!"
                             ]
                         },
                         {
@@ -5635,14 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>おうおう、良い家に住んでんじゃねえか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これならすぐに、\\C[6]金\\C[0]も返してくれるよなあ？"
+                                "\\N<???>Oh man, nice place you got here. With a house like this, you\ncan surely pay back the \\C[6]money\\C[0], right?"
                             ]
                         },
                         {
@@ -5741,14 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ま、待ってくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたたち一体誰なんだ？　それに金って……"
+                                "\\N<Taro>W-wait a minute! Who the hell are you guys? And what money\nare you talking about..."
                             ]
                         },
                         {
@@ -5765,14 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>あぁん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前よお、自分が借りた金のこと忘れたのか？"
+                                "\\N<Debt Collector>Huh? You, man. Have you forgotten about the money you\nborrowed?"
                             ]
                         },
                         {
@@ -5789,14 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>高レベルクエストを受けるための準備に必要なんだ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とか言って\\C[31]サーギ商会\\C[0]で金を借りていったよなあ？"
+                                "\\N<Debt Collector>You borrowed money from \\C[31]Scam Company\\C[0] saying it\nwas necessary for preparing to take on a high-level quest,\ndidn't ya?"
                             ]
                         },
                         {
@@ -5850,14 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そ、その金は全部返済し終わっているはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クエストの報酬金で……"
+                                "\\N<Taro>Th-that money should have been fully repaid already! With\nthe quest rewards..."
                             ]
                         },
                         {
@@ -5874,14 +5734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>バ～～～カ！\\C[6]元金\\C[0]はな♪返済には\\C[2]利息\\C[0]ってもんが残ってんだよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利息の\"\\C[17]1000万ゴールド\\C[0]\"がよ！"
+                                "\\N<Debt Collector>Idiot! That was just the \\C[6]principal\\C[0]. You still got\n\\C[2]interest\\C[0] to pay off. The interest of \"\\C[17]10\nmillion gold\\C[0]\" that is!"
                             ]
                         },
                         {
@@ -5944,7 +5797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>\\{\\C[17]1……1000万ゴールド\\C[0]？！\\}"
+                                "\\C[17]\\N<Luna>1...10 million gold\\C[0]?!"
                             ]
                         },
                         {
@@ -5961,7 +5814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そんな？！　なんて法外な利息なんだ？！"
+                                "\\N<Taro>What?! What kind of outrageous interest is that?!"
                             ]
                         },
                         {
@@ -5994,14 +5847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>借用書にはちゃ～～～んと書いてあったぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでなかったのか？　ほら、ここの下に\"ちい～～～さく\"書いてあんだろ？"
+                                "\\N<Debt Collector>It was clearly written on the promissory note. Didn't you\nread it? Look here, it's written \"very~~~ small\" at the\nbottom, see?"
                             ]
                         },
                         {
@@ -6036,14 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そ、そんな……口頭では言われなかったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか米粒サイズで書いてあるなんて……"
+                                "\\N<Taro>Th-that's... I wasn't told verbally, and I never imagined it\nwould be written in such tiny letters..."
                             ]
                         },
                         {
@@ -6060,14 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>こ、こんなの卑怯だ..."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざとわかりづらくしておいて、払えって言われても……"
+                                "\\N<Taro>Th-this is underhanded... making it hard to notice on\npurpose and then demanding payment..."
                             ]
                         },
                         {
@@ -6160,7 +5992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>\\{いつまでもウダウダ言ってんじゃねえぞガキが！\\}"
+                                "\\N<Debt Collector>Stop your whining already, kid!"
                             ]
                         },
                         {
@@ -6195,14 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>契約書にサインしたのはTaroだろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰に向かって口きいてんだ！？"
+                                "\\N<Debt Collector>You're the one who signed the contract, Taro! Who do you\nthink you're talking to?!"
                             ]
                         },
                         {
@@ -6219,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>す……すいませんっ……"
+                                "\\N<Taro>I-I'm sorry..."
                             ]
                         },
                         {
@@ -6236,14 +6061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>自分の立場わかってんのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約も確認できないやつが今更何を言っても無駄なんだよ"
+                                "\\N<Debt Collector>Do you even understand your position? It's useless to say\nanything now if you can't even check a contract properly."
                             ]
                         },
                         {
@@ -6260,14 +6078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>別にいいんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "断るなら丁度イイ女がいるし……こいつを連れて行くだけだ♪"
+                                "\\N<Debt Collector>It's fine by me, though. If you refuse, I've got a nice girl\nhere... I'll just take her with me♪"
                             ]
                         },
                         {
@@ -6300,7 +6111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>なっ……"
+                                "\\N<Taro>Wha..."
                             ]
                         },
                         {
@@ -6478,14 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>おいおい❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Taroの女、爆乳で尻もデケーじゃねえか♪"
+                                "\\N<Debt Collector>Oh my❤ Taro's girl, she's got huge tits and a big ass♪"
                             ]
                         },
                         {
@@ -6502,14 +6306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>コイツを風俗にいれりゃあ、借金も回収できそうだな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいお前ら、この女連れていけ"
+                                "\\N<Debt Collector>If I put her in a brothel, I could recover the debt♪ Hey\nguys, take this girl away."
                             ]
                         },
                         {
@@ -6551,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>い、いやぁ！"
+                                "\\N<Luna>N-no!"
                             ]
                         },
                         {
@@ -6644,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>待ってくれ！　彼女は関係ないだろ！"
+                                "\\N<Taro>Wait! She has nothing to do with this!"
                             ]
                         },
                         {
@@ -6661,21 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　法外過ぎる利息の支払いを拒否するつもりだったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　彼女を人質にされるとTaroは要求を飲まざるを得なくなった"
+                                "The intention was to refuse the payment of the exorbitant\ninterest, but when she was taken hostage, Taro had no choice\nbut to accept the demands."
                             ]
                         },
                         {
@@ -6708,14 +6491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>わかった…その利息払うから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからどうか、彼女だけは連れて行かないでくれ…"
+                                "\\N<Taro>Alright... I'll pay the interest... Just please, don't take\nher away..."
                             ]
                         },
                         {
@@ -6812,7 +6588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>ほーん、言ったな？　男に二言はねえぞ"
+                                "\\N<Debt Collector>Huh, you said it? A man doesn't go back on his word."
                             ]
                         },
                         {
@@ -6829,14 +6605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>金さえ返してもらえりゃあ方法はなんだっていいが♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけの大金を用意する方法なんざ、思いつかねえだろ？"
+                                "\\N<Debt Collector>As long as I get my money back, I don't care how. But you\nprobably can't think of a way to prepare such a large sum of\nmoney, can you?"
                             ]
                         },
                         {
@@ -6869,7 +6638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……どうすれば、いいですか"
+                                "\\N<Taro>...What should I do?"
                             ]
                         },
                         {
@@ -6886,14 +6655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>荒稼ぎできる\\C[3]島\\C[0]を紹介してやる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住める環境もあるから、そこで稼いで送金しろ"
+                                "\\N<Debt Collector>I'll introduce you to an island where you can make a\nkilling. There's a place to live, so earn there and send the\nmoney."
                             ]
                         },
                         {
@@ -6910,14 +6672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>女のためなら命張ってモンスター狩りまくって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1000万ゴールド用意するのなんか、簡単だよなあ？"
+                                "\\N<Debt Collector>For the sake of a woman, you'd risk your life hunting\nmonsters to prepare 10 million gold, wouldn't you? Easy,\nright?"
                             ]
                         },
                         {
@@ -6934,14 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>やらねえなら女は連れて行くだけだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうする？"
+                                "\\N<Debt Collector>If you don't do it, I'll just take the girl... What will you\ndo?"
                             ]
                         },
                         {
@@ -6983,14 +6731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>こんなこと聞かなくてもいいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと危険なクエストばっかりだろうから……"
+                                "\\N<Luna>You don't have to ask! It's surely going to be dangerous\nquests..."
                             ]
                         },
                         {
@@ -7016,7 +6757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>\\}……ます\\{"
+                                "\\N<Taro>...I will."
                             ]
                         },
                         {
@@ -7042,7 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>あっ？声がちいせえなあ？"
+                                "\\N<Debt Collector>Huh? Speak up, can't hear you."
                             ]
                         },
                         {
@@ -7059,7 +6800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そ、その島に行きます！！"
+                                "\\N<Taro>I-I'll go to that island!!"
                             ]
                         },
                         {
@@ -7101,7 +6842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>………Taro君..."
+                                "\\N<Luna>...Taro-kun..."
                             ]
                         },
                         {
@@ -7143,7 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>よ～し♪……聞き分けが良いようでなによりだ"
+                                "\\N<Debt Collector>Good♪... It's nice that you listen well."
                             ]
                         },
                         {
@@ -7160,7 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>そうときたら……ホレッ"
+                                "\\N<Debt Collector>Now that we've settled that... Here!"
                             ]
                         },
                         {
@@ -7299,7 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>これは……？"
+                                "\\N<Taro>What's this...?"
                             ]
                         },
                         {
@@ -7316,7 +7057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>見ての通り\\C[2]スマホ\\C[0]だ"
+                                "\\N<Debt Collector>As you see, it's a \\C[2]smartphone\\C[0]."
                             ]
                         },
                         {
@@ -7333,14 +7074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>稼いだ金はそのスマホを使って送金しろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所持金が簡単に送金できるシステムになっている"
+                                "\\N<Debt Collector>Use that smartphone to send the money you earn. It's a\nsystem that makes it easy to transfer funds."
                             ]
                         },
                         {
@@ -7357,14 +7091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>ちょろまかそうとしたらすぐにわかるからな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計なことはすんなよ"
+                                "\\N<Debt Collector>If you try to cheat, I'll know immediately, so don't do\nanything unnecessary."
                             ]
                         },
                         {
@@ -7397,7 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……わかりました"
+                                "\\N<Taro>...Understood."
                             ]
                         },
                         {
@@ -7414,14 +7141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>島への移動手段は船しかねーから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあとすぐ港まで連れて行く……さっさと荷造りを始めろ"
+                                "\\N<Debt Collector>The only way to the island is by boat, so I'll take you to\nthe port right after this... Start packing quickly."
                             ]
                         },
                         {
@@ -7438,7 +7158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<借金取り>出発は1時間後だ、外で見張ってるから変な気起こすんじゃねーぞ？"
+                                "\\N<Debt Collector>Departure is in one hour. I'll be watching outside, so don't\nget any funny ideas."
                             ]
                         },
                         {
@@ -7479,14 +7199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　借金取りの男は一方的に言い残して外へ出ていった"
+                                "The debt collector left after saying his piece unilaterally."
                             ]
                         },
                         {
@@ -7503,21 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　プロポーズをして幸せになるはずだったTaroは一瞬にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　借金地獄生活へ落ち、目の前が真っ暗になった"
+                                "Taro, who was supposed to become happy by proposing,\nsuddenly fell into a life of debt hell, and everything\nbefore him turned pitch black."
                             ]
                         },
                         {
@@ -7723,7 +7422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>「サーギ商会」……めちゃくちゃな利息を要求してくるって噂、聞いたことある"
+                                "\\N<Luna>\"Scam Company\"... I've heard rumors about them demanding\nridiculous interest rates."
                             ]
                         },
                         {
@@ -7740,7 +7439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>お金を借りたって……一体何に使ったの？　私知らなかったよ"
+                                "\\N<Luna>You borrowed money... What did you use it for? I didn't know\nabout it."
                             ]
                         },
                         {
@@ -7757,7 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>…アイツらも言っていた通り、高レベルクエストを受けるためだよ"
+                                "\\N<Taro>...Just like they said, it was for taking on a high-level\nquest."
                             ]
                         },
                         {
@@ -7774,14 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>\\C[14]ある報酬アイテム\\C[0]がどうしても欲しくて借りたんだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "借金なんて初めてだったから全然勝手がわからなくて…まさかあんな落とし穴があるとは、くっ..."
+                                "\\C[14]\\N<Taro>There was a reward item that I really wanted... It was my\nfirst time borrowing money, so I had no idea how things\nworked... I never imagined there would be such a trap,\ndamn..."
                             ]
                         },
                         {
@@ -7814,14 +7506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>そ、そうだったんだ……私たちは冒険者だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうこともあると思うけど…それにしたってヒドイ話..."
+                                "\\N<Luna>So that's what happened... We're adventurers, so I guess\nthese things happen, but still... That's terrible..."
                             ]
                         },
                         {
@@ -7856,7 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(これは完全に自分で蒔いた種だよな…)"
+                                "\\N<Taro>(This is entirely my own doing...)"
                             ]
                         },
                         {
@@ -7882,7 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(くそ、プロポーズするはずがまさかのこんな展開になるなんて…)"
+                                "\\N<Taro>(Damn it, instead of proposing, who would have thought it\nwould turn out like this...)"
                             ]
                         },
                         {
@@ -7899,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>(だが悔んでもどうすることもできない、もうこれしかないか……)"
+                                "\\N<Taro>(But regretting it won't solve anything, this is the only\nway left...)"
                             ]
                         },
                         {
@@ -7916,14 +7601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>さっきは怖かったよね、本当にごめん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルナちゃんをこんな目に合わせて……恋人失格だな"
+                                "\\N<Taro>That was scary earlier, I'm really sorry... for putting\nLuna-chan through this... I'm not fit to be a lover."
                             ]
                         },
                         {
@@ -7965,7 +7643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ううん、全然気にしてないから平気"
+                                "\\N<Luna>No, it's totally fine, I'm not worried about it."
                             ]
                         },
                         {
@@ -7991,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……さっきの通り、僕はこれから島でモンスター狩りをしないといけない"
+                                "\\N<Taro>...As I said earlier, I have to go monster hunting on the\nisland now."
                             ]
                         },
                         {
@@ -8008,7 +7686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>もちろん1日でも早く1000万G稼いで帰ってくるつもりだ"
+                                "\\N<Taro>Of course, I plan to earn 10 million G and return as soon as\npossible."
                             ]
                         },
                         {
@@ -8034,7 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>でも知っての通り、モンスター狩りは危険な仕事だ"
+                                "\\N<Taro>But as you know, monster hunting is a dangerous job."
                             ]
                         },
                         {
@@ -8051,14 +7729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>万が一、僕に何かあって借金が支払えなくなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツら借金取りは彼女のルナちゃんを連れて行くだろう"
+                                "\\N<Taro>If something happens to me and I can't pay back the debt,\nthose debt collectors will take my girlfriend Luna-chan\naway."
                             ]
                         },
                         {
@@ -8075,7 +7746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>そんな光景想像しただけでも辛い、死ぬよりね"
+                                "\\N<Taro>Just imagining that scene is painful, worse than death."
                             ]
                         },
                         {
@@ -8101,7 +7772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>……だから"
+                                "\\N<Taro>...So"
                             ]
                         },
                         {
@@ -8118,7 +7789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ここは潔くルナちゃんと\"\\C[4]別れよう\\C[0]\"と思う…"
+                                "\\N<Taro>I think it's best to \"\\C[4]break up\\C[0]\" with Luna-chan\ncleanly..."
                             ]
                         },
                         {
@@ -8135,21 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　Taroはルナを心配するあまり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　　涙を呑んで決断した"
+                                "Taro made his decision with tears held back, out of concern\nfor Luna."
                             ]
                         },
                         {
@@ -8242,14 +7899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>ちょ、ちょっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてそうなるの？　そんな悲しいことを言わないで"
+                                "\\N<Luna>Wait, wait! Why does it have to come to that? Don't say such\nsad things."
                             ]
                         },
                         {
@@ -8266,7 +7916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>でも……"
+                                "\\N<Taro>But..."
                             ]
                         },
                         {
@@ -8283,14 +7933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>あなたの問題は私の問題でもあるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までも一緒にたくさんの苦難を乗り越えてきたでしょ？"
+                                "\\N<Luna>Your problem is my problem too! Haven't we overcome many\nhardships together until now?"
                             ]
                         },
                         {
@@ -8323,14 +7966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>私も\"一緒に\"行くから、早く借金を完済しちゃお？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人ならきっとすぐに終わるよ"
+                                "\\N<Luna>I'll \"go with you\" too, so let's pay off the debt quickly?\nIf we're together, we'll surely finish it soon."
                             ]
                         },
                         {
@@ -8347,7 +7983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ルナ>それで完済できたら……\"さっきの続き\"、聞かせて？"
+                                "\\N<Luna>And once it's all paid off... can you \"continue from\nearlier\" and tell me?"
                             ]
                         },
                         {
@@ -8364,7 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>ルナちゃん……"
+                                "\\N<Taro>Luna-chan..."
                             ]
                         },
                         {
