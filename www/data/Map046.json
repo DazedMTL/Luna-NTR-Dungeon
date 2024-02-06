@@ -12830,7 +12830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Receptionist>The bounty for defeating the boss monster reigning over the\ntop floor is \"[Color_17]5 million G\\C[17].\""
+                                "\\N<Receptionist>The bounty for defeating the boss monster reigning over the\ntop floor is \"\\C[17]5 million G\\C[17].\""
                             ]
                         },
                         {
