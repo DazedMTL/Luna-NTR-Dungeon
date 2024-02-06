@@ -17513,7 +17513,7 @@
         {
             "id": 21,
             "name": "EV021",
-            "note": "<namePop:I'm_sorry,_but_you've_provided_the_name_of_a_character,_Bob,_rather_than_a_location_name_to_translate._If_you_have_any_lines_of_text_or_location_names_from_the_game_that_you_need_translated,_please_provide_them,_and_I'll_be_happy_to_assist_you. 43>",
+            "note": "<namePop:ボブ 43>",
             "pages": [
                 {
                     "conditions": {
