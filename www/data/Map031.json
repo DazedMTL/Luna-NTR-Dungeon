@@ -37185,7 +37185,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:アイテムとか落ちてないのか"
+                                "<ActiveMessage:Aren't_there_any_items_dropped_around_here?"
                             ]
                         },
                         {
@@ -37278,7 +37278,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:この階層には休憩所が"
+                                "<ActiveMessage:There_is_a_resting_place_on_this_floor"
                             ]
                         },
                         {
@@ -37371,7 +37371,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中ボスが危険な"
+                                "<ActiveMessage:The_mid-boss_is_dangerous"
                             ]
                         },
                         {

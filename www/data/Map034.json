@@ -27720,7 +27720,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:やっと氷エリアから抜け出せたぜ…"
+                                "<ActiveMessage:Finally,_we've_escaped_from_the_ice_area"
                             ]
                         },
                         {
@@ -27813,7 +27813,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:この階層には仕掛けとか"
+                                "<ActiveMessage:There_are_traps_and_mechanisms_on_this_floor"
                             ]
                         },
                         {
@@ -27906,7 +27906,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:そろそろ次の中ボス向けに"
+                                "<ActiveMessage:It's_about_time_to_head_towards_the_next_mid-boss"
                             ]
                         },
                         {

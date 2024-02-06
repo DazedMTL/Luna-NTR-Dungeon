@@ -41761,7 +41761,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:森林エリアの敵は"
+                                "<ActiveMessage:The_enemies_in_the_forest_area"
                             ]
                         },
                         {
@@ -41854,7 +41854,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ここは3階層だから…"
+                                "<ActiveMessage:This_is_the_third_floor,_so"
                             ]
                         },
                         {
@@ -41947,7 +41947,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:この辺の敵は1体500Gかよ"
+                                "<ActiveMessage:The_enemies_around_here_are_worth_500G_each,_huh?"
                             ]
                         },
                         {
@@ -42338,7 +42338,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:私たち女性はセクハラ攻撃にも"
+                                "<ActiveMessage:We_women_are_also_subjected_to_sexual_harassment_attacks"
                             ]
                         },
                         {

@@ -34767,7 +34767,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中ボス対策で\"氷属性\"スキルと"
+                                "<ActiveMessage:For_the_mid-boss,_use_Ice_Attribute_skills_and"
                             ]
                         },
                         {
@@ -34860,7 +34860,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:そこの洞窟が休憩所か"
+                                "<ActiveMessage:Is_that_cave_over_there_the_resting_place?"
                             ]
                         },
                         {
@@ -34953,7 +34953,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ここの階層広いから"
+                                "<ActiveMessage:This_floor_is_so_spacious"
                             ]
                         },
                         {
@@ -35046,7 +35046,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:金色スライムの遭遇確率は…"
+                                "<ActiveMessage:The_encounter_rate_for_the_Golden_Slime_is"
                             ]
                         },
                         {

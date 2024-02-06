@@ -14580,7 +14580,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:コロシアム参加は"
+                                "<ActiveMessage:Participation_in_the_Colosseum_is"
                             ]
                         },
                         {
@@ -15304,10 +15304,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "20)",
-                                    "30)",
-                                    "40)",
-                                    "50)",
+                                    "Swordsman (Recommended Level: 20)",
+                                    "Martial Artist (Recommended Level: 30)",
+                                    "Magician (Recommended Level: 40)",
+                                    "Champion (Recommended Level: 50)",
                                     "Cancel\\B[4]"
                                 ],
                                 4,
@@ -27870,7 +27870,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:コロシアム参加は"
+                                "<ActiveMessage:Participation_in_the_Colosseum_is"
                             ]
                         },
                         {
@@ -41673,7 +41673,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:オラオラオラオラ！"
+                                "<ActiveMessage:Ora_ora_ora_ora!"
                             ]
                         },
                         {
@@ -41885,7 +41885,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:早く降参して俺に"
+                                "<ActiveMessage:Hurry_up_and_surrender_to_me"
                             ]
                         },
                         {
@@ -41973,7 +41973,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ウッヒョ～～♪"
+                                "<ActiveMessage:Woohoo~~♪"
                             ]
                         },
                         {
@@ -42061,7 +42061,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:女騎士のプライドも"
+                                "<ActiveMessage:Even_the_pride_of_a_female_knight"
                             ]
                         },
                         {
@@ -42149,7 +42149,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:早く降参して俺に"
+                                "<ActiveMessage:Surrender_quickly_to_me"
                             ]
                         },
                         {
@@ -42237,7 +42237,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ウッヒョ～～♪"
+                                "<ActiveMessage:Woo-hoo~♪"
                             ]
                         },
                         {
@@ -42325,7 +42325,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:女騎士のプライドも"
+                                "<ActiveMessage:The_pride_of_a_female_knight_as_well"
                             ]
                         },
                         {
@@ -42413,7 +42413,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ウッヒョ～～♪"
+                                "<ActiveMessage:Woohoo~♪"
                             ]
                         },
                         {
@@ -42501,7 +42501,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:イヤァ――抜いて！チンポ抜いてよ！"
+                                "<ActiveMessage:Nooo—pull_it_out!_Pull_your_dick_out!"
                             ]
                         },
                         {
@@ -42573,7 +42573,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:んあぁっ！そんなに激しくっ"
+                                "<ActiveMessage:Ahh!_Don't_be_so_rough"
                             ]
                         },
                         {
@@ -42645,7 +42645,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:申し訳ないっ…"
+                                "<ActiveMessage:I'm_sorry"
                             ]
                         },
                         {
@@ -42717,7 +42717,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:イヤァ――抜いて！チンポ抜いてよ！"
+                                "<ActiveMessage:Nooo—pull_it_out!_Pull_your_dick_out!"
                             ]
                         },
                         {
@@ -42789,7 +42789,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:んあぁっ！そんなに激しくっ"
+                                "<ActiveMessage:Ahh!_Don't_be_so_rough"
                             ]
                         },
                         {
@@ -42861,7 +42861,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:申し訳ないっ…"
+                                "<ActiveMessage:I'm_sorry"
                             ]
                         },
                         {
@@ -42933,7 +42933,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:んあぁっ！そんなに激しくっ"
+                                "<ActiveMessage:Ahh!_So_intense"
                             ]
                         },
                         {
@@ -43283,7 +43283,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:相手は魔法使いか…くっ、"
+                                "<ActiveMessage:The_opponent_is_a_mage,_huhugh"
                             ]
                         },
                         {
@@ -44378,7 +44378,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:まだまだ青いの～♪"
+                                "<ActiveMessage:You're_still_green~♪"
                             ]
                         },
                         {
@@ -44524,7 +44524,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:魔術師が優勢のように見えるが"
+                                "<ActiveMessage:It_seems_like_the_magician_has_the_upper_hand"
                             ]
                         },
                         {
@@ -44670,7 +44670,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:お楽しみタイム"
+                                "<ActiveMessage:Pleasure_Time"
                             ]
                         },
                         {
@@ -44765,7 +44765,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:おぉ～意外と巨乳じゃん♪"
+                                "<ActiveMessage:Oh~_Surprisingly_busty,_huh♪"
                             ]
                         },
                         {
@@ -44869,7 +44869,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:そろそろお開きか～"
+                                "<ActiveMessage:Is_it_about_time_to_call_it_a_night?~"
                             ]
                         },
                         {
@@ -45015,7 +45015,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:俺ならあんなザコ一発で"
+                                "<ActiveMessage:If_it_were_me,_I'd_take_down_such_a_weakling_in_one_hit"
                             ]
                         },
                         {
@@ -45161,7 +45161,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:レイプはまだか～♪"
+                                "<ActiveMessage:Is_the_rape_not_happening_yet~♪"
                             ]
                         },
                         {
@@ -45256,7 +45256,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:うっひょ～今日も敗北レイプ展開"
+                                "<ActiveMessage:Uhyo~_Another_defeat_rape_scenario_today"
                             ]
                         },
                         {
@@ -45360,7 +45360,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:よく鳴く女だったな"
+                                "<ActiveMessage:She_was_quite_the_screamer,_wasn't_she?"
                             ]
                         },
                         {
@@ -45506,7 +45506,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:すごいすごいー"
+                                "<ActiveMessage:Amazing,_amazing-"
                             ]
                         },
                         {
@@ -45652,7 +45652,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:冒険者のガチバトル"
+                                "<ActiveMessage:Adventurer's_Serious_Battle"
                             ]
                         },
                         {
@@ -45784,7 +45784,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:今日の女も良い女じゃねーか"
+                                "<ActiveMessage:Today's_girl_is_quite_the_catch,_isn't_she?"
                             ]
                         },
                         {
@@ -45879,7 +45879,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:容赦のないピストン"
+                                "<ActiveMessage:Relentless_piston"
                             ]
                         },
                         {
@@ -46126,7 +46126,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:アレだけ犯されれば"
+                                "<ActiveMessage:After_being_violated_that_much"
                             ]
                         },
                         {
@@ -46272,7 +46272,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:右の奴…敗北は"
+                                "<ActiveMessage:The_one_on_the_right_Defeat_is"
                             ]
                         },
                         {
@@ -46418,7 +46418,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:男！絶対に"
+                                "<ActiveMessage:Man!_Absolutely"
                             ]
                         },
                         {
@@ -46513,7 +46513,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:いいね～タップリ中出しして"
+                                "<ActiveMessage:Yeah~_Fill_me_up_with_lots_of_cum~"
                             ]
                         },
                         {
@@ -46617,7 +46617,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:来るの遅れたぜ…"
+                                "<ActiveMessage:I'm_late"
                             ]
                         },
                         {
@@ -46763,7 +46763,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ガンバレー！"
+                                "<ActiveMessage:Hang_in_there!"
                             ]
                         },
                         {
@@ -46909,7 +46909,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:夕方のバトルは観客少ないなぁ"
+                                "<ActiveMessage:There_are_few_spectators_for_the_evening_battle,_huh"
                             ]
                         },
                         {
@@ -47055,7 +47055,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:女性が負けたら"
+                                "<ActiveMessage:If_the_woman_loses"
                             ]
                         },
                         {
@@ -47150,7 +47150,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ちょ、ちょっとこれって…大衆の前で"
+                                "<ActiveMessage:Hey,_wait_a_minute_in_front_of_everyone"
                             ]
                         },
                         {
@@ -47254,7 +47254,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:今日まで特訓してきた"
+                                "<ActiveMessage:I've_been_training_hard_up_until_today"
                             ]
                         },
                         {
@@ -47423,7 +47423,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:うっうぅぅぅ…"
+                                "<ActiveMessage:Ughhh"
                             ]
                         },
                         {
@@ -47864,7 +47864,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:今回も楽しめた♪将来は"
+                                "<ActiveMessage:I_had_fun_this_time_too♪_In_the_future"
                             ]
                         },
                         {
@@ -48010,7 +48010,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:コロシアム参加は"
+                                "<ActiveMessage:Participation_in_the_Colosseum_is"
                             ]
                         },
                         {
@@ -48156,7 +48156,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:女負けろ女負けろ女負けろ"
+                                "<ActiveMessage:Lose,_girl,_lose,_girl,_lose,_girl"
                             ]
                         },
                         {
@@ -48251,7 +48251,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:嫌がってる女の喘ぎが"
+                                "<ActiveMessage:The_gasps_of_a_woman_who's_resisting"
                             ]
                         },
                         {
@@ -48429,7 +48429,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ワシも昔はよく"
+                                "<ActiveMessage:I_too_used_to"
                             ]
                         },
                         {
@@ -48585,7 +48585,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:次は俺の番か"
+                                "<ActiveMessage:Is_it_my_turn_next?"
                             ]
                         },
                         {
@@ -48731,7 +48731,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:相手のMP切れでなんとか"
+                                "<ActiveMessage:Somehow_managed_it_with_the_opponent_running_out_of_MP"
                             ]
                         },
                         {
@@ -48878,7 +48878,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:帰ってあの女をオカズに"
+                                "<ActiveMessage:I'll_go_back_and_use_that_woman_as_my_jerk-off_material"
                             ]
                         },
                         {
@@ -49024,7 +49024,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:今日も男が勝ちそうだな♪"
+                                "<ActiveMessage:Looks_like_the_guys_are_going_to_win_again_today♪"
                             ]
                         },
                         {
@@ -49119,7 +49119,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:うっひょ～これは風俗よりも"
+                                "<ActiveMessage:Ohh~_This_is_even_better_than_a_brothel"
                             ]
                         },
                         {
@@ -49297,7 +49297,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あのレベルでは"
+                                "<ActiveMessage:At_that_level"
                             ]
                         },
                         {
@@ -49443,7 +49443,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:単純すぎる戦略ね…そもそも"
+                                "<ActiveMessage:Such_a_simple_strategy_In_the_first_place"
                             ]
                         },
                         {
@@ -49589,7 +49589,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:力の差があり過ぎるわ"
+                                "<ActiveMessage:The_difference_in_power_is_just_too_great"
                             ]
                         },
                         {
@@ -49684,7 +49684,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:戦いを性交の道具にするとは"
+                                "<ActiveMessage:To_turn_battle_into_a_tool_for_sexual_intercourse"
                             ]
                         },
                         {
@@ -49913,7 +49913,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:やっぱ昼よりも夜の方が"
+                                "<ActiveMessage:After_all,_the_night_is_better_than_the_day"
                             ]
                         },
                         {
@@ -50008,7 +50008,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:ひゅ～負ければレイプってこと"
+                                "<ActiveMessage:Phew~_So_if_I_lose,_it_means_I'll_be_raped"
                             ]
                         },
                         {
@@ -51430,7 +51430,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:こっ…こんなのって…"
+                                "<ActiveMessage:Th-this_is"
                             ]
                         },
                         {
@@ -51502,7 +51502,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あっ…あぁ……"
+                                "<ActiveMessage:Ah_Aah"
                             ]
                         },
                         {
@@ -51574,7 +51574,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:こっ…こんなのって…"
+                                "<ActiveMessage:Th-this_is"
                             ]
                         },
                         {
@@ -51646,7 +51646,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あんなに乞いたのに"
+                                "<ActiveMessage:Even_though_I_begged_so_much"
                             ]
                         },
                         {
@@ -51718,7 +51718,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あっ…あぁ……"
+                                "<ActiveMessage:Ah_Aah"
                             ]
                         },
                         {
@@ -51790,7 +51790,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:こっ…こんなのって…"
+                                "<ActiveMessage:Th-this_is"
                             ]
                         },
                         {
@@ -51862,7 +51862,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あんなに乞いたのに"
+                                "<ActiveMessage:Even_though_I_begged_so_much"
                             ]
                         },
                         {

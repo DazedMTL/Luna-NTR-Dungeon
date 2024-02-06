@@ -34805,7 +34805,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:小屋が見えるわ♪"
+                                "<ActiveMessage:I_can_see_the_cabin♪"
                             ]
                         },
                         {
@@ -34898,7 +34898,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中ボスは次の階層か"
+                                "<ActiveMessage:Is_the_mid-boss_on_the_next_floor?"
                             ]
                         },
                         {
@@ -34991,7 +34991,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中ボスは腕力が半端ないのか♪"
+                                "<ActiveMessage:Is_the_mid-boss's_strength_out_of_this_world?♪"
                             ]
                         },
                         {

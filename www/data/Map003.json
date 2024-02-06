@@ -9230,7 +9230,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:冒険者たちを眺めてると"
+                                "<ActiveMessage:Watching_the_adventurers"
                             ]
                         },
                         {
@@ -9361,7 +9361,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:今日もそこそこ狩れたし"
+                                "<ActiveMessage:We_managed_to_hunt_quite_a_bit_today_too"
                             ]
                         },
                         {

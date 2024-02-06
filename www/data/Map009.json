@@ -29255,7 +29255,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:下の階層よりは"
+                                "<ActiveMessage:From_the_lower_levels"
                             ]
                         },
                         {
@@ -29348,7 +29348,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:敵は弱いとはいえ"
+                                "<ActiveMessage:The_enemy_might_be_weak,_but"
                             ]
                         },
                         {
@@ -29441,7 +29441,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:上階段がなかなか"
+                                "<ActiveMessage:The_upstairs_is_quite_something"
                             ]
                         },
                         {
@@ -29534,7 +29534,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:4～5階層にいるレアモンスター"
+                                "<ActiveMessage:Rare_monster_on_the_4th_to_5th_floors"
                             ]
                         },
                         {

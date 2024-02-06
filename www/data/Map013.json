@@ -56290,7 +56290,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:発情メス状態で"
+                                "<ActiveMessage:In_heat_female_state"
                             ]
                         },
                         {
@@ -56383,7 +56383,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:セックスセックス"
+                                "<ActiveMessage:Sex_sex"
                             ]
                         },
                         {
@@ -56476,7 +56476,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:あとちょっとでダンジョン出口ね"
+                                "<ActiveMessage:We're_almost_at_the_dungeon_exit"
                             ]
                         },
                         {
@@ -56569,7 +56569,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:そこの洞窟で隠れて"
+                                "<ActiveMessage:Hide_in_that_cave_over_there"
                             ]
                         },
                         {
@@ -56662,7 +56662,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:もう我慢できない♥"
+                                "<ActiveMessage:I_can't_hold_back_anymore♥"
                             ]
                         },
                         {
@@ -56758,7 +56758,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\\C[27]セックス最高～♥♥♥"
+                                "<ActiveMessage:\\C[27]Sex_is_the_best~♥♥♥"
                             ]
                         },
                         {
@@ -56854,7 +56854,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:\\C[27]んほぉぉ～子宮までチンポ"
+                                "<ActiveMessage:\\C[27]Ahhhh~_Your_cock_is_reaching_all_the_way_to_my_womb~"
                             ]
                         },
                         {
@@ -56950,7 +56950,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:岩にぶつかったら"
+                                "<ActiveMessage:If_you_hit_a_rock"
                             ]
                         },
                         {
@@ -57043,7 +57043,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "<ActiveMessage:中ボス戦前ですでに"
+                                "<ActiveMessage:Already_before_the_mid-boss_battle"
                             ]
                         },
                         {
