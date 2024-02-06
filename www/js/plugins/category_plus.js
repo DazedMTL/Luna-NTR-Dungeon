@@ -24,7 +24,7 @@
     this.addCommand(TextManager.weapon, "weapon");
     this.addCommand(TextManager.armor, "armor");
     this.addCommand(TextManager.keyItem, "keyItem");
-    this.addCommand("討伐モンスター", "討伐モンスター"); //引数1がメニューでの表示名、引数2がデータ上の分類名
+    this.addCommand("Monsters", "Monsters"); //引数1がメニューでの表示名、引数2がデータ上の分類名
   };
   //(もし追加カテゴリーを一番後ろ以外に持ってきたい場合は↑の並び順を入れ替えるとそれがそのまま反映されます)
 
@@ -41,7 +41,7 @@
         return DataManager.isArmor(item);
       case "keyItem":
         return DataManager.isItem(item) && item.itypeId === 2;
-      case "討伐モンスター": //← 上の引数2で指定した名前
+      case "Monsters": //← 上の引数2で指定した名前
         return DataManager.isItem(item) && item.itypeId === 3; //この条件を満たしたアイテムが新しいカテゴリに入る
       default:
         return false;

@@ -1116,7 +1116,7 @@
 
   //22/12/27 追記
   Window_PartyMemberChoice.prototype.drawAllItems = function () {
-    this.drawText("【パーティー】", 0, 0, this.contentsWidth());
+    this.drawText("【PARTY】", 0, 0, this.contentsWidth());
     Window_MenuStatus.prototype.drawAllItems.call(this);
   };
 

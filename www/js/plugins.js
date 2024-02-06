@@ -1240,7 +1240,7 @@ var $plugins = [
     status: true,
     description: "エロステータス作れちゃうプラグイン(本体)",
     parameters: {
-      eroStaName: "エロステータス",
+      eroStaName: "Ero Status",
       "": "",
       commonEvent: "47",
       param1ValId: "143_\\N[2],144_アラシ,145_ドルトン,146_ボブ,147_ショウタ",
@@ -4496,7 +4496,7 @@ var $plugins = [
     name: "TMItemCategoryEx",
     status: true,
     description: "アイテムカテゴリの追加、削除をおこないます。",
-    parameters: { categoryList: "item weapon armor keyItem 討伐モンスター" },
+    parameters: { categoryList: "item weapon armor keyItem Monsters" },
   },
   {
     name: "metal_enemy",
@@ -4624,7 +4624,7 @@ var $plugins = [
       抵抗失敗時メッセージ: "は抵抗に失敗した！",
       抵抗表記: "もがく",
       AP表記: "AP",
-      特定変数表記１: "淫乱度",
+      特定変数表記１: "Lewdness",
       特定変数表記２: "特変２",
       身体の装備を外せない際のメッセージ: "装備を外せません",
       敗北後拘束１のバトルログメッセージ: "\\Aは\\Eに挿入体勢に固定された",
