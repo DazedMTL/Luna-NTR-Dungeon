@@ -185,7 +185,7 @@ var $plugins = [
     parameters: {
       月ごとの日数配列: "31,28,31,30,31,30,31,31,30,31,30,31",
       月名配列: "Jan.,Feb.,Mar.,Apr.,May.,Jun.,Jul.,Aug.,Sep.,Oct.,Nov.,Dec.",
-      曜日配列: "【MON】,【TUE】,【WED】,【THU】,【FRI】,【SAT】,【SUN】",
+      曜日配列: "【SUN】,【MON】,【TUE】,【WED】,【THU】,【FRI】,【SAT】",
       自然時間加算: "10",
       自然時間加算間隔: "180",
       場所移動時間加算: "0",
