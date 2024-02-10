@@ -3235,7 +3235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]Titty Fuck[C_0]+1"
+                                "\\C[27]Titty Fuck\\C[0]+1"
                             ]
                         },
                         {
@@ -3277,7 +3277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]Fellatio[C_0]+1"
+                                "\\C[27]Fellatio\\C[0]+1"
                             ]
                         },
                         {
@@ -3319,7 +3319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]Cum in Mouth[C_0]+1"
+                                "\\C[27]Cum in Mouth\\C[0]+1"
                             ]
                         },
                         {
@@ -3373,7 +3373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]Semen Extracted[C_0]+[V_0]ml"
+                                "\\C[27]Semen Extracted\\C[0]+\\V[91]ml"
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27]Lewdness[C_0]+5"
+                                "\\C[27]Lewdness\\C[0]+5"
                             ]
                         },
                         {
