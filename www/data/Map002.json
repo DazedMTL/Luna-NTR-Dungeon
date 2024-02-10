@@ -5986,7 +5986,7 @@
                                     "Dalton",
                                     "Bob",
                                     "Arashi",
-                                    "Shouta",
+                                    "Syouta",
                                     "Cancel\\B[4]"
                                 ],
                                 5,
@@ -6958,7 +6958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It seems that Shouta's intimacy level has increased\nslightly."
+                                "It seems that Syouta's intimacy level has increased\nslightly."
                             ]
                         },
                         {
@@ -7031,7 +7031,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It seems that Shouta's intimacy level has decreased\nslightly."
+                                "It seems that Syouta's intimacy level has decreased\nslightly."
                             ]
                         },
                         {

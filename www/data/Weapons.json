@@ -1611,7 +1611,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "----Wooden Sword (Shouta)---------",
+        "name": "----Wooden Sword (Syouta)---------",
         "note": "",
         "params": [
             0,
@@ -1629,7 +1629,7 @@
     {
         "id": 48,
         "animationId": 6,
-        "description": "A cheap wooden sword often used for training and practice [Shouta\nExclusive] [Attack +4・Defense +1]",
+        "description": "A cheap wooden sword often used for training and practice [Syouta\nExclusive] [Attack +4・Defense +1]",
         "etypeId": 1,
         "traits": [
             {
@@ -1662,7 +1662,7 @@
     {
         "id": 49,
         "animationId": 6,
-        "description": "A light and sturdy wooden sword with decent striking power [Shouta\nExclusive] [Attack +6・Defense +2・Agility +2]",
+        "description": "A light and sturdy wooden sword with decent striking power [Syouta\nExclusive] [Attack +6・Defense +2・Agility +2]",
         "etypeId": 1,
         "traits": [
             {
@@ -1695,7 +1695,7 @@
     {
         "id": 50,
         "animationId": 6,
-        "description": "A high-quality wooden sword with a pleasant scent that also increases\nHP [Shouta Exclusive] [Attack +9・Defense +4・HP+300]",
+        "description": "A high-quality wooden sword with a pleasant scent that also increases\nHP [Syouta Exclusive] [Attack +9・Defense +4・HP+300]",
         "etypeId": 1,
         "traits": [
             {
@@ -1728,7 +1728,7 @@
     {
         "id": 51,
         "animationId": 7,
-        "description": "A wooden sword equipped by adventurers who have overcome numerous\ntrials [Shouta Exclusive] [Attack+15; Defense+7; Agility+5]",
+        "description": "A wooden sword equipped by adventurers who have overcome numerous\ntrials [Syouta Exclusive] [Attack+15; Defense+7; Agility+5]",
         "etypeId": 1,
         "traits": [
             {
@@ -1794,7 +1794,7 @@
     {
         "id": 53,
         "animationId": 6,
-        "description": "A flexible wooden sword that can bend well, allowing it to deal damage\ntwice to an enemy [Shouta Exclusive] [Attack+5; Defense+2]",
+        "description": "A flexible wooden sword that can bend well, allowing it to deal damage\ntwice to an enemy [Syouta Exclusive] [Attack+5; Defense+2]",
         "etypeId": 1,
         "traits": [
             {
